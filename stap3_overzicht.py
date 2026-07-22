@@ -23,7 +23,7 @@ WEERVELD_LABELS = {
     "windms":   ("Windsnelheid", "m/s", "💨"),
     "windbft":  ("Windkracht", "Bft", "💨"),
     "luchtd":   ("Luchtdruk", "hPa", "📊"),
-    "zicht":    ("Zicht", "km", "👁️"),
+    "zicht":    ("Zicht", "m", "👁️"),
     "gr":       ("Zonnestraling", "W/m²", "☀️"),
     "sup":      ("Zon op", "", "🌅"),
     "sunder":   ("Zon onder", "", "🌇"),
