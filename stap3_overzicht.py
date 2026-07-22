@@ -180,12 +180,62 @@ def main():
     pad_laatste_beeld = vind_laatste_bestand("satelliet_laatste_*.jpg")
     pad_loop = vind_laatste_bestand("satelliet_loop_*.gif")
 
-    html = bouw_html(laatste_weerdata, samenvatting_24u, pad_laatste_beeld, pad_loop)
+    ruwe_html = bouw_html(laatste_weerdata, samenvatting_24u, pad_laatste_beeld, pad_loop)
+    beveiligde_html = voeg_wachtwoordbeveiliging_toe(ruwe_html)
 
     with open(OUTPUT_HTML, "w", encoding="utf-8") as f:
-        f.write(html)
+        f.write(beveiligde_html)
 
-    print(f"Overzicht gegenereerd: {OUTPUT_HTML}")
+    print(f"Overzicht (beveiligd) gegenereerd: {OUTPUT_HTML}")
+
+WACHTWOORD = "weersverwachting"   # <-- pas dit aan naar wat jij wilt
+
+def voeg_wachtwoordbeveiliging_toe(html_inhoud):
+    return f"""<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="UTF-8">
+<title>Weeroverzicht - Login</title>
+<style>
+  body {{ font-family: Arial, sans-serif; background: #1a2733; height: 100vh; margin:0; display:flex; align-items:center; justify-content:center; }}
+  #login-box {{ background: white; padding: 40px; border-radius: 12px; text-align:center; width: 280px; }}
+  #login-box input {{ width: 100%; padding: 10px; margin: 15px 0; border: 1px solid #ccc; border-radius: 6px; box-sizing: border-box; }}
+  #login-box button {{ width: 100%; padding: 10px; background: #1a5f9e; color: white; border: none; border-radius: 6px; cursor: pointer; font-size: 15px; }}
+  #fout {{ color: #c0392b; font-size: 13px; height: 16px; }}
+</style>
+</head>
+<body>
+
+<div id="login-box">
+  <h3>🔒 Weeroverzicht</h3>
+  <input type="password" id="wachtwoord-invoer" placeholder="Wachtwoord" autofocus>
+  <div id="fout"></div>
+  <button onclick="controleer()">Openen</button>
+</div>
+
+<div id="inhoud" style="display:none;">
+{html_inhoud}
+</div>
+
+<script>
+function controleer() {{
+  const invoer = document.getElementById('wachtwoord-invoer').value;
+  if (invoer === "{WACHTWOORD}") {{
+    sessionStorage.setItem('toegang_ok', 'true');
+    document.body.innerHTML = document.getElementById('inhoud').innerHTML;
+  }} else {{
+    document.getElementById('fout').innerText = "Onjuist wachtwoord";
+  }}
+}}
+document.getElementById('wachtwoord-invoer').addEventListener('keyup', function(e) {{
+  if (e.key === 'Enter') controleer();
+}});
+if (sessionStorage.getItem('toegang_ok') === 'true') {{
+  document.body.innerHTML = document.getElementById('inhoud').innerHTML;
+}}
+</script>
+</body>
+</html>"""
 
 if __name__ == "__main__":
     main()
