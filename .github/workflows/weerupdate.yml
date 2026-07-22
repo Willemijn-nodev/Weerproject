@@ -1,0 +1,43 @@
+name: Weerupdate
+
+on:
+  schedule:
+    - cron: '0 * * * *'   # elk uur, op het hele uur (tijd in UTC)
+  workflow_dispatch: {}     # hiermee kun je 'm ook handmatig starten via GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository ophalen
+        uses: actions/checkout@v4
+
+      - name: Python instellen
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Bibliotheken installeren
+        run: pip install -r requirements.txt
+
+      - name: Actuele data ophalen
+        env:
+          WEERLIVE_API_KEY: ${{ secrets.WEERLIVE_API_KEY }}
+        run: python stap1_actuele_data.py
+
+      - name: Satellietbeelden ophalen
+        run: python stap2_satelliet.py
+
+      - name: Overzicht bouwen
+        run: python stap3_overzicht.py
+
+      - name: Wijzigingen terugzetten in de repository
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add -A
+          git commit -m "Automatische weerupdate" || echo "Niets gewijzigd"
+          git push
