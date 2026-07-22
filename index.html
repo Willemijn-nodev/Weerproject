@@ -1,50 +1,82 @@
 <!DOCTYPE html>
-<html lang="nl"><head><meta charset="UTF-8"><title>Weeroverzicht - Login</title>
+<html lang="nl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Weeroverzicht</title>
 <style>
-body { font-family: Arial, sans-serif; background: #1a2733; height: 100vh; margin:0; display:flex; align-items:center; justify-content:center; }
-#login-box { background: white; padding: 40px; border-radius: 12px; text-align:center; width: 280px; }
-#login-box input { width: 100%; padding: 10px; margin: 15px 0; border: 1px solid #ccc; border-radius: 6px; box-sizing: border-box; }
-#login-box button { width: 100%; padding: 10px; background: #1a5f9e; color: white; border: none; border-radius: 6px; cursor: pointer; font-size: 15px; }
-#fout { color: #c0392b; font-size: 13px; height: 16px; }
-</style></head><body>
-<div id="login-box"><h3>🔒 Weeroverzicht</h3><input type="password" id="wachtwoord-invoer" placeholder="Wachtwoord" autofocus><div id="fout"></div><button onclick="controleer()">Openen</button></div>
-<div id="inhoud" style="display:none;"><!DOCTYPE html>
-<html lang="nl"><head><meta charset="UTF-8"><title>Weeroverzicht</title>
+  body { margin: 0; font-family: Arial, sans-serif; }
+  #login-overlay {
+    position: fixed; inset: 0; background: #1a2733;
+    display: flex; align-items: center; justify-content: center; z-index: 1000;
+  }
+  #login-box { background: white; padding: 40px; border-radius: 12px; text-align:center; width: 280px; }
+  #login-box input { width: 100%; padding: 10px; margin: 15px 0; border: 1px solid #ccc; border-radius: 6px; box-sizing: border-box; }
+  #login-box button { width: 100%; padding: 10px; background: #1a5f9e; color: white; border: none; border-radius: 6px; cursor: pointer; font-size: 15px; }
+  #fout { color: #c0392b; font-size: 13px; height: 16px; }
+  #inhoud { display: none; }
+</style>
+</head>
+<body>
+
+<div id="login-overlay">
+  <div id="login-box">
+    <h3>🔒 Weeroverzicht</h3>
+    <input type="password" id="wachtwoord-invoer" placeholder="Wachtwoord" autofocus>
+    <div id="fout"></div>
+    <button onclick="controleer()">Openen</button>
+  </div>
+</div>
+
+<div id="inhoud">
+
 <style>
 :root { --blauw: #1a5f9e; --lichtblauw: #eaf2fa; --grijs: #6b7785; --rand: #dde3ea; --oranje: #e8752c; }
 * { box-sizing: border-box; }
-body { font-family: 'Segoe UI', Arial, sans-serif; margin: 0; padding: 30px; background: #f0f3f7; color: #1e2733; }
-.wrap { max-width: 1200px; margin: 0 auto; }
-header h1 { margin: 0; color: var(--blauw); font-size: 28px; }
-header p { margin: 4px 0 0; color: var(--grijs); font-size: 14px; }
+.wrap { max-width: 1200px; margin: 0 auto; padding: 30px; font-family: 'Segoe UI', Arial, sans-serif; background: #f0f3f7; color: #1e2733; }
+.wrap header h1 { margin: 0; color: var(--blauw); font-size: 28px; }
+.wrap header p { margin: 4px 0 0; color: var(--grijs); font-size: 14px; }
 .card { background: white; border-radius: 12px; padding: 22px 26px; margin-bottom: 22px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); border: 1px solid var(--rand); }
 .card h2 { margin: 0 0 15px; font-size: 17px; color: var(--blauw); }
 .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 12px; }
 .subcard { background: var(--lichtblauw); border-radius: 8px; padding: 12px; }
-.sat-img { width: 100%; min-height: 500px; object-fit: contain; border-radius: 8px; border: 1px solid var(--rand); background: #000; }
+.sat-img { width: 100%; height: auto; border-radius: 8px; border: 1px solid var(--rand); background: #000; }
 .empty { color: var(--grijs); font-style: italic; }
 .warning-item { background: #fff3e8; border-left: 4px solid var(--oranje); padding: 10px 14px; border-radius: 6px; margin-bottom: 8px; font-size: 14px; }
 .badge { background: var(--oranje); color: white; padding: 2px 8px; border-radius: 10px; font-size: 11px; margin-left: 6px; }
-</style></head><body><div class="wrap">
-<header><h1>🌦️ Weeroverzicht — De Bilt</h1><p>Gegenereerd op 22-07-2026 10:09 · bron: KNMI / Weerlive.nl</p></header>
-<div class="card"><h2>📊 Actuele data</h2><div class="grid"><div class="subcard"><div style="font-size:12px;color:var(--grijs);">🌡️ Temperatuur</div><div style="font-size:20px;font-weight:600;">18.1°C</div></div><div class="subcard"><div style="font-size:12px;color:var(--grijs);">💦 Dauwpunt</div><div style="font-size:20px;font-weight:600;">13.9°C</div></div><div class="subcard"><div style="font-size:12px;color:var(--grijs);">💧 Luchtvochtigheid</div><div style="font-size:20px;font-weight:600;">78%</div></div><div class="subcard"><div style="font-size:12px;color:var(--grijs);">🥶 Gevoelstemperatuur</div><div style="font-size:20px;font-weight:600;">16.8°C</div></div><div class="subcard"><div style="font-size:12px;color:var(--grijs);">🧭 Windrichting</div><div style="font-size:20px;font-weight:600;">NW</div></div><div class="subcard"><div style="font-size:12px;color:var(--grijs);">🧭 Windrichting</div><div style="font-size:20px;font-weight:600;">310.8°</div></div><div class="subcard"><div style="font-size:12px;color:var(--grijs);">💨 Windsnelheid</div><div style="font-size:20px;font-weight:600;">2.86m/s</div></div><div class="subcard"><div style="font-size:12px;color:var(--grijs);">💨 Windkracht</div><div style="font-size:20px;font-weight:600;">2Bft</div></div><div class="subcard"><div style="font-size:12px;color:var(--grijs);">📊 Luchtdruk</div><div style="font-size:20px;font-weight:600;">1023.52hPa</div></div><div class="subcard"><div style="font-size:12px;color:var(--grijs);">👁️ Zicht</div><div style="font-size:20px;font-weight:600;">42300km</div></div><div class="subcard"><div style="font-size:12px;color:var(--grijs);">☀️ Zonnestraling</div><div style="font-size:20px;font-weight:600;">147W/m²</div></div><div class="subcard"><div style="font-size:12px;color:var(--grijs);">☁️ Weersgesteldheid</div><div style="font-size:20px;font-weight:600;">Zwaar bewolkt</div></div><div class="subcard"><div style="font-size:12px;color:var(--grijs);">🌅 Zon op</div><div style="font-size:20px;font-weight:600;">05:44</div></div><div class="subcard"><div style="font-size:12px;color:var(--grijs);">🌇 Zon onder</div><div style="font-size:20px;font-weight:600;">21:47</div></div><div class="subcard"><div style="font-size:12px;color:var(--grijs);">• time</div><div style="font-size:20px;font-weight:600;">22-07-2026 11:58:03</div></div></div></div>
+</style>
+<div class="wrap">
+<header><h1>🌦️ Weeroverzicht — De Bilt</h1><p>Gegenereerd op 22-07-2026 10:21 · bron: KNMI / Weerlive.nl</p></header>
+<div class="card"><h2>📊 Actuele data</h2><div class="grid"><div class="subcard"><div style="font-size:12px;color:var(--grijs);">🌡️ Temperatuur</div><div style="font-size:20px;font-weight:600;">18.8°C</div></div><div class="subcard"><div style="font-size:12px;color:var(--grijs);">💦 Dauwpunt</div><div style="font-size:20px;font-weight:600;">14.4°C</div></div><div class="subcard"><div style="font-size:12px;color:var(--grijs);">💧 Luchtvochtigheid</div><div style="font-size:20px;font-weight:600;">78%</div></div><div class="subcard"><div style="font-size:12px;color:var(--grijs);">🥶 Gevoelstemperatuur</div><div style="font-size:20px;font-weight:600;">16.8°C</div></div><div class="subcard"><div style="font-size:12px;color:var(--grijs);">🧭 Windrichting</div><div style="font-size:20px;font-weight:600;">WNW</div></div><div class="subcard"><div style="font-size:12px;color:var(--grijs);">🧭 Windrichting</div><div style="font-size:20px;font-weight:600;">292°</div></div><div class="subcard"><div style="font-size:12px;color:var(--grijs);">💨 Windsnelheid</div><div style="font-size:20px;font-weight:600;">3.58m/s</div></div><div class="subcard"><div style="font-size:12px;color:var(--grijs);">💨 Windkracht</div><div style="font-size:20px;font-weight:600;">3Bft</div></div><div class="subcard"><div style="font-size:12px;color:var(--grijs);">📊 Luchtdruk</div><div style="font-size:20px;font-weight:600;">1023.42hPa</div></div><div class="subcard"><div style="font-size:12px;color:var(--grijs);">👁️ Zicht</div><div style="font-size:20px;font-weight:600;">33600km</div></div><div class="subcard"><div style="font-size:12px;color:var(--grijs);">☀️ Zonnestraling</div><div style="font-size:20px;font-weight:600;">305W/m²</div></div><div class="subcard"><div style="font-size:12px;color:var(--grijs);">☁️ Weersgesteldheid</div><div style="font-size:20px;font-weight:600;">Zwaar bewolkt</div></div><div class="subcard"><div style="font-size:12px;color:var(--grijs);">🌅 Zon op</div><div style="font-size:20px;font-weight:600;">05:44</div></div><div class="subcard"><div style="font-size:12px;color:var(--grijs);">🌇 Zon onder</div><div style="font-size:20px;font-weight:600;">21:47</div></div><div class="subcard"><div style="font-size:12px;color:var(--grijs);">• time</div><div style="font-size:20px;font-weight:600;">22-07-2026 12:18:03</div></div></div></div>
 <div class="card"><h2>⚠️ Waarschuwing nu</h2><p class="empty">Op dit moment geen actieve KNMI-waarschuwing.</p></div>
-<div class="card"><h2>🔜 Aankomende waarschuwing</h2>
-    <div class="warning-item" style="font-size:15px;">
-      <b>🔜 Eerstvolgende waarschuwing</b> <span class="badge">-</span>
-      <p style="margin:6px 0 0;">Vanaf: -</p>
-    </div></div>
-<div class="card"><h2>🌡️ Tmin / Tmax (24u)</h2><div class="grid"><div class="subcard"><b>Tmin (24u)</b><br>17.4°C</div><div class="subcard"><b>Tmax (24u)</b><br>18.1°C</div><div class="subcard"><b>Metingen</b><br>4</div></div></div>
+<div class="card"><h2>🔜 Aankomende waarschuwing</h2><p class="empty">Geen bekende aankomende waarschuwing.</p></div>
+<div class="card"><h2>🌡️ Tmin / Tmax (24u)</h2><div class="grid"><div class="subcard"><b>Tmin (24u)</b><br>17.4°C</div><div class="subcard"><b>Tmax (24u)</b><br>18.8°C</div><div class="subcard"><b>Metingen</b><br>5</div></div></div>
 <div class="card"><h2>📋 Waarschuwingen (24u historie)</h2><p class="empty">Geen waarschuwingen in de afgelopen 24 uur (eigen metingen).</p></div>
-<div class="card"><h2>🛰️ Satellietbeeld</h2><img class="sat-img" src="satellietbeelden/satelliet_laatste_20260722_1009.jpg"></div>
-<div class="card"><h2>🔁 Satellietloop (6u)</h2><img class="sat-img" src="satellietbeelden/satelliet_loop_20260722_1009.gif"></div>
-</div></body></html></div>
+<div class="card"><h2>🛰️ Satellietbeeld</h2><img class="sat-img" src="satellietbeelden/satelliet_laatste_20260722_1021.jpg"></div>
+<div class="card"><h2>🔁 Satellietloop (6u)</h2><img class="sat-img" src="satellietbeelden/satelliet_loop_20260722_1021.gif"></div>
+</div>
+</div>
+
 <script>
+function toonInhoud() {
+  document.getElementById('login-overlay').style.display = 'none';
+  document.getElementById('inhoud').style.display = 'block';
+}
 function controleer() {
   const invoer = document.getElementById('wachtwoord-invoer').value;
-  if (invoer === "weersverwachting") { sessionStorage.setItem('toegang_ok', 'true'); document.body.innerHTML = document.getElementById('inhoud').innerHTML; }
-  else { document.getElementById('fout').innerText = "Onjuist wachtwoord"; }
+  if (invoer === "weersverwachting") {
+    sessionStorage.setItem('toegang_ok', 'true');
+    toonInhoud();
+  } else {
+    document.getElementById('fout').innerText = "Onjuist wachtwoord";
+  }
 }
-document.getElementById('wachtwoord-invoer').addEventListener('keyup', function(e) { if (e.key === 'Enter') controleer(); });
-if (sessionStorage.getItem('toegang_ok') === 'true') { document.body.innerHTML = document.getElementById('inhoud').innerHTML; }
-</script></body></html>
+document.getElementById('wachtwoord-invoer').addEventListener('keyup', function(e) {
+  if (e.key === 'Enter') controleer();
+});
+if (sessionStorage.getItem('toegang_ok') === 'true') {
+  toonInhoud();
+}
+</script>
+</body>
+</html>
