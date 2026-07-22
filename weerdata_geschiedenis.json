@@ -1504,5 +1504,41 @@
       }
     ],
     "opgehaald_op": "2026-07-22T15:53:25.902450"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1784751482,
+        "time": "22-07-2026 22:18:02",
+        "temp": 16.7,
+        "gtemp": 16.1,
+        "samenv": "Lichte regen",
+        "lv": 73,
+        "windr": "NNW",
+        "windrgr": 322.1,
+        "windms": 1.71,
+        "windbft": 2,
+        "windknp": 3.3,
+        "windkmh": 6.2,
+        "luchtd": 1022.62,
+        "ldmmhg": 767,
+        "dauwp": 11.8,
+        "zicht": 25100,
+        "gr": 0,
+        "verw": "Vrij veel bewolking en af en toe (lichte) regen.",
+        "sup": "05:44",
+        "sunder": "21:47",
+        "image": "regen",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 22/07/2026 19:50 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-07-22T20:19:09.018221"
   }
 ]
