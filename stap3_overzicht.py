@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 # ============ CONFIGURATIE ============
 DATA_FILE = "weerdata_geschiedenis.json"
 SATELLIET_MAP = "satellietbeelden"
-OUTPUT_HTML = "overzicht.html"
+OUTPUT_HTML = "index.html"
 
 def laad_geschiedenis():
     if not os.path.exists(DATA_FILE):
