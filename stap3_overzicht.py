@@ -69,6 +69,21 @@ def bereken_24uurs_samenvatting(geschiedenis):
         "waarschuwingen_24u": waarschuwingen
     }
 
+def render_versheid_check(laatste_weerdata):
+    if not laatste_weerdata or "opgehaald_op" not in laatste_weerdata:
+        return '<div class="status-fout">🔴 Geen data beschikbaar — het ophaalscript heeft nog nooit succesvol gedraaid.</div>'
+
+    laatste_tijd = datetime.fromisoformat(laatste_weerdata["opgehaald_op"])
+    minuten_oud = int((datetime.now() - laatste_tijd).total_seconds() / 60)
+
+    if minuten_oud <= 90:
+        return f'<div class="status-goed">🟢 Data is actueel (laatste update: {minuten_oud} min geleden)</div>'
+    elif minuten_oud <= 240:
+        return f'<div class="status-waarschuwing">🟡 Data begint verouderd te raken (laatste update: {minuten_oud} min geleden)</div>'
+    else:
+        uren_oud = round(minuten_oud / 60, 1)
+        return f'<div class="status-fout">🔴 Data is verouderd! Laatste update: {uren_oud} uur geleden. Check de GitHub Actions-tab.</div>'
+
 def render_waarschuwingen_24u(samenvatting):
     if not samenvatting or not samenvatting["waarschuwingen_24u"]:
         return '<p class="empty">Geen waarschuwingen in de afgelopen 24 uur (eigen metingen).</p>'
@@ -90,7 +105,6 @@ def render_actuele_waarschuwing(live):
 def render_aankomende_waarschuwing(live):
     moment = live.get("wrsch_g")
     kleur = live.get("wrsch_gc")
-    # "-" is de manier waarop Weerlive "geen waarde" aangeeft, dus ook als leeg behandelen
     if not moment or str(moment).strip() in ("", "-"):
         return '<p class="empty">Geen bekende aankomende waarschuwing.</p>'
     return f"""
@@ -117,13 +131,13 @@ def render_leesbare_weerdata(live):
     return f'<div class="grid">{kaarten}</div>'
 
 def bouw_html(laatste_weerdata, samenvatting_24u, pad_laatste_beeld, pad_loop):
-    """Geeft ALLEEN de binnen-inhoud terug (geen eigen <html>/<head>/<body> meer -
-    dat voorkomt de ongeldige geneste documenten die de layoutbugs veroorzaakten)."""
     tijdstip = datetime.now().strftime("%d-%m-%Y %H:%M")
     live, locatie = {}, "Onbekend"
     weer_html = '<p class="empty">Geen weerdata gevonden</p>'
     waarschuwing_nu_html = '<p class="empty">Geen data</p>'
     waarschuwing_straks_html = '<p class="empty">Geen data</p>'
+
+    versheid_html = render_versheid_check(laatste_weerdata)
 
     if laatste_weerdata:
         live_lijst = laatste_weerdata.get("liveweer", [{}])
@@ -157,22 +171,24 @@ def bouw_html(laatste_weerdata, samenvatting_24u, pad_laatste_beeld, pad_loop):
 .empty {{ color: var(--grijs); font-style: italic; }}
 .warning-item {{ background: #fff3e8; border-left: 4px solid var(--oranje); padding: 10px 14px; border-radius: 6px; margin-bottom: 8px; font-size: 14px; }}
 .badge {{ background: var(--oranje); color: white; padding: 2px 8px; border-radius: 10px; font-size: 11px; margin-left: 6px; }}
+.status-goed, .status-waarschuwing, .status-fout {{ padding: 12px 18px; border-radius: 8px; margin-bottom: 20px; font-weight: 600; font-size: 14px; }}
+.status-goed {{ background: #e6f4ea; color: #1e7e34; }}
+.status-waarschuwing {{ background: #fff8e1; color: #97710a; }}
+.status-fout {{ background: #fdecea; color: #c0392b; }}
 </style>
 <div class="wrap">
 <header><h1>🌦️ Weeroverzicht — {locatie}</h1><p>Gegenereerd op {tijdstip} · bron: KNMI / Weerlive.nl</p></header>
+{versheid_html}
 <div class="card"><h2>📊 Actuele data</h2>{weer_html}</div>
 <div class="card"><h2>⚠️ Waarschuwing nu</h2>{waarschuwing_nu_html}</div>
 <div class="card"><h2>🔜 Aankomende waarschuwing</h2>{waarschuwing_straks_html}</div>
 <div class="card"><h2>🌡️ Tmin / Tmax (24u)</h2>{tmin_max_html}</div>
 <div class="card"><h2>📋 Waarschuwingen (24u historie)</h2>{waarschuwingen_24u_html}</div>
-<div class="card"><h2>🛰️ Satellietbeeld</h2>{beeld_html}</div>
 <div class="card"><h2>🔁 Satellietloop (6u)</h2>{loop_html}</div>
+<div class="card"><h2>🛰️ Satellietbeeld</h2>{beeld_html}</div>
 </div>"""
 
 def voeg_wachtwoordbeveiliging_toe(html_inhoud):
-    """Nu de ENIGE echte, complete HTML-pagina - de inhoud wordt via een overlay
-    getoond/verborgen in plaats van de hele body te vervangen. Dit fixt ook zoom
-    (viewport meta-tag) en de scroll-/layoutbugs (geen geneste documenten meer)."""
     return f"""<!DOCTYPE html>
 <html lang="nl">
 <head>
