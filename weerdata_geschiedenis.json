@@ -3,78 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1784885882,
-        "time": "24-07-2026 11:38:02",
-        "temp": 19.6,
-        "gtemp": 19.6,
-        "samenv": "Zwaar bewolkt",
-        "lv": 66,
-        "windr": "N",
-        "windrgr": 350.9,
-        "windms": 0.82,
-        "windbft": 1,
-        "windknp": 1.6,
-        "windkmh": 3,
-        "luchtd": 1019.52,
-        "ldmmhg": 765,
-        "dauwp": 13.2,
-        "zicht": 38500,
-        "gr": 411,
-        "verw": "Bewolkt en vrijwel overal droog. Vanmiddag en morgen meer zon",
-        "sup": "05:47",
-        "sunder": "21:44",
-        "image": "bewolkt",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 24/07/2026 08:59 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-07-24T09:40:50.354637"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
-        "timestamp": 1784905682,
-        "time": "24-07-2026 17:08:02",
-        "temp": 22.4,
-        "gtemp": 21.9,
-        "samenv": "Zwaar bewolkt",
-        "lv": 55,
-        "windr": "ZZW",
-        "windrgr": 197.7,
-        "windms": 2.2,
-        "windbft": 2,
-        "windknp": 4.3,
-        "windkmh": 7.9,
-        "luchtd": 1016.32,
-        "ldmmhg": 762,
-        "dauwp": 12.9,
-        "zicht": 44800,
-        "gr": 352,
-        "verw": "Droog en op steeds meer plaatsen zon.",
-        "sup": "05:47",
-        "sunder": "21:44",
-        "image": "bewolkt",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 24/07/2026 14:08 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-07-24T15:18:45.362637"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1784925483,
         "time": "24-07-2026 22:38:03",
         "temp": 16.3,
@@ -1042,5 +970,41 @@
       }
     ],
     "opgehaald_op": "2026-07-31T08:10:36.309692"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1785514082,
+        "time": "31-07-2026 18:08:02",
+        "temp": 23.5,
+        "gtemp": 21.7,
+        "samenv": "Licht bewolkt",
+        "lv": 48,
+        "windr": "NO",
+        "windrgr": 26.6,
+        "windms": 4.39,
+        "windbft": 3,
+        "windknp": 8.5,
+        "windkmh": 15.8,
+        "luchtd": 1016.41,
+        "ldmmhg": 762,
+        "dauwp": 12.1,
+        "zicht": 40500,
+        "gr": 502,
+        "verw": "Rustig zomerweer, vooral in het zuidoosten zomers warm.",
+        "sup": "05:57",
+        "sunder": "21:33",
+        "image": "lichtbewolkt",
+        "alarm": 0,
+        "lkop": "In het zuidoosten aanhoudend warm",
+        "ltekst": "De komende dagen blijft het in het zuidoosten en oosten warm met maximumtemperaturen tussen 25-30°C en een hittekracht van 6-7. Ook 's nachts blijft het vrij warm met in stedelijke gebieden temperaturen die nauwelijks onder de 18°C komen. Voor het zuidoosten is het Hitteplan van het RIVM actief. Risico's en adviezen:- Let extra op ouderen en mensen met een kwetsbare gezondheid. Zij kunnen klachten krijgen zoals uitdroging en oververhitting. - Houd je woning koel: gebruik zonwering, sluit overdag ramen en deuren en lucht je huis 's ochtends vroeg- Neem onderweg genoeg water mee. - Laat geen kinderen en huisdieren achter in een dichte auto, ook niet voor een paar minuten. Vandaag koelt het in het noorden wat af, maar blijft het in het zuidoosten warm met temperaturen dichtbij 30°C. Zaterdag is het overal tijdelijk minder warm. Vanaf zondag volgt opnieuw een warme periode met vooral in het zuidoosten tropische temperaturen van 30°C of meer. Uitgifte: 31/07/2026 14:05 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-07-31T16:15:12.429394"
   }
 ]
