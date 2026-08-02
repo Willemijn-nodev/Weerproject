@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1785015483,
-        "time": "25-07-2026 23:38:03",
-        "temp": 18.9,
-        "gtemp": 18.4,
-        "samenv": "Zwaar bewolkt",
-        "lv": 72,
-        "windr": "ZZW",
-        "windrgr": 193.4,
-        "windms": 1.95,
-        "windbft": 2,
-        "windknp": 3.8,
-        "windkmh": 7,
-        "luchtd": 1005.31,
-        "ldmmhg": 754,
-        "dauwp": 13.6,
-        "zicht": 31900,
-        "gr": 0,
-        "verw": "Vandaag perioden met zon en vrij warm, morgen bewolkt en enkele buien.",
-        "sup": "05:48",
-        "sunder": "21:43",
-        "image": "wolkennacht",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 25/07/2026 22:45 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-07-25T21:40:39.429988"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1785051484,
         "time": "26-07-2026 09:38:04",
         "temp": 20.6,
@@ -1042,5 +1006,41 @@
       }
     ],
     "opgehaald_op": "2026-08-01T20:16:15.665385"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1785629282,
+        "time": "02-08-2026 02:08:02",
+        "temp": 12.6,
+        "gtemp": 12.6,
+        "samenv": "Zwaar bewolkt",
+        "lv": 98,
+        "windr": "NNO",
+        "windrgr": 18.3,
+        "windms": 1.01,
+        "windbft": 1,
+        "windknp": 2,
+        "windkmh": 3.6,
+        "luchtd": 1020.02,
+        "ldmmhg": 765,
+        "dauwp": 12.3,
+        "zicht": 49900,
+        "gr": 0,
+        "verw": "Vandaag en morgen veel zon en zeer warm.",
+        "sup": "06:00",
+        "sunder": "21:30",
+        "image": "wolkennacht",
+        "alarm": 0,
+        "lkop": "In het zuidoosten aanhoudend warm, vanaf zondag weer tropisch",
+        "ltekst": "Het Nationaal Hitteplan van het RIVM is actief voor het zuidoosten van het land. Vandaag is het tijdelijk minder warm, ook 's nachts. Vanaf zondag keert de tropische warmte terug, vooral in het zuiden en oosten van het land. De aanhoudende warmte kan met name hinderlijk zijn voor ouderen en mensen met een kwetsbare gezondheid. Zaterdag is het tijdelijk wat minder warm met alleen in Noord-Brabant en Limburg nog maximumtemperaturen van 25-27°C. Ook de nachten verlopen relatief koel met minima beneden de 15°C. Op zondag wordt het in het hele land weer zomers warm, in het zuidoosten tropisch met maxima van 30°C of iets daarboven. Maandag en dinsdag op de meeste plaatsen tropisch warm met temperaturen tussen de 28 en 35°C. Uitgifte: 01/08/2026 19:46 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-08-02T00:18:17.640612"
   }
 ]
