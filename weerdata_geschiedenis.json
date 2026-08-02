@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1785096482,
-        "time": "26-07-2026 22:08:02",
-        "temp": 19.4,
-        "gtemp": 18.9,
-        "samenv": "Licht bewolkt",
-        "lv": 76,
-        "windr": "W",
-        "windrgr": 269.2,
-        "windms": 2.49,
-        "windbft": 2,
-        "windknp": 4.8,
-        "windkmh": 9,
-        "luchtd": 1005.51,
-        "ldmmhg": 754,
-        "dauwp": 15.1,
-        "zicht": 49900,
-        "gr": 0,
-        "verw": "Vanavond in het zuidoosten nog buien, elders meest droog.",
-        "sup": "05:49",
-        "sunder": "21:41",
-        "image": "wolkennacht",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 26/07/2026 19:58 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-07-26T20:16:06.043455"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1785142683,
         "time": "27-07-2026 10:58:03",
         "temp": 19.3,
@@ -1042,5 +1006,41 @@
       }
     ],
     "opgehaald_op": "2026-08-02T18:14:39.365387"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1785708484,
+        "time": "03-08-2026 00:08:04",
+        "temp": 21,
+        "gtemp": 18.4,
+        "samenv": "Zwaar bewolkt",
+        "lv": 52,
+        "windr": "NO",
+        "windrgr": 39.9,
+        "windms": 5.17,
+        "windbft": 3,
+        "windknp": 10.1,
+        "windkmh": 18.6,
+        "luchtd": 1014.91,
+        "ldmmhg": 761,
+        "dauwp": 10.8,
+        "zicht": 49900,
+        "gr": 0,
+        "verw": "Vandaag en morgen veel zon en steeds warmer.",
+        "sup": "06:02",
+        "sunder": "21:28",
+        "image": "wolkennacht",
+        "alarm": 0,
+        "lkop": "In het zuidoosten aanhoudend warm, maandag en dinsdag overal zeer warm",
+        "ltekst": "Het Nationaal Hitteplan van het RIVM is vandaag actief voor het zuidoosten van het land en vanaf maandag voor het hele land. In het zuidoosten is het aanhoudend warm. Maandag en dinsdag wordt het in het hele land zeer warm, met temperaturen tussen 29 en 36°C en hittekracht van 7-8. De (aanhoudende) warmte/hitte kan met name hinderlijk zijn voor ouderen en mensen met een kwetsbare gezondheid. Vanaf woensdag lijkt het af te gaan koelen. Maandag en dinsdag wordt het overal zeer warm met maximumtemperaturen tussen 29 en 36°C, met de hoogste temperaturen in het zuiden, midden en oosten. De hittekracht neemt toe naar 7-8. Ook 's nachts blijft het vrij warm, met minimumtemperaturen tussen de 17 en 22°C, vooral in de nacht naar dinsdag. Uitgifte: 02/08/2026 20:23 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "03-08-2026 00:00",
+        "wrsch_gts": 1785708000,
+        "wrsch_gc": "geel"
+      }
+    ],
+    "opgehaald_op": "2026-08-02T22:13:34.735206"
   }
 ]
