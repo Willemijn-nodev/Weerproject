@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1785185282,
-        "time": "27-07-2026 22:48:02",
-        "temp": 15.2,
-        "gtemp": 15.2,
-        "samenv": "Licht bewolkt",
-        "lv": 87,
-        "windr": "W",
-        "windrgr": 262.9,
-        "windms": 1.09,
-        "windbft": 1,
-        "windknp": 2.1,
-        "windkmh": 3.9,
-        "luchtd": 1020.22,
-        "ldmmhg": 765,
-        "dauwp": 12.8,
-        "zicht": 49600,
-        "gr": 0,
-        "verw": "Eerst nog een enkele bui, morgen meer zon, droog en zomers warm.",
-        "sup": "05:51",
-        "sunder": "21:40",
-        "image": "wolkennacht",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 27/07/2026 20:03 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-07-27T20:56:28.924064"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1785197282,
         "time": "28-07-2026 02:08:02",
         "temp": 11.9,
@@ -1042,5 +1006,41 @@
       }
     ],
     "opgehaald_op": "2026-08-03T18:26:43.219213"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1785796083,
+        "time": "04-08-2026 00:28:03",
+        "temp": 22.4,
+        "gtemp": 22.4,
+        "samenv": "Licht bewolkt",
+        "lv": 71,
+        "windr": "W",
+        "windrgr": 278.2,
+        "windms": 1.07,
+        "windbft": 1,
+        "windknp": 2.1,
+        "windkmh": 3.9,
+        "luchtd": 1011.11,
+        "ldmmhg": 758,
+        "dauwp": 16.4,
+        "zicht": 36900,
+        "gr": 0,
+        "verw": "Zeer warm en een enkele bui.",
+        "sup": "06:03",
+        "sunder": "21:27",
+        "image": "wolkennacht",
+        "alarm": 1,
+        "lkop": "In Limburg en Noord-Brabant tot begin van de nacht onweersbuien. Morgen in hele land zeer warm",
+        "ltekst": "Het Nationaal Hitteplan van het RIVM is actief voor het hele land voor aanhoudende warmte. Door de tropische temperaturen en geleidelijk toenemende luchtvochtigheid kunnen vooral ouderen en mensen met een kwetsbare gezondheid last ervaren. Inspanningen zullen bovendien sneller zwaar aanvoelen en het wordt moeilijker om huizen koel te houden. Vanaf woensdag koelt het geleidelijk af. In Limburg en Noord-Brabant tot en met begin van de nacht lokaal onweersbuien mogelijk met windstoten. Komende nacht koelt het slechts af naar 17-20°C in landelijke gebieden. In stedelijke gebieden wordt het waarschijnlijk niet koeler dan 20-23°C. Morgen ligt de maximumtemperatuur tussen 28°C op de Wadden en 33°C in het zuiden. Doordat de lucht vochtiger wordt voelt het nog benauwder aan en zal ook de hittekracht 7-8 zijn. Vooral in de oostelijke helft kunnen later enkele onweersbuien voor verkoeling zorgen. In de avond koelt het in het westen af naar 23-24°C door wind van zee. In Limburg en Noord-Brabant tot en met begin van de nacht zijn vanavond lokaal onweersbuien mogelijk met windstoten rond 60 km/u. Uitgifte: 03/08/2026 22:53 uur LT",
+        "wrschklr": "geel",
+        "wrsch_g": "03-08-2026 22:00",
+        "wrsch_gts": 1785787200,
+        "wrsch_gc": "geel"
+      }
+    ],
+    "opgehaald_op": "2026-08-03T22:35:40.041200"
   }
 ]
