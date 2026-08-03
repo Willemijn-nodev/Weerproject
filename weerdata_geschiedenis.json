@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1785142683,
-        "time": "27-07-2026 10:58:03",
-        "temp": 19.3,
-        "gtemp": 18,
-        "samenv": "Zwaar bewolkt",
-        "lv": 82,
-        "windr": "W",
-        "windrgr": 256.9,
-        "windms": 3.13,
-        "windbft": 2,
-        "windknp": 6.1,
-        "windkmh": 11.3,
-        "luchtd": 1014.42,
-        "ldmmhg": 761,
-        "dauwp": 16.1,
-        "zicht": 27500,
-        "gr": 635,
-        "verw": "Vandaag nog een enkele bui, dinsdag meer zon en zomers warm.",
-        "sup": "05:51",
-        "sunder": "21:40",
-        "image": "bewolkt",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 27/07/2026 07:37 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-07-27T08:59:58.824659"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1785170882,
         "time": "27-07-2026 18:48:02",
         "temp": 20.4,
@@ -1042,5 +1006,41 @@
       }
     ],
     "opgehaald_op": "2026-08-02T22:13:34.735206"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1785754682,
+        "time": "03-08-2026 12:58:02",
+        "temp": 28.5,
+        "gtemp": 27.5,
+        "samenv": "Licht bewolkt",
+        "lv": 41,
+        "windr": "ZO",
+        "windrgr": 134.9,
+        "windms": 2.88,
+        "windbft": 2,
+        "windknp": 5.6,
+        "windkmh": 10.4,
+        "luchtd": 1011.11,
+        "ldmmhg": 758,
+        "dauwp": 14.2,
+        "zicht": 39100,
+        "gr": 777,
+        "verw": "Zeer warm en een enkele bui.",
+        "sup": "06:02",
+        "sunder": "21:28",
+        "image": "lichtbewolkt",
+        "alarm": 1,
+        "lkop": "Vandaag en morgen zeer warm en geleidelijk benauwder",
+        "ltekst": "Het Nationaal Hitteplan van het RIVM is actief voor het hele land voor aanhoudende warmte. Door de tropische temperaturen en geleidelijk toenemende luchtvochtigheid kunnen vooral ouderen en mensen met een kwetsbare gezondheid last ervaren. Inspanningen zullen bovendien sneller zwaar aanvoelen en het wordt moeilijker om huizen koel te houden. Vanaf woensdag koelt het geleidelijk af. Vandaag liggen de maximumtemperaturen tussen 28°C op de Wadden en plaatselijk 36°C in het zuidoosten. Komende nacht wordt zwoel met 17-20°C in landelijke gebieden. In stedelijke gebieden wordt het waarschijnlijk niet koeler dan 20-23°C. Dinsdag ligt de maximumtemperatuur tussen 28°C op de Wadden en 33°C in het zuiden. Doordat de lucht vochtiger wordt voelt het nog benauwder aan. Vooral in de oostelijke helft kunnen later enkele onweersbuien voor verkoeling zorgen. In de avond koelt het in het westen af naar 23-24°C door wind van zee. De hittekracht is vandaag en morgen 7-8, vandaag in het noorden rond 6. Uitgifte: 03/08/2026 11:07 uur LT",
+        "wrschklr": "geel",
+        "wrsch_g": "03-08-2026 11:00",
+        "wrsch_gts": 1785747600,
+        "wrsch_gc": "geel"
+      }
+    ],
+    "opgehaald_op": "2026-08-03T11:01:09.922155"
   }
 ]
