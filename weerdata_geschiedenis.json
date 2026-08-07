@@ -3,78 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1785427683,
-        "time": "30-07-2026 18:08:03",
-        "temp": 23.8,
-        "gtemp": 23.8,
-        "samenv": "Licht bewolkt",
-        "lv": 69,
-        "windr": "NNW",
-        "windrgr": 333.6,
-        "windms": 1.46,
-        "windbft": 1,
-        "windknp": 2.8,
-        "windkmh": 5.3,
-        "luchtd": 1015.21,
-        "ldmmhg": 761,
-        "dauwp": 17.9,
-        "zicht": 42100,
-        "gr": 120,
-        "verw": "Warm met in het oosten (onweers)buien, morgen in het noorden koeler.",
-        "sup": "05:55",
-        "sunder": "21:35",
-        "image": "lichtbewolkt",
-        "alarm": 0,
-        "lkop": "In het zuidoosten aanhoudend warm",
-        "ltekst": "De komende dagen blijft het in het zuidoosten en oosten warm met maximumtemperaturen rond 30°C en een hittekracht van ongeveer 7. Ook 's nachts blijft het vrij warm met in stedelijke gebieden temperaturen die nauwelijks onder de 20°C komen. Voor het zuidoosten is het Hitteplan van het RIVM actief. Risico's en adviezen:- Let extra op ouderen en mensen met een kwetsbare gezondheid. Zij kunnen klachten krijgen zoals uitdroging en oververhitting. - Houd je woning koel: gebruik zonwering, sluit overdag ramen en deuren en lucht je huis 's ochtends vroeg- Neem onderweg genoeg water mee. - Laat geen kinderen en huisdieren achter in een dichte auto, ook niet voor een paar minuten. Vandaag ligt de maximumtemperatuur in het zuidoosten en oosten rond 30°C, elders 23-28°C. Morgen koelt het in het noorden wat af, maar blijft het in het zuidoosten warm met temperaturen dichtbij 30°C. Zaterdag is het overal tijdelijk minder warm. Vanaf zondag volgt opnieuw een warme periode met vooral in het zuidoosten tropische temperaturen van 30°C of meer. Uitgifte: 30/07/2026 16:01 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-07-30T16:18:10.769716"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
-        "timestamp": 1785443882,
-        "time": "30-07-2026 22:38:02",
-        "temp": 21.1,
-        "gtemp": 21.1,
-        "samenv": "Licht bewolkt",
-        "lv": 81,
-        "windr": "ONO",
-        "windrgr": 47.6,
-        "windms": 1.42,
-        "windbft": 1,
-        "windknp": 2.8,
-        "windkmh": 5.1,
-        "luchtd": 1016.61,
-        "ldmmhg": 763,
-        "dauwp": 17.1,
-        "zicht": 48800,
-        "gr": 0,
-        "verw": "Warm, zonnig, in het oosten eerst wat regen. Morgen koeler en een bui",
-        "sup": "05:55",
-        "sunder": "21:35",
-        "image": "wolkennacht",
-        "alarm": 0,
-        "lkop": "In het zuidoosten aanhoudend warm",
-        "ltekst": "De komende dagen blijft het in het zuidoosten en oosten warm met maximumtemperaturen rond 30°C en een hittekracht van ongeveer 7. Ook 's nachts blijft het vrij warm met in stedelijke gebieden temperaturen die nauwelijks onder de 20°C komen. Voor het zuidoosten is het Hitteplan van het RIVM actief. Risico's en adviezen:- Let extra op ouderen en mensen met een kwetsbare gezondheid. Zij kunnen klachten krijgen zoals uitdroging en oververhitting. - Houd je woning koel: gebruik zonwering, sluit overdag ramen en deuren en lucht je huis 's ochtends vroeg- Neem onderweg genoeg water mee. - Laat geen kinderen en huisdieren achter in een dichte auto, ook niet voor een paar minuten. Vandaag ligt de maximumtemperatuur in het zuidoosten en oosten rond 30°C, elders 23-28°C. Morgen koelt het in het noorden wat af, maar blijft het in het zuidoosten warm met temperaturen dichtbij 30°C. Zaterdag is het overal tijdelijk minder warm. Vanaf zondag volgt opnieuw een warme periode met vooral in het zuidoosten tropische temperaturen van 30°C of meer. Uitgifte: 30/07/2026 21:03 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-07-30T20:47:02.929095"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1785485282,
         "time": "31-07-2026 10:08:02",
         "temp": 22.1,
@@ -934,5 +862,41 @@
       }
     ],
     "opgehaald_op": "2026-08-06T10:13:38.378165"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1786067284,
+        "time": "07-08-2026 03:48:04",
+        "temp": 13.8,
+        "gtemp": 13.8,
+        "samenv": "Zwaar bewolkt",
+        "lv": 93,
+        "windr": "N",
+        "windrgr": 349.3,
+        "windms": 1.17,
+        "windbft": 1,
+        "windknp": 2.3,
+        "windkmh": 4.2,
+        "luchtd": 1023.92,
+        "ldmmhg": 768,
+        "dauwp": 12.7,
+        "zicht": 49900,
+        "gr": 0,
+        "verw": "In het noorden plaatselijk buien, vrijdag droog.",
+        "sup": "06:08",
+        "sunder": "21:21",
+        "image": "wolkennacht",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 07/08/2026 01:23 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-08-07T01:53:26.903796"
   }
 ]
