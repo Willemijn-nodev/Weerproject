@@ -970,5 +970,41 @@
       }
     ],
     "opgehaald_op": "2026-08-07T17:39:17.572018"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1786132683,
+        "time": "07-08-2026 21:58:03",
+        "temp": 14.6,
+        "gtemp": 14.6,
+        "samenv": "Licht bewolkt",
+        "lv": 82,
+        "windr": "NNO",
+        "windrgr": 8.8,
+        "windms": 0.57,
+        "windbft": 1,
+        "windknp": 1.1,
+        "windkmh": 2.1,
+        "luchtd": 1023.42,
+        "ldmmhg": 768,
+        "dauwp": 11,
+        "zicht": 17900,
+        "gr": 0,
+        "verw": "Opklaringen. Morgen droog, warm en zonnig",
+        "sup": "06:08",
+        "sunder": "21:21",
+        "image": "wolkennacht",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 07/08/2026 21:03 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-08-07T20:04:23.328339"
   }
 ]
