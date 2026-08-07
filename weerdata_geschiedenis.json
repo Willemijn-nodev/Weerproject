@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1785485282,
-        "time": "31-07-2026 10:08:02",
-        "temp": 22.1,
-        "gtemp": 21.6,
-        "samenv": "Zwaar bewolkt",
-        "lv": 82,
-        "windr": "W",
-        "windrgr": 267.9,
-        "windms": 3.15,
-        "windbft": 2,
-        "windknp": 6.1,
-        "windkmh": 11.3,
-        "luchtd": 1015.21,
-        "ldmmhg": 761,
-        "dauwp": 19.1,
-        "zicht": 11000,
-        "gr": 414,
-        "verw": "Vandaag enkele buien, morgen meest droog en zonnig. In het zuidoosten warm",
-        "sup": "05:57",
-        "sunder": "21:33",
-        "image": "bewolkt",
-        "alarm": 0,
-        "lkop": "In het zuidoosten aanhoudend warm. In het noordoosten vanochtend enkele onweersbuien",
-        "ltekst": "De komende dagen blijft het in het zuidoosten en oosten warm met maximumtemperaturen tussen 25-30°C en een hittekracht van 6-7. Ook 's nachts blijft het vrij warm met in stedelijke gebieden temperaturen die nauwelijks onder de 18°C komen. Voor het zuidoosten is het Hitteplan van het RIVM actief. Risico's en adviezen:- Let extra op ouderen en mensen met een kwetsbare gezondheid. Zij kunnen klachten krijgen zoals uitdroging en oververhitting. - Houd je woning koel: gebruik zonwering, sluit overdag ramen en deuren en lucht je huis 's ochtends vroeg- Neem onderweg genoeg water mee. - Laat geen kinderen en huisdieren achter in een dichte auto, ook niet voor een paar minuten. Vandaag koelt het in het noorden wat af, maar blijft het in het zuidoosten warm met temperaturen dichtbij 30°C. Zaterdag is het overal tijdelijk minder warm. Vanaf zondag volgt opnieuw een warme periode met vooral in het zuidoosten tropische temperaturen van 30°C of meer. Verder komen er vanochtend met name in het noordoostelijk kustgebied enkele onweersbuien voor, plaatselijk met windstoten die hinder op kunnen leveren voor buitenactiviteiten en verkeer. Bij de buien kunnen windstoten voorkomen rond 65 km/uur. Uitgifte: 31/07/2026 07:58 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-07-31T08:10:36.309692"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1785514082,
         "time": "31-07-2026 18:08:02",
         "temp": 23.5,
@@ -934,5 +898,41 @@
       }
     ],
     "opgehaald_op": "2026-08-07T06:12:57.202744"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1786097283,
+        "time": "07-08-2026 12:08:03",
+        "temp": 19.1,
+        "gtemp": 18.6,
+        "samenv": "Zwaar bewolkt",
+        "lv": 64,
+        "windr": "WZW",
+        "windrgr": 237.9,
+        "windms": 1.87,
+        "windbft": 2,
+        "windknp": 3.6,
+        "windkmh": 6.7,
+        "luchtd": 1024.22,
+        "ldmmhg": 768,
+        "dauwp": 12,
+        "zicht": 49200,
+        "gr": 57,
+        "verw": "In het noorden plaatselijk buien, zaterdag zonnig en droog.",
+        "sup": "06:08",
+        "sunder": "21:21",
+        "image": "bewolkt",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 07/08/2026 08:02 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-08-07T10:15:06.497935"
   }
 ]
