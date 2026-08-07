@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1785530882,
-        "time": "31-07-2026 22:48:02",
-        "temp": 17.9,
-        "gtemp": 17.3,
-        "samenv": "Licht bewolkt",
-        "lv": 75,
-        "windr": "N",
-        "windrgr": 348,
-        "windms": 2.45,
-        "windbft": 2,
-        "windknp": 4.8,
-        "windkmh": 8.8,
-        "luchtd": 1018.22,
-        "ldmmhg": 764,
-        "dauwp": 13.4,
-        "zicht": 49900,
-        "gr": 0,
-        "verw": "Rustig zomerweer, vooral in het zuidoosten zomers warm.",
-        "sup": "05:57",
-        "sunder": "21:33",
-        "image": "wolkennacht",
-        "alarm": 0,
-        "lkop": "In het zuidoosten aanhoudend warm, vanaf zondag weer tropisch",
-        "ltekst": "Het Nationaal Hitteplan van het RIVM is actief voor het zuidoosten van het land. Vandaag en morgen is het tijdelijk minder warm, inclusief wat koelere nachten, maar vanaf zondag keert de tropische warmte terug. De aanhoudende warmte kan met name hinderlijk zijn voor ouderen en mensen met een kwetsbare gezondheid. Zaterdag is het tijdelijk wat minder warm met alleen in Noord-Brabant en Limburg nog maximumtemperaturen van 25-27°C. Ook de nachten verlopen relatief koel met minima beneden de 15°C. Op zondag wordt het in het hele land weer zomers warm, in het zuidoosten waarschijnlijk weer tropisch met maxima van 30°C of iets daarboven. Uitgifte: 31/07/2026 20:04 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-07-31T20:50:51.301885"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1785542883,
         "time": "01-08-2026 02:08:03",
         "temp": 13.4,
@@ -1006,5 +970,41 @@
       }
     ],
     "opgehaald_op": "2026-08-07T20:04:23.328339"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1786143482,
+        "time": "08-08-2026 00:58:02",
+        "temp": 10,
+        "gtemp": 10,
+        "samenv": "Licht bewolkt",
+        "lv": 98,
+        "windr": "O",
+        "windrgr": 88.6,
+        "windms": 0.35,
+        "windbft": 1,
+        "windknp": 0.7,
+        "windkmh": 1.3,
+        "luchtd": 1023.83,
+        "ldmmhg": 768,
+        "dauwp": 9.6,
+        "zicht": 49600,
+        "gr": 0,
+        "verw": "Droog, warm en zonnig weekend.",
+        "sup": "06:10",
+        "sunder": "21:19",
+        "image": "wolkennacht",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 07/08/2026 22:50 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-08-07T23:00:39.788826"
   }
 ]
