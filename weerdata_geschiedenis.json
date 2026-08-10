@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1785781083,
-        "time": "03-08-2026 20:18:03",
-        "temp": 27.8,
-        "gtemp": 26.8,
-        "samenv": "Zwaar bewolkt",
-        "lv": 47,
-        "windr": "NNW",
-        "windrgr": 312.1,
-        "windms": 2.9,
-        "windbft": 2,
-        "windknp": 5.6,
-        "windkmh": 10.4,
-        "luchtd": 1009.61,
-        "ldmmhg": 757,
-        "dauwp": 15.2,
-        "zicht": 40000,
-        "gr": 88,
-        "verw": "Zeer warm en een enkele bui.",
-        "sup": "06:02",
-        "sunder": "21:28",
-        "image": "bewolkt",
-        "alarm": 1,
-        "lkop": "In Limburg vanavond lokale onweersbuien. Tot en met morgen in hele land zeer warm",
-        "ltekst": "Het Nationaal Hitteplan van het RIVM is actief voor het hele land voor aanhoudende warmte. Door de tropische temperaturen en geleidelijk toenemende luchtvochtigheid kunnen vooral ouderen en mensen met een kwetsbare gezondheid last ervaren. Inspanningen zullen bovendien sneller zwaar aanvoelen en het wordt moeilijker om huizen koel te houden. Vanaf woensdag koelt het geleidelijk af. In Limburg vanavond lokaal onweersbuien mogelijk met windstoten. Komende nacht koelt het slechts af naar 17-20°C in landelijke gebieden. In stedelijke gebieden wordt het waarschijnlijk niet koeler dan 20-23°C. Morgen ligt de maximumtemperatuur tussen 28°C op de Wadden en 33°C in het zuiden. Doordat de lucht vochtiger wordt voelt het nog benauwder aan en zal ook de hittekracht 7-8 zijn. Vooral in de oostelijke helft kunnen later enkele onweersbuien voor verkoeling zorgen. In de avond koelt het in het westen af naar 23-24°C door wind van zee. In Limburg zijn vanavond lokaal onweersbuien mogelijk met windstoten van 60-75 km/u. Uitgifte: 03/08/2026 20:04 uur LT",
-        "wrschklr": "geel",
-        "wrsch_g": "03-08-2026 20:00",
-        "wrsch_gts": 1785780000,
-        "wrsch_gc": "geel"
-      }
-    ],
-    "opgehaald_op": "2026-08-03T18:26:43.219213"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1785796083,
         "time": "04-08-2026 00:28:03",
         "temp": 22.4,
@@ -1474,5 +1438,41 @@
       }
     ],
     "opgehaald_op": "2026-08-10T17:41:10.359698"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1786392482,
+        "time": "10-08-2026 22:08:02",
+        "temp": 17.9,
+        "gtemp": 17.9,
+        "samenv": "Licht bewolkt",
+        "lv": 70,
+        "windr": "NNO",
+        "windrgr": 20.1,
+        "windms": 1.34,
+        "windbft": 1,
+        "windknp": 2.6,
+        "windkmh": 4.8,
+        "luchtd": 1022.22,
+        "ldmmhg": 767,
+        "dauwp": 11.8,
+        "zicht": 19700,
+        "gr": 0,
+        "verw": "Zonnige perioden en op de meeste plaatsen droog.",
+        "sup": "06:13",
+        "sunder": "21:15",
+        "image": "wolkennacht",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 10/08/2026 19:53 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-08-10T20:09:26.085880"
   }
 ]
