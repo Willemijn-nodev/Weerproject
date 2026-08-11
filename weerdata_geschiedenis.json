@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1785830883,
-        "time": "04-08-2026 10:08:03",
-        "temp": 25.8,
-        "gtemp": 24.8,
-        "samenv": "Onbewolkt",
-        "lv": 64,
-        "windr": "ZZO",
-        "windrgr": 159.2,
-        "windms": 2.64,
-        "windbft": 2,
-        "windknp": 5.1,
-        "windkmh": 9.5,
-        "luchtd": 1011.11,
-        "ldmmhg": 758,
-        "dauwp": 18.5,
-        "zicht": 20100,
-        "gr": 487,
-        "verw": "Vandaag nog zeer warm, later vanmiddag een enkele (onweers)bui.",
-        "sup": "06:03",
-        "sunder": "21:27",
-        "image": "zonnig",
-        "alarm": 1,
-        "lkop": "Vandaag in hele land nog zeer warm",
-        "ltekst": "Het Nationaal Hitteplan van het RIVM is tot en met woensdagochtend 08:00 uur actief voor het hele land voor aanhoudende warmte. Door de tropische temperaturen en toegenomen luchtvochtigheid kunnen vooral ouderen en mensen met een kwetsbare gezondheid last ervaren. Inspanningen zullen bovendien sneller zwaar aanvoelen en het wordt moeilijker om huizen koel te houden. Ook komende nacht verloopt nog warm waardoor de nachtrust mogelijk nog hinder kan ondervinden. Vandaag ligt de maximumtemperatuur tussen 28°C aan zee en plaatselijk nog 34°C in het zuiden en oosten. Doordat de lucht vochtiger wordt voelt het nog benauwder aan en zal ook de hittekracht 7-8 zijn. In de tweede helft van de middag kunnen enkele onweersbuien van het zuidwesten uit voor verkoeling zorgen. In de avond koelt het in het westen af naar 20-25 °C door wind van zee. Ook komende nacht is het met minimumtemperaturen van rond 20°C nog warm. Woensdag overdag wordt het al beduidend minder warm dan vandaag met vooral in de zuidoostelijke helft nog zomerse temperaturen van boven de 25°C. Donderdag en vrijdag verlopen duidelijk koeler met in de nachten minima tussen 10-15°C en maxima tussen 20-25°C. Uitgifte: 04/08/2026 08:52 uur LT",
-        "wrschklr": "geel",
-        "wrsch_g": "04-08-2026 08:00",
-        "wrsch_gts": 1785823200,
-        "wrsch_gc": "geel"
-      }
-    ],
-    "opgehaald_op": "2026-08-04T08:10:01.701580"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1785860282,
         "time": "04-08-2026 18:18:02",
         "temp": 29.4,
@@ -1510,5 +1474,41 @@
       }
     ],
     "opgehaald_op": "2026-08-11T04:50:50.083676"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1786435683,
+        "time": "11-08-2026 10:08:03",
+        "temp": 17.7,
+        "gtemp": 15.6,
+        "samenv": "Zwaar bewolkt",
+        "lv": 59,
+        "windr": "ONO",
+        "windrgr": 44.1,
+        "windms": 4.06,
+        "windbft": 3,
+        "windknp": 7.9,
+        "windkmh": 14.6,
+        "luchtd": 1027.02,
+        "ldmmhg": 770,
+        "dauwp": 9.4,
+        "zicht": 29600,
+        "gr": 502,
+        "verw": "Zonnig zomerweer, morgen in het zuiden tropisch warm.",
+        "sup": "06:15",
+        "sunder": "21:14",
+        "image": "bewolkt",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 11/08/2026 07:23 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-08-11T08:17:13.242368"
   }
 ]
