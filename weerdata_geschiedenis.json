@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1785877081,
-        "time": "04-08-2026 22:58:01",
-        "temp": 24,
-        "gtemp": 22.9,
-        "samenv": "Half bewolkt",
-        "lv": 61,
-        "windr": "WZW",
-        "windrgr": 240,
-        "windms": 2.53,
-        "windbft": 2,
-        "windknp": 4.9,
-        "windkmh": 9.1,
-        "luchtd": 1012.11,
-        "ldmmhg": 759,
-        "dauwp": 16,
-        "zicht": 47900,
-        "gr": 0,
-        "verw": "Morgen minder warm.",
-        "sup": "06:03",
-        "sunder": "21:27",
-        "image": "wolkennacht",
-        "alarm": 1,
-        "lkop": "Vanavond en vannacht nog warm en in het noordoosten enkele onweersbuien",
-        "ltekst": "Het Nationaal Hitteplan van het RIVM is nog tot en met morgenochtend 08:00 uur actief voor het hele land voor aanhoudende warmte. Door de hoge temperaturen en hoge luchtvochtigheid kunnen vooral ouderen en mensen met een kwetsbare gezondheid last ervaren. Inspanningen zullen bovendien sneller zwaar aanvoelen en het wordt moeilijker om huizen koel te houden. Ook vannacht is het nog warm, waardoor de nachtrust mogelijk verstoord kan worden. In Groningen komen vanavond lokaal ook stevige onweersbuien voor, lokaal met hagel, veel neerslag in korte tijd en mogelijk ook windstoten. Vanavond wordt het vanuit het westen iets minder warm, maar vannacht blijft de temperatuur boven de 20°C. Morgen overdag wordt het al beduidend minder warm dan vandaag met vooral in de zuidoostelijke helft nog zomerse temperaturen van boven de 25°C. Donderdag en vrijdag verlopen duidelijk koeler met in de nachten minima tussen 10-15°C en maxima tussen 20-25°C. In Groningen komen vanavond lokaal ook stevige onweersbuien voor, lokaal met hagel, veel neerslag in korte tijd en mogelijk ook windstoten tot 60 km/uur. Uitgifte: 04/08/2026 20:14 uur LT",
-        "wrschklr": "geel",
-        "wrsch_g": "04-08-2026 20:00",
-        "wrsch_gts": 1785866400,
-        "wrsch_gc": "geel"
-      }
-    ],
-    "opgehaald_op": "2026-08-04T21:00:04.869223"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1785910083,
         "time": "05-08-2026 08:08:03",
         "temp": 22,
@@ -1582,5 +1546,41 @@
       }
     ],
     "opgehaald_op": "2026-08-11T19:45:15.245702"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1786486683,
+        "time": "12-08-2026 00:18:03",
+        "temp": 15.9,
+        "gtemp": 13.7,
+        "samenv": "Licht bewolkt",
+        "lv": 64,
+        "windr": "ONO",
+        "windrgr": 52.5,
+        "windms": 3.5,
+        "windbft": 3,
+        "windknp": 6.8,
+        "windkmh": 12.6,
+        "luchtd": 1027.02,
+        "ldmmhg": 770,
+        "dauwp": 8.9,
+        "zicht": 41200,
+        "gr": 0,
+        "verw": "Zonnig zomerweer, woensdag in het zuiden tropisch warm.",
+        "sup": "06:16",
+        "sunder": "21:12",
+        "image": "wolkennacht",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 11/08/2026 22:45 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-08-11T22:23:41.254099"
   }
 ]
