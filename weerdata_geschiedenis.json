@@ -1618,5 +1618,41 @@
       }
     ],
     "opgehaald_op": "2026-08-12T09:47:17.169652"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1786537683,
+        "time": "12-08-2026 14:28:03",
+        "temp": 27.6,
+        "gtemp": 26.6,
+        "samenv": "Licht bewolkt",
+        "lv": 26,
+        "windr": "ZO",
+        "windrgr": 125.2,
+        "windms": 3.07,
+        "windbft": 2,
+        "windknp": 6,
+        "windkmh": 11.1,
+        "luchtd": 1025.62,
+        "ldmmhg": 769,
+        "dauwp": 6.4,
+        "zicht": 30800,
+        "gr": 790,
+        "verw": "Warm en zonnig zomerweer, morgen zeer warm.",
+        "sup": "06:16",
+        "sunder": "21:12",
+        "image": "lichtbewolkt",
+        "alarm": 0,
+        "lkop": "Zeer warm",
+        "ltekst": "Vanaf vandaag wordt het in het zuidoosten tropisch warm, daarom is het Nationaal Hitteplan actief. Morgen en vrijdag wordt het ook in de rest van het land tropisch warm en geldt ook daar code geel, het Nationaal Hitteplan is die dagen in het gehele land actief. Ouderen en mensen met een kwetsbare gezondheid kunnen gezondheidsklachten krijgen door een langere periode van hitte. Vanaf zaterdag volgt enige afkoeling. DetailsVandaag wordt het in het zuidoosten 30-32°C (hittekracht 5-6). Morgen ligt de temperatuur op veel plaatsen boven de 30°C, in het zuidoosten 35-36°C (hittekracht 7, plaatselijk 8). Vrijdag loopt de temperatuur uiteen van 33°C (hittekracht 7) in het noorden tot 37°C in het zuidoosten (hittekracht 8-9). Zaterdag volgt enige afkoeling en wordt het alleen in het zuidoosten mogelijk nog tropisch warm met ca. 32°C (hittekracht 6-7). Vooral de nachten naar vrijdag en zaterdag verlopen warm met minima rond 20°C, zeker in stedelijk gebied. Uitgifte: 12/08/2026 14:05 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "13-08-2026 09:00",
+        "wrsch_gts": 1786604400,
+        "wrsch_gc": "geel"
+      }
+    ],
+    "opgehaald_op": "2026-08-12T12:35:09.286021"
   }
 ]
