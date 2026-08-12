@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1785910083,
-        "time": "05-08-2026 08:08:03",
-        "temp": 22,
-        "gtemp": 20.8,
-        "samenv": "Licht bewolkt",
-        "lv": 75,
-        "windr": "ZW",
-        "windrgr": 215.2,
-        "windms": 3.07,
-        "windbft": 2,
-        "windknp": 6,
-        "windkmh": 11.1,
-        "luchtd": 1012.71,
-        "ldmmhg": 760,
-        "dauwp": 17.4,
-        "zicht": 43300,
-        "gr": 197,
-        "verw": "Af en toe zon, een enkele bui en geleidelijk minder warm.",
-        "sup": "06:05",
-        "sunder": "21:25",
-        "image": "lichtbewolkt",
-        "alarm": 1,
-        "lkop": "Vannacht nog warm",
-        "ltekst": "Het Nationaal Hitteplan van het RIVM is nog tot en met vanochtend 08:00 uur actief voor het hele land voor aanhoudende warmte. Vannacht blijft het nog warm, waardoor de nachtrust mogelijk verstoord kan worden. Vannacht blijft de temperatuur op veel plaatsen boven de 20°C. Vandaag overdag wordt het al beduidend minder warm dan de afgelopen dagen met alleen in de zuidoostelijke helft nog zomerse temperaturen van boven de 25°C. Donderdag verloopt duidelijk koeler met in de nachten minima tussen 10-15°C en maxima tussen 20-25°C. Uitgifte: 05/08/2026 06:11 uur LT",
-        "wrschklr": "geel",
-        "wrsch_g": "05-08-2026 06:00",
-        "wrsch_gts": 1785902400,
-        "wrsch_gc": "geel"
-      }
-    ],
-    "opgehaald_op": "2026-08-05T06:14:36.866115"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1785935284,
         "time": "05-08-2026 15:08:04",
         "temp": 25.2,
@@ -1618,5 +1582,41 @@
       }
     ],
     "opgehaald_op": "2026-08-12T05:16:59.075070"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1786527482,
+        "time": "12-08-2026 11:38:02",
+        "temp": 23.2,
+        "gtemp": 21.4,
+        "samenv": "Licht bewolkt",
+        "lv": 41,
+        "windr": "O",
+        "windrgr": 88.2,
+        "windms": 3.52,
+        "windbft": 3,
+        "windknp": 6.8,
+        "windkmh": 12.7,
+        "luchtd": 1026.22,
+        "ldmmhg": 770,
+        "dauwp": 9.3,
+        "zicht": 43400,
+        "gr": 599,
+        "verw": "Warm en zonnig zomerweer, donderdag zeer warm.",
+        "sup": "06:16",
+        "sunder": "21:12",
+        "image": "lichtbewolkt",
+        "alarm": 0,
+        "lkop": "Zeer warm",
+        "ltekst": "Vanaf vandaag wordt het in het zuidoosten tropisch warm, daarom is het Nationaal Hitteplan actief. Morgen en vrijdag wordt het ook in de rest van het land tropisch warm en geldt ook daar code geel, het Nationaal Hitteplan is die dagen in het gehele land actief. Ouderen en mensen met een kwetsbare gezondheid kunnen gezondheidsklachten krijgen door een langere periode van hitte. Vanaf zaterdag volgt enige afkoeling. DetailsVandaag wordt het in het zuidoosten 30-32°C (hittekracht 5-6). Morgen ligt de temperatuur op veel plaatsen boven de 30°C, in het zuidoosten 35-36°C (hittekracht 7, plaatselijk 8). Vrijdag loopt de temperatuur uiteen van 33°C (hittekracht 7) in het noorden tot 37°C in het zuidoosten (hittekracht 8-9). Zaterdag volgt enige afkoeling en wordt het alleen in het zuidoosten mogelijk nog tropisch warm met ca. 32°C (hittekracht 6-7). Vooral de nachten naar vrijdag en zaterdag verlopen warm met minima rond 20°C, zeker in stedelijk gebied. Uitgifte: 12/08/2026 08:22 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "13-08-2026 09:00",
+        "wrsch_gts": 1786604400,
+        "wrsch_gc": "geel"
+      }
+    ],
+    "opgehaald_op": "2026-08-12T09:47:17.169652"
   }
 ]
