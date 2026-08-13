@@ -1762,5 +1762,41 @@
       }
     ],
     "opgehaald_op": "2026-08-13T16:12:13.429068"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1786650482,
+        "time": "13-08-2026 21:48:02",
+        "temp": 21.6,
+        "gtemp": 21.6,
+        "samenv": "Licht bewolkt",
+        "lv": 73,
+        "windr": "N",
+        "windrgr": 357.2,
+        "windms": 0.41,
+        "windbft": 1,
+        "windknp": 0.8,
+        "windkmh": 1.5,
+        "luchtd": 1019.81,
+        "ldmmhg": 765,
+        "dauwp": 15.9,
+        "zicht": 49100,
+        "gr": 0,
+        "verw": "Zonnig en tropisch warm. Morgen nog wat warmer",
+        "sup": "06:18",
+        "sunder": "21:10",
+        "image": "wolkennacht",
+        "alarm": 1,
+        "lkop": "Zeer warm",
+        "ltekst": "Het is zeer warm. Vandaag en morgen is het Nationaal Hitteplan in het hele land actief. Ouderen en mensen met een kwetsbare gezondheid kunnen gezondheidsklachten krijgen door een langere periode van hitte. Vanaf zaterdag volgt enige afkoeling. DetailsVanmiddag kwam de maximumtemperatuur in het hele land boven de 30°C uit. In het zuiden was het 35°C, lokaal 36°C. De hittekracht was 6-7, plaatselijk 8. Vrijdag loopt de maximumtemperatuur uiteen van 33°C in het noorden tot 37°C in het zuiden en zuidoosten. Zeer lokaal is 38°C mogelijk. De hittekracht is dan 7-8, plaatselijk 9. Vooral de nachten naar vrijdag en zaterdag verlopen warm met minima rond 20°C in stedelijk gebied. Zaterdag volgt enige afkoeling en wordt het alleen in het zuidoosten mogelijk nog tropisch warm met ca. 30°C (hittekracht 6-7). Uitgifte: 13/08/2026 19:09 uur LT",
+        "wrschklr": "geel",
+        "wrsch_g": "13-08-2026 19:00",
+        "wrsch_gts": 1786640400,
+        "wrsch_gc": "geel"
+      }
+    ],
+    "opgehaald_op": "2026-08-13T19:59:02.053264"
   }
 ]
