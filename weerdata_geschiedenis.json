@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1786124283,
-        "time": "07-08-2026 19:38:03",
-        "temp": 21.2,
-        "gtemp": 20,
-        "samenv": "Licht bewolkt",
-        "lv": 41,
-        "windr": "NNW",
-        "windrgr": 325.1,
-        "windms": 2.78,
-        "windbft": 2,
-        "windknp": 5.4,
-        "windkmh": 10,
-        "luchtd": 1023.32,
-        "ldmmhg": 768,
-        "dauwp": 7.4,
-        "zicht": 34600,
-        "gr": 225,
-        "verw": "In het noorden en oosten eerst een bui. Morgen droog, warm en zonnig",
-        "sup": "06:08",
-        "sunder": "21:21",
-        "image": "lichtbewolkt",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 07/08/2026 16:28 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-08-07T17:39:17.572018"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1786132683,
         "time": "07-08-2026 21:58:03",
         "temp": 14.6,
@@ -1834,5 +1798,41 @@
       }
     ],
     "opgehaald_op": "2026-08-14T15:38:35.000306"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1786732084,
+        "time": "14-08-2026 20:28:04",
+        "temp": 29.7,
+        "gtemp": 29.3,
+        "samenv": "Licht bewolkt",
+        "lv": 36,
+        "windr": "NNW",
+        "windrgr": 338.2,
+        "windms": 1.69,
+        "windbft": 2,
+        "windknp": 3.3,
+        "windkmh": 6.1,
+        "luchtd": 1014.41,
+        "ldmmhg": 761,
+        "dauwp": 12.8,
+        "zicht": 46600,
+        "gr": 58,
+        "verw": "Zeer warm. Zaterdag kans op een bui en van het noordwesten uit koeler",
+        "sup": "06:19",
+        "sunder": "21:08",
+        "image": "lichtbewolkt",
+        "alarm": 1,
+        "lkop": "Zeer warm",
+        "ltekst": "Vanwege de (aanhoudende) hitte is het Nationaal Hitteplan in het hele land actief tot zaterdagochtend 8 uur, in het zuidoosten en oosten tot zondagochtend 8 uur. Ouderen en mensen met een kwetsbare gezondheid kunnen gezondheidsklachten krijgen door een langere periode van hitte. In stedelijke gebieden zullen huizen komende nacht moeilijk afkoelen. DetailsKomende nacht verloopt warm met minima rond 20°C in stedelijke gebieden. Zaterdag overdag koelt het van het noordwesten uit langzaam af, maar wordt het in het zuidoosten en oosten nog tropisch warm met 30-32°C (hittekracht 6-7). Daar blijft het ook in de nacht naar zondag warm. Uitgifte: 14/08/2026 20:01 uur LT",
+        "wrschklr": "geel",
+        "wrsch_g": "14-08-2026 20:00",
+        "wrsch_gts": 1786730400,
+        "wrsch_gc": "geel"
+      }
+    ],
+    "opgehaald_op": "2026-08-14T18:36:36.456475"
   }
 ]
