@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1786186682,
-        "time": "08-08-2026 12:58:02",
-        "temp": 23.4,
-        "gtemp": 22.9,
-        "samenv": "Licht bewolkt",
-        "lv": 43,
-        "windr": "ZZO",
-        "windrgr": 157.9,
-        "windms": 1.56,
-        "windbft": 1,
-        "windknp": 3,
-        "windkmh": 5.6,
-        "luchtd": 1021.92,
-        "ldmmhg": 767,
-        "dauwp": 10,
-        "zicht": 40800,
-        "gr": 807,
-        "verw": "Droog, warm en zonnig weekend.",
-        "sup": "06:10",
-        "sunder": "21:19",
-        "image": "lichtbewolkt",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 08/08/2026 11:18 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-08-08T11:06:20.068307"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1786197482,
         "time": "08-08-2026 15:58:02",
         "temp": 25.6,
@@ -1978,5 +1942,41 @@
       }
     ],
     "opgehaald_op": "2026-08-15T10:50:15.436216"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1786793882,
+        "time": "15-08-2026 13:38:02",
+        "temp": 20.1,
+        "gtemp": 19.6,
+        "samenv": "Lichte of matige onweer met regenbuien",
+        "lv": 97,
+        "windr": "NNW",
+        "windrgr": 323.5,
+        "windms": 1.79,
+        "windbft": 2,
+        "windknp": 3.5,
+        "windkmh": 6.4,
+        "luchtd": 1016.52,
+        "ldmmhg": 762,
+        "dauwp": 19.7,
+        "zicht": 10700,
+        "gr": 59,
+        "verw": "Vandaag enkele buien en van het noordwesten uit minder warm.",
+        "sup": "06:21",
+        "sunder": "21:06",
+        "image": "bliksem",
+        "alarm": 0,
+        "lkop": "In het zuidoosten en uiterste oosten nog zeer warm",
+        "ltekst": "In de provincies Limburg, Noord-Brabant, Gelderland en Overijssel is het Nationaal Hitteplan nog actief tot zondagochtend 8 uur. Ouderen en mensen met een kwetsbare gezondheid kunnen gezondheidsklachten krijgen door een langere periode van hitte. In stedelijke gebieden zullen huizen komende nacht moeilijk afkoelen. Vandaag wordt het in het zuidoosten en oosten nog zeer warm met een maximumtemperatuur van ca. 30°C (hittekracht 6-7). Ook in de nacht naar zondag blijft het nog warm. Zondag overdag wordt de zeer warme lucht uit het land verdreven. Uitgifte: 15/08/2026 11:22 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-08-15T11:40:39.360102"
   }
 ]
