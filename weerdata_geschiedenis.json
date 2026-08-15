@@ -1942,5 +1942,41 @@
       }
     ],
     "opgehaald_op": "2026-08-15T09:03:27.362310"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1786787282,
+        "time": "15-08-2026 11:48:02",
+        "temp": 19.7,
+        "gtemp": 19.7,
+        "samenv": "Lichte regen",
+        "lv": 91,
+        "windr": "ZZO",
+        "windrgr": 136,
+        "windms": 1.27,
+        "windbft": 1,
+        "windknp": 2.5,
+        "windkmh": 4.6,
+        "luchtd": 1015.11,
+        "ldmmhg": 761,
+        "dauwp": 18.2,
+        "zicht": 34500,
+        "gr": 131,
+        "verw": "Vandaag enkele buien en van het noordwesten uit minder warm.",
+        "sup": "06:21",
+        "sunder": "21:06",
+        "image": "regen",
+        "alarm": 0,
+        "lkop": "In het zuidoosten en oosten zeer warm",
+        "ltekst": "In de provincies Limburg, Noord-Brabant, Gelderland en Overijssel is het Nationaal Hitteplan nog actief tot zondagochtend 8 uur. Ouderen en mensen met een kwetsbare gezondheid kunnen gezondheidsklachten krijgen door een langere periode van hitte. In stedelijke gebieden zullen huizen komende nacht moeilijk afkoelen. Vandaag wordt het in het zuidoosten en oosten nog tropisch warm met 30-33°C (hittekracht 6-7) en ook in de nacht naar zondag blijft het nog warm. Zondag overdag wordt de zeer warme lucht uit het land verdreven. Uitgifte: 15/08/2026 11:01 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-08-15T09:53:42.667585"
   }
 ]
