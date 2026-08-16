@@ -2122,5 +2122,41 @@
       }
     ],
     "opgehaald_op": "2026-08-15T23:39:55.318127"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1786849682,
+        "time": "16-08-2026 05:08:02",
+        "temp": 14.3,
+        "gtemp": 14.3,
+        "samenv": "Licht bewolkt",
+        "lv": 97,
+        "windr": "NO",
+        "windrgr": 29.5,
+        "windms": 1.38,
+        "windbft": 1,
+        "windknp": 2.7,
+        "windkmh": 5,
+        "luchtd": 1017.62,
+        "ldmmhg": 763,
+        "dauwp": 13.8,
+        "zicht": 17100,
+        "gr": 0,
+        "verw": "Droog, in het noorden kans op mist. Overdag meest droog en minder warm.",
+        "sup": "06:23",
+        "sunder": "21:03",
+        "image": "wolkennacht",
+        "alarm": 0,
+        "lkop": "In het zuidoosten en uiterste oosten vannacht nog vrij warm",
+        "ltekst": "In de provincies Limburg, Noord-Brabant, Gelderland en Overijssel is het Nationaal Hitteplan nog actief tot zondagochtend 8 uur. Ouderen en mensen met een kwetsbare gezondheid kunnen gezondheidsklachten krijgen door een langere periode van hitte. Vannacht blijft het in het zuidoosten en oosten nog vrij warm, 18-19°C. Overdag wordt de warme en vochtige lucht uit het land verdreven. Uitgifte: 16/08/2026 02:25 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-08-16T03:15:57.636802"
   }
 ]
