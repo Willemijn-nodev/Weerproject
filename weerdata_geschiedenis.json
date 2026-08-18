@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1786435683,
-        "time": "11-08-2026 10:08:03",
-        "temp": 17.7,
-        "gtemp": 15.6,
-        "samenv": "Zwaar bewolkt",
-        "lv": 59,
-        "windr": "ONO",
-        "windrgr": 44.1,
-        "windms": 4.06,
-        "windbft": 3,
-        "windknp": 7.9,
-        "windkmh": 14.6,
-        "luchtd": 1027.02,
-        "ldmmhg": 770,
-        "dauwp": 9.4,
-        "zicht": 29600,
-        "gr": 502,
-        "verw": "Zonnig zomerweer, morgen in het zuiden tropisch warm.",
-        "sup": "06:15",
-        "sunder": "21:14",
-        "image": "bewolkt",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 11/08/2026 07:23 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-08-11T08:17:13.242368"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1786447683,
         "time": "11-08-2026 13:28:03",
         "temp": 21.8,
@@ -2806,5 +2770,41 @@
       }
     ],
     "opgehaald_op": "2026-08-18T07:58:51.401703"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1787044683,
+        "time": "18-08-2026 11:18:03",
+        "temp": 18.8,
+        "gtemp": 18.3,
+        "samenv": "Zwaar bewolkt",
+        "lv": 96,
+        "windr": "W",
+        "windrgr": 254.8,
+        "windms": 2.45,
+        "windbft": 2,
+        "windknp": 4.8,
+        "windkmh": 8.8,
+        "luchtd": 1008.12,
+        "ldmmhg": 756,
+        "dauwp": 18.2,
+        "zicht": 11000,
+        "gr": 358,
+        "verw": "Veel bewolking en regenachtig.",
+        "sup": "06:26",
+        "sunder": "20:59",
+        "image": "bewolkt",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 18/08/2026 11:04 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-08-18T09:19:22.294931"
   }
 ]
