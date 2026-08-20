@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1786624082,
-        "time": "13-08-2026 14:28:02",
-        "temp": 32.2,
-        "gtemp": 30.9,
-        "samenv": "Onbewolkt",
-        "lv": 23,
-        "windr": "ZZO",
-        "windrgr": 170.1,
-        "windms": 3.71,
-        "windbft": 3,
-        "windknp": 7.2,
-        "windkmh": 13.4,
-        "luchtd": 1022.41,
-        "ldmmhg": 767,
-        "dauwp": 8.3,
-        "zicht": 39400,
-        "gr": 794,
-        "verw": "Zonnig en tropisch warm. Morgen nog wat warmer",
-        "sup": "06:18",
-        "sunder": "21:10",
-        "image": "zonnig",
-        "alarm": 1,
-        "lkop": "Zeer warm",
-        "ltekst": "De komende dagen is het zeer warm. Vandaag en morgen is het Nationaal Hitteplan in het hele land actief. Ouderen en mensen met een kwetsbare gezondheid kunnen gezondheidsklachten krijgen door een langere periode van hitte. Vanaf zaterdag volgt enige afkoeling. DetailsVandaag is het tropisch warm komt de maximumtemperatuur in het hele land boven de 30°C uit. In het zuiden en zuidoosten wordt het 35°C, lokaal 36°C. De hittekracht is vanmiddag 6-7, plaatselijk 8. Vrijdag loopt de maximumtemperatuur uiteen van 33°C in het noorden tot 37°C in het zuiden en zuidoosten. Zeer lokaal is 38°C mogelijk. De hittekracht is dan 7-8, plaatselijk 9. Vooral de nachten naar vrijdag en zaterdag verlopen warm met minima rond 20°C in stedelijk gebied. Zaterdag volgt enige afkoeling en wordt het alleen in het zuidoosten mogelijk nog tropisch warm met ca. 32°C (hittekracht 6-7). Uitgifte: 13/08/2026 13:55 uur LT",
-        "wrschklr": "geel",
-        "wrsch_g": "13-08-2026 13:00",
-        "wrsch_gts": 1786618800,
-        "wrsch_gc": "geel"
-      }
-    ],
-    "opgehaald_op": "2026-08-13T12:36:04.731851"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1786637282,
         "time": "13-08-2026 18:08:02",
         "temp": 33,
@@ -3454,5 +3418,41 @@
       }
     ],
     "opgehaald_op": "2026-08-20T12:35:35.038796"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1787232483,
+        "time": "20-08-2026 15:28:03",
+        "temp": 16.6,
+        "gtemp": 15.2,
+        "samenv": "Lichte regen",
+        "lv": 86,
+        "windr": "WZW",
+        "windrgr": 239.8,
+        "windms": 3.03,
+        "windbft": 2,
+        "windknp": 5.9,
+        "windkmh": 10.9,
+        "luchtd": 1005.92,
+        "ldmmhg": 755,
+        "dauwp": 14.4,
+        "zicht": 28400,
+        "gr": 186,
+        "verw": "Vrij koel en buien, plaatselijk met onweer.",
+        "sup": "06:29",
+        "sunder": "20:55",
+        "image": "regen",
+        "alarm": 0,
+        "lkop": "Onweersbuien in het noorden en oosten, aan de kust kans op hozen",
+        "ltekst": "Vooral in het noorden en oosten komen onweersbuien voor, met kans op veel regen in korte tijd, windstoten en mogelijk ook hagel. Hiervan kunnen verkeer en buitenactiviteiten hinder ondervinden en daarom is er code geel van kracht. Daarnaast zijn er in de kustgebieden (water)hozen waargenomen. Bij de buien is er kans op kleine hagel, lokaal veel neerslag in korte tijd en windstoten tot 60 km/uur. Boven grote wateroppervlaktes kunnen ook waterhozen voorkomen. Hierbij kunnen zeer lokaal zware windstoten voorkomen. Uitgifte: 20/08/2026 15:00 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-08-20T13:38:08.350109"
   }
 ]
