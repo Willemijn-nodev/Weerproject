@@ -3490,5 +3490,41 @@
       }
     ],
     "opgehaald_op": "2026-08-20T14:24:43.685069"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1787239082,
+        "time": "20-08-2026 17:18:02",
+        "temp": 21.1,
+        "gtemp": 18.5,
+        "samenv": "Licht bewolkt",
+        "lv": 67,
+        "windr": "WZW",
+        "windrgr": 233.6,
+        "windms": 4.95,
+        "windbft": 3,
+        "windknp": 9.6,
+        "windkmh": 17.8,
+        "luchtd": 1005.71,
+        "ldmmhg": 754,
+        "dauwp": 15,
+        "zicht": 40500,
+        "gr": 319,
+        "verw": "Vrij koel en buien, plaatselijk met onweer.",
+        "sup": "06:29",
+        "sunder": "20:55",
+        "image": "lichtbewolkt",
+        "alarm": 0,
+        "lkop": "Onweersbuien in het noorden en oosten",
+        "ltekst": "Vooral in het noorden en oosten komen onweersbuien voor, met kans op veel regen in korte tijd, windstoten en mogelijk ook hagel. Hiervan kunnen verkeer en buitenactiviteiten hinder ondervinden en daarom is er code geel van kracht. Vanavond neemt de buiigheid geleidelijk af. Bij de buien is er kans op hagel tot ca. 1 cm, 20-30 mm neerslag in korte tijd en windstoten van ca. 60 km/uur. Uitgifte: 20/08/2026 17:00 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-08-20T15:23:29.011786"
   }
 ]
