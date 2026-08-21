@@ -3994,5 +3994,41 @@
       }
     ],
     "opgehaald_op": "2026-08-21T10:19:05.419519"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1787310482,
+        "time": "21-08-2026 13:08:02",
+        "temp": 18.6,
+        "gtemp": 17.3,
+        "samenv": "Motregen of motsneeuw",
+        "lv": 81,
+        "windr": "NO",
+        "windrgr": 33.8,
+        "windms": 3.23,
+        "windbft": 2,
+        "windknp": 6.3,
+        "windkmh": 11.6,
+        "luchtd": 1010.42,
+        "ldmmhg": 758,
+        "dauwp": 15.4,
+        "zicht": 38300,
+        "gr": 841,
+        "verw": "Vrij koel met buien, tussendoor ook af en toe zon.",
+        "sup": "06:31",
+        "sunder": "20:53",
+        "image": "sneeuw",
+        "alarm": 0,
+        "lkop": "Onweersbuien, vanmiddag vooral in het oosten en zuiden",
+        "ltekst": "De komende uren komen vooral boven het oosten en zuiden meer buien tot ontwikkeling. Plaatselijk zijn het felle buien met onweer, op enkele plaatsen ook met kleine hagel en veel regen in korte tijd. Verkeer en buiten activiteiten kunnen hinder ondervinden. Vanavond verdwijnen de meeste buien, maar in het zuidoosten gaan de buien mogelijk langer door. Plaatselijk kan bij buien kleine hagel tot ca. 1 cm voorkomen. Op enkele plaatsen kan 20-30 mm in korte tijd vallen. Uitgifte: 21/08/2026 11:26 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-08-21T11:16:25.826389"
   }
 ]
