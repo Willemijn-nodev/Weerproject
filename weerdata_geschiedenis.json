@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1786721282,
-        "time": "14-08-2026 17:28:02",
-        "temp": 35,
-        "gtemp": 34.7,
-        "samenv": "Licht bewolkt",
-        "lv": 25,
-        "windr": "WNW",
-        "windrgr": 289.8,
-        "windms": 2.39,
-        "windbft": 2,
-        "windknp": 4.6,
-        "windkmh": 8.6,
-        "luchtd": 1014.91,
-        "ldmmhg": 761,
-        "dauwp": 12.1,
-        "zicht": 41200,
-        "gr": 502,
-        "verw": "Zeer warm. Zaterdag kans op een bui en van het noordwesten uit koeler",
-        "sup": "06:19",
-        "sunder": "21:08",
-        "image": "lichtbewolkt",
-        "alarm": 1,
-        "lkop": "Zeer warm",
-        "ltekst": "Vanwege de (aanhoudende) hitte is het Nationaal Hitteplan in het hele land actief tot zaterdagochtend 8 uur, in het zuidoosten en oosten tot zondagochtend 8 uur. Ouderen en mensen met een kwetsbare gezondheid kunnen gezondheidsklachten krijgen door een langere periode van hitte. In stedelijke gebieden zullen huizen komende nacht moeilijk afkoelen. DetailsVandaag loopt de maximumtemperatuur uiteen van 33°C in het noorden tot 37°C in het zuiden en zuidoosten. Zeer lokaal is 38°C mogelijk. De hittekracht is dan 7-8, plaatselijk 9. Komende nacht verloopt warm met minima rond 20°C in stedelijke gebieden. Zaterdag overdag koelt het van het noordwesten uit langzaam af, maar wordt het in het zuidoosten en oosten nog tropisch warm met 30-32°C (hittekracht 6-7). Daar blijft het ook in de nacht naar zondag warm. Uitgifte: 14/08/2026 14:11 uur LT",
-        "wrschklr": "geel",
-        "wrsch_g": "14-08-2026 14:00",
-        "wrsch_gts": 1786708800,
-        "wrsch_gc": "geel"
-      }
-    ],
-    "opgehaald_op": "2026-08-14T15:38:35.000306"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1786732084,
         "time": "14-08-2026 20:28:04",
         "temp": 29.7,
@@ -4138,5 +4102,41 @@
       }
     ],
     "opgehaald_op": "2026-08-21T15:22:56.317213"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1787329082,
+        "time": "21-08-2026 18:18:02",
+        "temp": 19.6,
+        "gtemp": 18.3,
+        "samenv": "Zwaar bewolkt",
+        "lv": 66,
+        "windr": "N",
+        "windrgr": 344.1,
+        "windms": 2.84,
+        "windbft": 2,
+        "windknp": 5.5,
+        "windkmh": 10.2,
+        "luchtd": 1011.62,
+        "ldmmhg": 759,
+        "dauwp": 13.1,
+        "zicht": 42200,
+        "gr": 434,
+        "verw": "Vrij koel met buien, tussendoor ook af en toe zon.",
+        "sup": "06:31",
+        "sunder": "20:53",
+        "image": "bewolkt",
+        "alarm": 0,
+        "lkop": "In Limburg vanavond kans op onweersbuien",
+        "ltekst": "Vanavond kunnen in Limburg enkele stevige (onweers)buien voorkomen met lokaal kans op veel regen in korte tijd. Verkeer en buitenactiviteiten kunnen hinder ondervinden. Plaatselijk kan bij deze buien kleine hagel tot ca. 1 cm voorkomen. Met name in Zuid-Limburg kan 10-20 mm in korte tijd vallen. In het grensgebied van Zuid-Limburg kan tot halverwege komende nacht mogelijk ca. 30 mm vallen. Uitgifte: 21/08/2026 18:07 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-08-21T16:19:45.408058"
   }
 ]
