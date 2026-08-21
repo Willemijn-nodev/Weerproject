@@ -4066,5 +4066,41 @@
       }
     ],
     "opgehaald_op": "2026-08-21T13:37:43.339210"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1787321883,
+        "time": "21-08-2026 16:18:03",
+        "temp": 16.3,
+        "gtemp": 14.9,
+        "samenv": "Lichte regen",
+        "lv": 90,
+        "windr": "NW",
+        "windrgr": 312,
+        "windms": 3.09,
+        "windbft": 2,
+        "windknp": 6,
+        "windkmh": 11.1,
+        "luchtd": 1011.32,
+        "ldmmhg": 759,
+        "dauwp": 14.8,
+        "zicht": 15500,
+        "gr": 104,
+        "verw": "Vrij koel met buien, tussendoor ook af en toe zon.",
+        "sup": "06:31",
+        "sunder": "20:53",
+        "image": "regen",
+        "alarm": 0,
+        "lkop": "In Limburg vanavond kans op onweersbuien",
+        "ltekst": "Vanavond kunnen in Limburg enkele stevige (onweers)buien voorkomen met lokaal kans op veel regen in korte tijd. Verkeer en buitenactiviteiten kunnen hinder ondervinden. Plaatselijk kan bij deze buien kleine hagel tot ca. 1 cm voorkomen. Met name in Zuid-Limburg kan 10-20 mm in korte tijd vallen. In het grensgebied van Zuid-Limburg kan tot halverwege komende nacht mogelijk ca. 30 mm vallen. Uitgifte: 21/08/2026 15:37 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-08-21T14:24:07.141506"
   }
 ]
