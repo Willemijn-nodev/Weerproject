@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1786751284,
-        "time": "15-08-2026 01:48:04",
-        "temp": 18.7,
-        "gtemp": 18.7,
-        "samenv": "Licht bewolkt",
-        "lv": 91,
-        "windr": "N",
-        "windrgr": 347.6,
-        "windms": 0.94,
-        "windbft": 1,
-        "windknp": 1.8,
-        "windkmh": 3.4,
-        "luchtd": 1014.91,
-        "ldmmhg": 761,
-        "dauwp": 17.1,
-        "zicht": 22800,
-        "gr": 0,
-        "verw": "Vandaag kans op een bui en van het noordwesten uit minder warm.",
-        "sup": "06:21",
-        "sunder": "21:06",
-        "image": "wolkennacht",
-        "alarm": 1,
-        "lkop": "Zeer warm",
-        "ltekst": "Vanwege de (aanhoudende) hitte is het Nationaal Hitteplan in het hele land actief tot zaterdagochtend 8 uur, in het zuidoosten en oosten tot zondagochtend 8 uur. Ouderen en mensen met een kwetsbare gezondheid kunnen gezondheidsklachten krijgen door een langere periode van hitte. In stedelijke gebieden zullen huizen komende nacht moeilijk afkoelen. DetailsKomende nacht verloopt warm met minima rond 20°C in stedelijke gebieden. Zaterdag overdag koelt het van het noordwesten uit langzaam af, maar wordt het in het zuidoosten en oosten nog tropisch warm met 30-33°C (hittekracht 6-7). Daar blijft het ook in de nacht naar zondag warm. Uitgifte: 15/08/2026 00:38 uur LT",
-        "wrschklr": "geel",
-        "wrsch_g": "15-08-2026 00:00",
-        "wrsch_gts": 1786744800,
-        "wrsch_gc": "geel"
-      }
-    ],
-    "opgehaald_op": "2026-08-14T23:50:37.430144"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1786762682,
         "time": "15-08-2026 04:58:02",
         "temp": 19.8,
@@ -4246,5 +4210,41 @@
       }
     ],
     "opgehaald_op": "2026-08-21T23:14:05.905339"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1787358482,
+        "time": "22-08-2026 02:28:02",
+        "temp": 13.6,
+        "gtemp": 13,
+        "samenv": "Licht bewolkt",
+        "lv": 94,
+        "windr": "W",
+        "windrgr": 275.3,
+        "windms": 1.83,
+        "windbft": 2,
+        "windknp": 3.6,
+        "windkmh": 6.6,
+        "luchtd": 1014.32,
+        "ldmmhg": 761,
+        "dauwp": 12.8,
+        "zicht": 45800,
+        "gr": 0,
+        "verw": "Enkele buien. Zondag in het noordoosten nog een bui",
+        "sup": "06:33",
+        "sunder": "20:51",
+        "image": "wolkennacht",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 22/08/2026 00:18 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-08-22T00:33:45.935267"
   }
 ]
