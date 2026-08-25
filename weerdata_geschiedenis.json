@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1787022482,
-        "time": "18-08-2026 05:08:02",
-        "temp": 15.2,
-        "gtemp": 14.6,
-        "samenv": "Lichte regen",
-        "lv": 97,
-        "windr": "ZZO",
-        "windrgr": 171,
-        "windms": 1.83,
-        "windbft": 2,
-        "windknp": 3.6,
-        "windkmh": 6.6,
-        "luchtd": 1012.02,
-        "ldmmhg": 759,
-        "dauwp": 14.8,
-        "zicht": 14000,
-        "gr": 0,
-        "verw": "Veel bewolking en regenachtig.",
-        "sup": "06:26",
-        "sunder": "20:59",
-        "image": "regen",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 18/08/2026 02:07 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-08-18T03:10:15.158950"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1787029683,
         "time": "18-08-2026 07:08:03",
         "temp": 15.2,
@@ -5002,5 +4966,41 @@
       }
     ],
     "opgehaald_op": "2026-08-25T02:11:46.240811"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1787628482,
+        "time": "25-08-2026 05:28:02",
+        "temp": 12,
+        "gtemp": 9.6,
+        "samenv": "Onbewolkt",
+        "lv": 85,
+        "windr": "NO",
+        "windrgr": 41.2,
+        "windms": 3.96,
+        "windbft": 3,
+        "windknp": 7.7,
+        "windkmh": 14.3,
+        "luchtd": 1015.02,
+        "ldmmhg": 761,
+        "dauwp": 9.6,
+        "zicht": 44700,
+        "gr": 0,
+        "verw": "Overdag vrij zonnig en meest droog.",
+        "sup": "06:37",
+        "sunder": "20:44",
+        "image": "zonnig",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 25/08/2026 04:47 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-08-25T03:38:53.691489"
   }
 ]
