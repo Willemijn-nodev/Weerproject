@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1787009882,
-        "time": "18-08-2026 01:38:02",
-        "temp": 13.7,
-        "gtemp": 13.7,
-        "samenv": "Licht bewolkt",
-        "lv": 99,
-        "windr": "ZW",
-        "windrgr": 220.2,
-        "windms": 1.15,
-        "windbft": 1,
-        "windknp": 2.2,
-        "windkmh": 4.1,
-        "luchtd": 1014.72,
-        "ldmmhg": 761,
-        "dauwp": 13.7,
-        "zicht": 42800,
-        "gr": 0,
-        "verw": "Morgen vooral in de ochtend regen.",
-        "sup": "06:26",
-        "sunder": "20:59",
-        "image": "wolkennacht",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 17/08/2026 22:08 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-08-17T23:47:23.692363"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1787022482,
         "time": "18-08-2026 05:08:02",
         "temp": 15.2,
@@ -4966,5 +4930,41 @@
       }
     ],
     "opgehaald_op": "2026-08-24T23:13:21.850844"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1787617683,
+        "time": "25-08-2026 02:28:03",
+        "temp": 13.8,
+        "gtemp": 12.3,
+        "samenv": "Onbewolkt",
+        "lv": 76,
+        "windr": "ONO",
+        "windrgr": 51.1,
+        "windms": 2.92,
+        "windbft": 2,
+        "windknp": 5.7,
+        "windkmh": 10.5,
+        "luchtd": 1016.12,
+        "ldmmhg": 762,
+        "dauwp": 9.7,
+        "zicht": 48100,
+        "gr": 0,
+        "verw": "Droog. Morgen warmer, in het midden en noorden veel zon",
+        "sup": "06:37",
+        "sunder": "20:44",
+        "image": "zonnig",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 25/08/2026 01:30 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-08-25T00:34:18.251063"
   }
 ]
