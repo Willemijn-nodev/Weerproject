@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1787140082,
-        "time": "19-08-2026 13:48:02",
-        "temp": 19.4,
-        "gtemp": 18.9,
-        "samenv": "Zwaar bewolkt",
-        "lv": 78,
-        "windr": "W",
-        "windrgr": 275,
-        "windms": 2.12,
-        "windbft": 2,
-        "windknp": 4.1,
-        "windkmh": 7.6,
-        "luchtd": 1004.31,
-        "ldmmhg": 753,
-        "dauwp": 15.5,
-        "zicht": 46100,
-        "gr": 219,
-        "verw": "Wisselvallig en vrij koel.",
-        "sup": "06:28",
-        "sunder": "20:57",
-        "image": "bewolkt",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 19/08/2026 11:35 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-08-19T11:56:22.980598"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1787147882,
         "time": "19-08-2026 15:58:02",
         "temp": 18.6,
@@ -5470,5 +5434,41 @@
       }
     ],
     "opgehaald_op": "2026-08-26T11:20:16.939515"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1787746682,
+        "time": "26-08-2026 14:18:02",
+        "temp": 24.9,
+        "gtemp": 23.2,
+        "samenv": "Zwaar bewolkt",
+        "lv": 54,
+        "windr": "ZZO",
+        "windrgr": 140.1,
+        "windms": 3.85,
+        "windbft": 3,
+        "windknp": 7.5,
+        "windkmh": 13.9,
+        "luchtd": 1015.72,
+        "ldmmhg": 762,
+        "dauwp": 14.5,
+        "zicht": 34100,
+        "gr": 682,
+        "verw": "Perioden met zon en vrij warm. Morgen warmer en een enkele (onweers)bui",
+        "sup": "06:39",
+        "sunder": "20:42",
+        "image": "bewolkt",
+        "alarm": 0,
+        "lkop": "Donderdagavond en in de nacht naar vrijdag kans op onweersbuien",
+        "ltekst": "Er zijn op dit moment geen waarschuwingen van kracht. Donderdagavond neemt in het zuiden van het land de kans op onweersbuien toe. De buien trekken noordwaarts en verlaten het noorden van het land aan het eind van de nacht. Bij de buien is er kans op hagel, windstoten en veel regen in korte tijd. Lokale wateroverlast is mogelijk. Verkeer en buitenactiviteiten kunnen hinder ondervinden. Bij de buien zijn windstoten mogelijk tot rond 60 km/uur. Er kan hagel tot 2 cm voorkomen. Neerslaghoeveelheden van 20-40 mm. kunnen voorkomen, plaatselijk meer dan 40 mm. Uitgifte: 26/08/2026 13:26 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "27-08-2026 22:00",
+        "wrsch_gts": 1787860800,
+        "wrsch_gc": "geel"
+      }
+    ],
+    "opgehaald_op": "2026-08-26T12:26:53.303339"
   }
 ]
