@@ -5470,5 +5470,41 @@
       }
     ],
     "opgehaald_op": "2026-08-26T12:26:53.303339"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1787750282,
+        "time": "26-08-2026 15:18:02",
+        "temp": 24.8,
+        "gtemp": 23.1,
+        "samenv": "Licht bewolkt",
+        "lv": 55,
+        "windr": "ZZO",
+        "windrgr": 145.2,
+        "windms": 3.54,
+        "windbft": 3,
+        "windknp": 6.9,
+        "windkmh": 12.7,
+        "luchtd": 1015.32,
+        "ldmmhg": 762,
+        "dauwp": 15.2,
+        "zicht": 29800,
+        "gr": 735,
+        "verw": "Perioden met zon en vrij warm. Morgen warmer en een enkele (onweers)bui",
+        "sup": "06:39",
+        "sunder": "20:42",
+        "image": "lichtbewolkt",
+        "alarm": 0,
+        "lkop": "Donderdagavond en in de nacht naar vrijdag kans op onweersbuien",
+        "ltekst": "Er zijn op dit moment geen waarschuwingen van kracht. Donderdagavond neemt in het zuiden van het land de kans op onweersbuien toe. De buien trekken noordwaarts en verlaten het noorden van het land aan het eind van de nacht. Bij de buien is er kans op hagel, windstoten en veel regen in korte tijd. Lokale wateroverlast is mogelijk. Verkeer en buitenactiviteiten kunnen hinder ondervinden. Bij de buien zijn windstoten mogelijk tot rond 60 km/uur. Er kan hagel tot 2 cm voorkomen. Neerslaghoeveelheden van 20-40 mm. kunnen voorkomen, plaatselijk meer dan 40 mm. Uitgifte: 26/08/2026 14:15 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "27-08-2026 22:00",
+        "wrsch_gts": 1787860800,
+        "wrsch_gc": "geel"
+      }
+    ],
+    "opgehaald_op": "2026-08-26T13:46:03.530416"
   }
 ]
