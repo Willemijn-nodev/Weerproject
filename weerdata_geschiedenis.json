@@ -3,114 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1787176084,
-        "time": "19-08-2026 23:48:04",
-        "temp": 15.4,
-        "gtemp": 14,
-        "samenv": "Lichte regen",
-        "lv": 99,
-        "windr": "ZW",
-        "windrgr": 221.2,
-        "windms": 2.57,
-        "windbft": 2,
-        "windknp": 5,
-        "windkmh": 9.3,
-        "luchtd": 1004.62,
-        "ldmmhg": 754,
-        "dauwp": 15.4,
-        "zicht": 13900,
-        "gr": 0,
-        "verw": "Wisselvallig en vrij koel.",
-        "sup": "06:28",
-        "sunder": "20:57",
-        "image": "regen",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 19/08/2026 22:34 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-08-19T21:56:32.958417"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
-        "timestamp": 1787179682,
-        "time": "20-08-2026 00:48:02",
-        "temp": 15.4,
-        "gtemp": 14,
-        "samenv": "Licht bewolkt",
-        "lv": 99,
-        "windr": "WZW",
-        "windrgr": 227.3,
-        "windms": 2.59,
-        "windbft": 2,
-        "windknp": 5,
-        "windkmh": 9.3,
-        "luchtd": 1004.61,
-        "ldmmhg": 754,
-        "dauwp": 15.3,
-        "zicht": 12800,
-        "gr": 0,
-        "verw": "Vrij koel en buien, soms met onweer.",
-        "sup": "06:29",
-        "sunder": "20:55",
-        "image": "wolkennacht",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 19/08/2026 22:34 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-08-19T22:56:15.520079"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
-        "timestamp": 1787182682,
-        "time": "20-08-2026 01:38:02",
-        "temp": 15.5,
-        "gtemp": 14.1,
-        "samenv": "Zwaar bewolkt",
-        "lv": 99,
-        "windr": "ZW",
-        "windrgr": 220,
-        "windms": 2.61,
-        "windbft": 2,
-        "windknp": 5.1,
-        "windkmh": 9.4,
-        "luchtd": 1005.01,
-        "ldmmhg": 754,
-        "dauwp": 15.4,
-        "zicht": 15700,
-        "gr": 0,
-        "verw": "Vrij koel en buien, soms met onweer.",
-        "sup": "06:29",
-        "sunder": "20:55",
-        "image": "wolkennacht",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 19/08/2026 22:34 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-08-19T23:48:04.350986"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1787195283,
         "time": "20-08-2026 05:08:03",
         "temp": 15.5,
@@ -5470,5 +5362,41 @@
       }
     ],
     "opgehaald_op": "2026-08-26T21:26:18.459076"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1787797081,
+        "time": "27-08-2026 04:18:01",
+        "temp": 16.3,
+        "gtemp": 14.9,
+        "samenv": "Licht bewolkt",
+        "lv": 90,
+        "windr": "O",
+        "windrgr": 84.5,
+        "windms": 2.55,
+        "windbft": 2,
+        "windknp": 5,
+        "windkmh": 9.2,
+        "luchtd": 1013.41,
+        "ldmmhg": 760,
+        "dauwp": 14.5,
+        "zicht": 13300,
+        "gr": 0,
+        "verw": "Perioden met zon en drukkend warm. Vanaf vanavond regen- en onweersbuien",
+        "sup": "06:41",
+        "sunder": "20:40",
+        "image": "wolkennacht",
+        "alarm": 0,
+        "lkop": "Vanaf donderdagavond plaatselijk enkele stevige onweersbuien",
+        "ltekst": "Er zijn op dit moment geen waarschuwingen. Donderdagavond neemt in het zuiden van het land de kans op onweersbuien toe. De buien trekken noordwaarts en verlaten het noorden van het land aan het einde van de nacht naar vrijdag. Vrijdagmiddag trekken opnieuw enkele onweersbuien over het land. Deze buien trekken van zuidwest naar noordoost en verlaten vrijdagavond het land. Bij de onweersbuien is er kans op windstoten, hagel en veel regen in korte tijd. Lokale wateroverlast is mogelijk. Verkeer en buitenactiviteiten kunnen hinder ondervinden. Bij de buien zijn windstoten mogelijk tot 75 km/uur. Er kan vooral in het oosten hagel tot 2 cm voorkomen. Plaatselijk kan er 20-40 mm neerslag in korte tijd vallen. Uitgifte: 27/08/2026 00:35 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "27-08-2026 22:00",
+        "wrsch_gts": 1787860800,
+        "wrsch_gc": "geel"
+      }
+    ],
+    "opgehaald_op": "2026-08-27T02:22:54.034947"
   }
 ]
