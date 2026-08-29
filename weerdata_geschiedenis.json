@@ -3,114 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1787411283,
-        "time": "22-08-2026 17:08:03",
-        "temp": 18.8,
-        "gtemp": 16.8,
-        "samenv": "Zwaar bewolkt",
-        "lv": 61,
-        "windr": "NW",
-        "windrgr": 311.5,
-        "windms": 4.2,
-        "windbft": 3,
-        "windknp": 8.2,
-        "windkmh": 15.1,
-        "luchtd": 1021.22,
-        "ldmmhg": 766,
-        "dauwp": 11.1,
-        "zicht": 41900,
-        "gr": 459,
-        "verw": "Enkele buien, zondag vooral nog in het noordoosten.",
-        "sup": "06:33",
-        "sunder": "20:51",
-        "image": "bewolkt",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 22/08/2026 14:17 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-08-22T15:10:41.750032"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
-        "timestamp": 1787414882,
-        "time": "22-08-2026 18:08:02",
-        "temp": 18.9,
-        "gtemp": 16.9,
-        "samenv": "Half bewolkt",
-        "lv": 52,
-        "windr": "NNW",
-        "windrgr": 315.1,
-        "windms": 3.93,
-        "windbft": 3,
-        "windknp": 7.6,
-        "windkmh": 14.1,
-        "luchtd": 1021.52,
-        "ldmmhg": 766,
-        "dauwp": 9.7,
-        "zicht": 42100,
-        "gr": 317,
-        "verw": "Enkele buien, zondag vooral nog in het noordoosten.",
-        "sup": "06:33",
-        "sunder": "20:51",
-        "image": "halfbewolkt",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 22/08/2026 17:03 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-08-22T16:11:09.224950"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
-        "timestamp": 1787418482,
-        "time": "22-08-2026 19:08:02",
-        "temp": 18,
-        "gtemp": 15.9,
-        "samenv": "Zwaar bewolkt",
-        "lv": 60,
-        "windr": "NW",
-        "windrgr": 304.8,
-        "windms": 3.5,
-        "windbft": 3,
-        "windknp": 6.8,
-        "windkmh": 12.6,
-        "luchtd": 1021.92,
-        "ldmmhg": 767,
-        "dauwp": 9.9,
-        "zicht": 45100,
-        "gr": 106,
-        "verw": "Enkele buien, zondag vooral nog in het noordoosten.",
-        "sup": "06:33",
-        "sunder": "20:51",
-        "image": "bewolkt",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 22/08/2026 17:03 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-08-22T17:11:59.349303"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1787422083,
         "time": "22-08-2026 20:08:03",
         "temp": 16.9,
@@ -3706,5 +3598,41 @@
       }
     ],
     "opgehaald_op": "2026-08-29T14:47:11.084659"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1788026283,
+        "time": "29-08-2026 19:58:03",
+        "temp": 17.9,
+        "gtemp": 15.8,
+        "samenv": "Zwaar bewolkt",
+        "lv": 98,
+        "windr": "ZZO",
+        "windrgr": 185.3,
+        "windms": 4.24,
+        "windbft": 3,
+        "windknp": 8.2,
+        "windkmh": 15.3,
+        "luchtd": 1006.31,
+        "ldmmhg": 755,
+        "dauwp": 17.6,
+        "zicht": 8330,
+        "gr": 12,
+        "verw": "Wisselvallig weekeinde met soms buien.",
+        "sup": "06:44",
+        "sunder": "20:35",
+        "image": "bewolkt",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 29/08/2026 17:39 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-08-29T18:00:20.629367"
   }
 ]
