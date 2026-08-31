@@ -3,78 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1787526482,
-        "time": "24-08-2026 01:08:02",
-        "temp": 9.9,
-        "gtemp": 9.9,
-        "samenv": "Onbewolkt",
-        "lv": 99,
-        "windr": "N",
-        "windrgr": 351.6,
-        "windms": 0.33,
-        "windbft": 1,
-        "windknp": 0.6,
-        "windkmh": 1.2,
-        "luchtd": 1024.53,
-        "ldmmhg": 768,
-        "dauwp": 9.7,
-        "zicht": 443,
-        "gr": 0,
-        "verw": "Maandag zonnige perioden en droog.",
-        "sup": "06:36",
-        "sunder": "20:47",
-        "image": "zonnig",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 23/08/2026 22:20 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-08-23T23:11:49.289498"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
-        "timestamp": 1787531282,
-        "time": "24-08-2026 02:28:02",
-        "temp": 8.9,
-        "gtemp": 8.9,
-        "samenv": "Onbewolkt",
-        "lv": 99,
-        "windr": "N",
-        "windrgr": 351.6,
-        "windms": 0.02,
-        "windbft": 1,
-        "windknp": 0,
-        "windkmh": 0.1,
-        "luchtd": 1024.33,
-        "ldmmhg": 768,
-        "dauwp": 8.7,
-        "zicht": 7150,
-        "gr": 0,
-        "verw": "Maandag zonnige perioden en droog.",
-        "sup": "06:36",
-        "sunder": "20:47",
-        "image": "zonnig",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 24/08/2026 00:42 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-08-24T00:35:52.523481"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1787537283,
         "time": "24-08-2026 04:08:03",
         "temp": 9.3,
@@ -2914,5 +2842,41 @@
       }
     ],
     "opgehaald_op": "2026-08-30T23:00:35.950576"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1788137882,
+        "time": "31-08-2026 02:58:02",
+        "temp": 17.2,
+        "gtemp": 15.8,
+        "samenv": "Zwaar bewolkt",
+        "lv": 88,
+        "windr": "ZZO",
+        "windrgr": 177,
+        "windms": 2.57,
+        "windbft": 2,
+        "windknp": 5,
+        "windkmh": 9.3,
+        "luchtd": 1008.41,
+        "ldmmhg": 756,
+        "dauwp": 15.2,
+        "zicht": 49900,
+        "gr": 0,
+        "verw": "Wisselvallig, vandaag stevige (onweers)buien.",
+        "sup": "06:47",
+        "sunder": "20:31",
+        "image": "wolkennacht",
+        "alarm": 0,
+        "lkop": "In de kustprovincies kans op stevige onweersbuien, vooral in Noord-Holland plaatselijk wateroverlast",
+        "ltekst": "Tot en met morgenmiddag komen er vooral in de kustprovincies soms stevige (onweers)buien voor met veel regen in korte tijd en windstoten tot ongeveer 70 km/uur. Het verkeer kan hinder ondervinden van zware neerslag door aquaplaning. De meeste buien trekken over de provincie Noord-Holland waardoor er vooral daar plaatselijk risico is op wateroverlast. Vooral in Noord-Holland kan er 50-70 mm regen vallen in 12 tot 24 uur. Uitgifte: 30/08/2026 23:52 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-08-31T01:06:06.031594"
   }
 ]
