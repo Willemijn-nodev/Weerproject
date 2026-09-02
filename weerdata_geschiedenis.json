@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1787779082,
-        "time": "26-08-2026 23:18:02",
-        "temp": 19.2,
-        "gtemp": 17.2,
-        "samenv": "Zwaar bewolkt",
-        "lv": 75,
-        "windr": "O",
-        "windrgr": 79.5,
-        "windms": 3.54,
-        "windbft": 3,
-        "windknp": 6.9,
-        "windkmh": 12.7,
-        "luchtd": 1014.91,
-        "ldmmhg": 761,
-        "dauwp": 14.6,
-        "zicht": 38800,
-        "gr": 0,
-        "verw": "Perioden met zon en vrij warm. Morgen warmer en een enkele (onweers)bui",
-        "sup": "06:39",
-        "sunder": "20:42",
-        "image": "wolkennacht",
-        "alarm": 0,
-        "lkop": "Donderdagavond en in de nacht naar vrijdag kans op onweersbuien",
-        "ltekst": "Er zijn op dit moment geen waarschuwingen van kracht. Donderdagavond neemt in het zuiden van het land de kans op onweersbuien toe. De buien trekken noordwaarts en verlaten het noorden van het land aan het eind van de nacht. Bij de buien is er kans op hagel, windstoten en veel regen in korte tijd. Lokale wateroverlast is mogelijk. Verkeer en buitenactiviteiten kunnen hinder ondervinden. Bij de buien zijn windstoten mogelijk tot rond 60 km/uur. Er kan hagel tot 2 cm voorkomen. Tijdens de buien kan er in het totaal 20-40 mm neerslag vallen, plaatselijk meer dan 40 mm. Uitgifte: 26/08/2026 20:50 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "27-08-2026 22:00",
-        "wrsch_gts": 1787860800,
-        "wrsch_gc": "geel"
-      }
-    ],
-    "opgehaald_op": "2026-08-26T21:26:18.459076"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1787797081,
         "time": "27-08-2026 04:18:01",
         "temp": 16.3,
@@ -1222,5 +1186,41 @@
       }
     ],
     "opgehaald_op": "2026-09-02T19:04:13.424546"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1788386282,
+        "time": "02-09-2026 23:58:02",
+        "temp": 17.6,
+        "gtemp": 16.3,
+        "samenv": "Zwaar bewolkt",
+        "lv": 86,
+        "windr": "ZZO",
+        "windrgr": 184,
+        "windms": 2.84,
+        "windbft": 2,
+        "windknp": 5.5,
+        "windkmh": 10.2,
+        "luchtd": 1018.22,
+        "ldmmhg": 764,
+        "dauwp": 15.1,
+        "zicht": 41300,
+        "gr": 0,
+        "verw": "Van het westen uit af en toe regen.",
+        "sup": "06:51",
+        "sunder": "20:26",
+        "image": "wolkennacht",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 02/09/2026 20:28 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-09-02T22:08:06.891449"
   }
 ]
