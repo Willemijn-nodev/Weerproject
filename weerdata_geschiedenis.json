@@ -3,114 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1787746682,
-        "time": "26-08-2026 14:18:02",
-        "temp": 24.9,
-        "gtemp": 23.2,
-        "samenv": "Zwaar bewolkt",
-        "lv": 54,
-        "windr": "ZZO",
-        "windrgr": 140.1,
-        "windms": 3.85,
-        "windbft": 3,
-        "windknp": 7.5,
-        "windkmh": 13.9,
-        "luchtd": 1015.72,
-        "ldmmhg": 762,
-        "dauwp": 14.5,
-        "zicht": 34100,
-        "gr": 682,
-        "verw": "Perioden met zon en vrij warm. Morgen warmer en een enkele (onweers)bui",
-        "sup": "06:39",
-        "sunder": "20:42",
-        "image": "bewolkt",
-        "alarm": 0,
-        "lkop": "Donderdagavond en in de nacht naar vrijdag kans op onweersbuien",
-        "ltekst": "Er zijn op dit moment geen waarschuwingen van kracht. Donderdagavond neemt in het zuiden van het land de kans op onweersbuien toe. De buien trekken noordwaarts en verlaten het noorden van het land aan het eind van de nacht. Bij de buien is er kans op hagel, windstoten en veel regen in korte tijd. Lokale wateroverlast is mogelijk. Verkeer en buitenactiviteiten kunnen hinder ondervinden. Bij de buien zijn windstoten mogelijk tot rond 60 km/uur. Er kan hagel tot 2 cm voorkomen. Neerslaghoeveelheden van 20-40 mm. kunnen voorkomen, plaatselijk meer dan 40 mm. Uitgifte: 26/08/2026 13:26 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "27-08-2026 22:00",
-        "wrsch_gts": 1787860800,
-        "wrsch_gc": "geel"
-      }
-    ],
-    "opgehaald_op": "2026-08-26T12:26:53.303339"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
-        "timestamp": 1787750282,
-        "time": "26-08-2026 15:18:02",
-        "temp": 24.8,
-        "gtemp": 23.1,
-        "samenv": "Licht bewolkt",
-        "lv": 55,
-        "windr": "ZZO",
-        "windrgr": 145.2,
-        "windms": 3.54,
-        "windbft": 3,
-        "windknp": 6.9,
-        "windkmh": 12.7,
-        "luchtd": 1015.32,
-        "ldmmhg": 762,
-        "dauwp": 15.2,
-        "zicht": 29800,
-        "gr": 735,
-        "verw": "Perioden met zon en vrij warm. Morgen warmer en een enkele (onweers)bui",
-        "sup": "06:39",
-        "sunder": "20:42",
-        "image": "lichtbewolkt",
-        "alarm": 0,
-        "lkop": "Donderdagavond en in de nacht naar vrijdag kans op onweersbuien",
-        "ltekst": "Er zijn op dit moment geen waarschuwingen van kracht. Donderdagavond neemt in het zuiden van het land de kans op onweersbuien toe. De buien trekken noordwaarts en verlaten het noorden van het land aan het eind van de nacht. Bij de buien is er kans op hagel, windstoten en veel regen in korte tijd. Lokale wateroverlast is mogelijk. Verkeer en buitenactiviteiten kunnen hinder ondervinden. Bij de buien zijn windstoten mogelijk tot rond 60 km/uur. Er kan hagel tot 2 cm voorkomen. Neerslaghoeveelheden van 20-40 mm. kunnen voorkomen, plaatselijk meer dan 40 mm. Uitgifte: 26/08/2026 14:15 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "27-08-2026 22:00",
-        "wrsch_gts": 1787860800,
-        "wrsch_gc": "geel"
-      }
-    ],
-    "opgehaald_op": "2026-08-26T13:46:03.530416"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
-        "timestamp": 1787753883,
-        "time": "26-08-2026 16:18:03",
-        "temp": 25.2,
-        "gtemp": 24.1,
-        "samenv": "Half bewolkt",
-        "lv": 53,
-        "windr": "ZO",
-        "windrgr": 127.9,
-        "windms": 3.19,
-        "windbft": 2,
-        "windknp": 6.2,
-        "windkmh": 11.5,
-        "luchtd": 1015.02,
-        "ldmmhg": 761,
-        "dauwp": 14.7,
-        "zicht": 28000,
-        "gr": 654,
-        "verw": "Perioden met zon en vrij warm. Morgen warmer en een enkele (onweers)bui",
-        "sup": "06:39",
-        "sunder": "20:42",
-        "image": "halfbewolkt",
-        "alarm": 0,
-        "lkop": "Donderdagavond en in de nacht naar vrijdag kans op onweersbuien",
-        "ltekst": "Er zijn op dit moment geen waarschuwingen van kracht. Donderdagavond neemt in het zuiden van het land de kans op onweersbuien toe. De buien trekken noordwaarts en verlaten het noorden van het land aan het eind van de nacht. Bij de buien is er kans op hagel, windstoten en veel regen in korte tijd. Lokale wateroverlast is mogelijk. Verkeer en buitenactiviteiten kunnen hinder ondervinden. Bij de buien zijn windstoten mogelijk tot rond 60 km/uur. Er kan hagel tot 2 cm voorkomen. Neerslaghoeveelheden van 20-40 mm. kunnen voorkomen, plaatselijk meer dan 40 mm. Uitgifte: 26/08/2026 15:49 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "27-08-2026 22:00",
-        "wrsch_gts": 1787860800,
-        "wrsch_gc": "geel"
-      }
-    ],
-    "opgehaald_op": "2026-08-26T14:34:53.210687"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1787760483,
         "time": "26-08-2026 18:08:03",
         "temp": 24.8,
@@ -1330,5 +1222,41 @@
       }
     ],
     "opgehaald_op": "2026-09-02T11:51:24.395720"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1788362882,
+        "time": "02-09-2026 17:28:02",
+        "temp": 20.6,
+        "gtemp": 18.7,
+        "samenv": "Lichte regen",
+        "lv": 65,
+        "windr": "WZW",
+        "windrgr": 244.9,
+        "windms": 3.83,
+        "windbft": 3,
+        "windknp": 7.4,
+        "windkmh": 13.8,
+        "luchtd": 1019.52,
+        "ldmmhg": 765,
+        "dauwp": 13.5,
+        "zicht": 36800,
+        "gr": 158,
+        "verw": "Vanmiddag een enkele bui. Later vanavond en morgen af en toe (mot)regen.",
+        "sup": "06:51",
+        "sunder": "20:26",
+        "image": "regen",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 02/09/2026 16:21 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-09-02T15:32:10.479368"
   }
 ]
