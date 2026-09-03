@@ -1330,5 +1330,41 @@
       }
     ],
     "opgehaald_op": "2026-09-03T18:13:55.640246"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1788470882,
+        "time": "03-09-2026 23:28:02",
+        "temp": 20.4,
+        "gtemp": 19.1,
+        "samenv": "Zwaar bewolkt",
+        "lv": 86,
+        "windr": "ZW",
+        "windrgr": 224.5,
+        "windms": 5.91,
+        "windbft": 4,
+        "windknp": 11.5,
+        "windkmh": 21.3,
+        "luchtd": 1015.81,
+        "ldmmhg": 762,
+        "dauwp": 18.2,
+        "zicht": 44100,
+        "gr": 0,
+        "verw": "Vanavond een enkele bui. Morgen perioden met regen, in de ochtend veel wind",
+        "sup": "06:52",
+        "sunder": "20:24",
+        "image": "wolkennacht",
+        "alarm": 0,
+        "lkop": "Vrijdagochtend kans op zware windstoten in het westelijk Wadden- en kustgebied en op het IJsselmeer",
+        "ltekst": "Vrijdagochtend zijn in de het westelijk Wadden- en kustgebied en op het IJsselmeer zware windstoten mogelijk. Het verkeer en buitenactiviteiten kunnen daar hinder van ondervinden. Begin van de middag neemt de wind weer af. Er kunnen windstoten voorkomen van 75 tot 90 km/uur. De windstoten komen uit een zuidwestelijke richting. Uitgifte: 03/09/2026 22:26 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-09-03T21:31:29.278999"
   }
 ]
