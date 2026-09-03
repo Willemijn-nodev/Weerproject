@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1787797081,
-        "time": "27-08-2026 04:18:01",
-        "temp": 16.3,
-        "gtemp": 14.9,
-        "samenv": "Licht bewolkt",
-        "lv": 90,
-        "windr": "O",
-        "windrgr": 84.5,
-        "windms": 2.55,
-        "windbft": 2,
-        "windknp": 5,
-        "windkmh": 9.2,
-        "luchtd": 1013.41,
-        "ldmmhg": 760,
-        "dauwp": 14.5,
-        "zicht": 13300,
-        "gr": 0,
-        "verw": "Perioden met zon en drukkend warm. Vanaf vanavond regen- en onweersbuien",
-        "sup": "06:41",
-        "sunder": "20:40",
-        "image": "wolkennacht",
-        "alarm": 0,
-        "lkop": "Vanaf donderdagavond plaatselijk enkele stevige onweersbuien",
-        "ltekst": "Er zijn op dit moment geen waarschuwingen. Donderdagavond neemt in het zuiden van het land de kans op onweersbuien toe. De buien trekken noordwaarts en verlaten het noorden van het land aan het einde van de nacht naar vrijdag. Vrijdagmiddag trekken opnieuw enkele onweersbuien over het land. Deze buien trekken van zuidwest naar noordoost en verlaten vrijdagavond het land. Bij de onweersbuien is er kans op windstoten, hagel en veel regen in korte tijd. Lokale wateroverlast is mogelijk. Verkeer en buitenactiviteiten kunnen hinder ondervinden. Bij de buien zijn windstoten mogelijk tot 75 km/uur. Er kan vooral in het oosten hagel tot 2 cm voorkomen. Plaatselijk kan er 20-40 mm neerslag in korte tijd vallen. Uitgifte: 27/08/2026 00:35 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "27-08-2026 22:00",
-        "wrsch_gts": 1787860800,
-        "wrsch_gc": "geel"
-      }
-    ],
-    "opgehaald_op": "2026-08-27T02:22:54.034947"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1787836082,
         "time": "27-08-2026 15:08:02",
         "temp": 25.7,
@@ -1258,5 +1222,41 @@
       }
     ],
     "opgehaald_op": "2026-09-03T00:52:02.565130"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1788412682,
+        "time": "03-09-2026 07:18:02",
+        "temp": 18.3,
+        "gtemp": 15.5,
+        "samenv": "Zwaar bewolkt",
+        "lv": 94,
+        "windr": "ZW",
+        "windrgr": 223.2,
+        "windms": 4.66,
+        "windbft": 3,
+        "windknp": 9.1,
+        "windkmh": 16.8,
+        "luchtd": 1015.22,
+        "ldmmhg": 761,
+        "dauwp": 16.9,
+        "zicht": 3960,
+        "gr": 523,
+        "verw": "Af en toe (mot)regen. Vrijdag veel regen en wind.",
+        "sup": "06:52",
+        "sunder": "20:24",
+        "image": "bewolkt",
+        "alarm": 0,
+        "lkop": "Morgenochtend plaatselijk windstoten mogelijk van 75-90 km/u in het westelijk kustgebied",
+        "ltekst": "Morgenochtend zijn in het westelijk kustgebied windstoten mogelijk van 75-90 km/u. Hiervan kan het verkeer hinder ondervinden en ook kan er overlast zijn voor buitenactiviteiten. Uitgifte: 03/09/2026 04:57 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-09-03T05:19:12.629958"
   }
 ]
