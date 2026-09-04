@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1787901484,
-        "time": "28-08-2026 09:18:04",
-        "temp": 19.1,
-        "gtemp": 18.6,
-        "samenv": "Zwaar bewolkt",
-        "lv": 97,
-        "windr": "ZW",
-        "windrgr": 207.2,
-        "windms": 2.26,
-        "windbft": 2,
-        "windknp": 4.4,
-        "windkmh": 8.1,
-        "luchtd": 1006.61,
-        "ldmmhg": 755,
-        "dauwp": 18.7,
-        "zicht": 3360,
-        "gr": 168,
-        "verw": "Af en toe zon en buien, vooral vanmiddag plaatselijk met onweer.",
-        "sup": "06:42",
-        "sunder": "20:38",
-        "image": "bewolkt",
-        "alarm": 0,
-        "lkop": "Vanmiddag plaatselijk een stevige onweersbui",
-        "ltekst": "Tot vanmiddag zijn er geen waarschuwingen. Vanmiddag trekken enkele onweersbuien over het land. Deze buien trekken van zuidwest naar noordoost en verlaten in de vroege avond het land. Bij de onweersbuien is er kans op windstoten, hagel en veel regen in korte tijd. Op enkele plaatsen kunnen boomtakken afbreken. Ook is lokale wateroverlast mogelijk. Verkeer en buitenactiviteiten kunnen hinder ondervinden. Bij de buien zijn windstoten mogelijk van 60-75 km/uur. Er kan vooral in het oosten hagel tot 2 cm voorkomen. Plaatselijk kan er 20-40 mm neerslag in korte tijd vallen. Uitgifte: 28/08/2026 07:59 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "28-08-2026 14:00",
-        "wrsch_gts": 1787918400,
-        "wrsch_gc": "geel"
-      }
-    ],
-    "opgehaald_op": "2026-08-28T07:25:35.583348"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1787945883,
         "time": "28-08-2026 21:38:03",
         "temp": 16.7,
@@ -1438,5 +1402,41 @@
       }
     ],
     "opgehaald_op": "2026-09-04T06:42:22.015229"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1788522483,
+        "time": "04-09-2026 13:48:03",
+        "temp": 17.7,
+        "gtemp": 15.6,
+        "samenv": "Lichte regen",
+        "lv": 99,
+        "windr": "W",
+        "windrgr": 267.7,
+        "windms": 3.85,
+        "windbft": 3,
+        "windknp": 7.5,
+        "windkmh": 13.9,
+        "luchtd": 1010.21,
+        "ldmmhg": 758,
+        "dauwp": 17.6,
+        "zicht": 3340,
+        "gr": 163,
+        "verw": "Perioden met regen. Morgen af en toe zon en een bui.",
+        "sup": "06:54",
+        "sunder": "20:22",
+        "image": "regen",
+        "alarm": 0,
+        "lkop": "Zware windstoten aan de Zeeuwse kust",
+        "ltekst": "Aan de Zeeuwse kust zijn eerst nog zware windstoten mogelijk. Het verkeer en buitenactiviteiten kunnen daar hinder van ondervinden. De wind neemt de komende uren af. Er kunnen windstoten voorkomen van 75 tot 90 km/uur. De windstoten komen uit een zuidwestelijke richting. Uitgifte: 04/09/2026 13:09 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-09-04T11:53:25.002524"
   }
 ]
