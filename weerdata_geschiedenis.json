@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1788130682,
-        "time": "31-08-2026 00:58:02",
-        "temp": 17.4,
-        "gtemp": 16.1,
-        "samenv": "Licht bewolkt",
-        "lv": 86,
-        "windr": "ZZO",
-        "windrgr": 175.3,
-        "windms": 2.55,
-        "windbft": 2,
-        "windknp": 5,
-        "windkmh": 9.2,
-        "luchtd": 1009.01,
-        "ldmmhg": 757,
-        "dauwp": 15,
-        "zicht": 49400,
-        "gr": 0,
-        "verw": "Wisselvallig, vandaag stevige (onweers)buien.",
-        "sup": "06:47",
-        "sunder": "20:31",
-        "image": "wolkennacht",
-        "alarm": 0,
-        "lkop": "In de kustprovincies kans op stevige onweersbuien, vooral in Noord-Holland plaatselijk wateroverlast",
-        "ltekst": "Tot en met morgenmiddag komen er vooral in de kustprovincies soms stevige (onweers)buien voor met veel regen in korte tijd en windstoten tot ongeveer 70 km/uur. Het verkeer kan hinder ondervinden van zware neerslag door aquaplaning. De meeste buien trekken over de provincie Noord-Holland waardoor er vooral daar plaatselijk risico is op wateroverlast. Vooral in Noord-Holland kan er 50-70 mm regen vallen in 12 tot 24 uur. Uitgifte: 30/08/2026 23:52 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-08-30T23:00:35.950576"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1788137882,
         "time": "31-08-2026 02:58:02",
         "temp": 17.2,
@@ -1726,5 +1690,41 @@
       }
     ],
     "opgehaald_op": "2026-09-06T22:34:07.184072"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1788740882,
+        "time": "07-09-2026 02:28:02",
+        "temp": 13.6,
+        "gtemp": 13.6,
+        "samenv": "Zwaar bewolkt",
+        "lv": 94,
+        "windr": "ZZO",
+        "windrgr": 143.8,
+        "windms": 1.25,
+        "windbft": 1,
+        "windknp": 2.4,
+        "windkmh": 4.5,
+        "luchtd": 1018.72,
+        "ldmmhg": 764,
+        "dauwp": 12.7,
+        "zicht": 49500,
+        "gr": 0,
+        "verw": "Overdag veel zon, overwegend droog en morgen warm.",
+        "sup": "06:59",
+        "sunder": "20:15",
+        "image": "wolkennacht",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 06/09/2026 22:54 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-09-07T00:29:18.386783"
   }
 ]
