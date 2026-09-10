@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1788430083,
-        "time": "03-09-2026 12:08:03",
-        "temp": 21,
-        "gtemp": 18.4,
-        "samenv": "Zwaar bewolkt",
-        "lv": 82,
-        "windr": "W",
-        "windrgr": 248.7,
-        "windms": 4.76,
-        "windbft": 3,
-        "windknp": 9.3,
-        "windkmh": 17.1,
-        "luchtd": 1015.72,
-        "ldmmhg": 762,
-        "dauwp": 17.9,
-        "zicht": 39600,
-        "gr": 160,
-        "verw": "Perioden met (mot)regen. Morgen langs de westkust veel wind",
-        "sup": "06:52",
-        "sunder": "20:24",
-        "image": "bewolkt",
-        "alarm": 0,
-        "lkop": "Vrijdagochtend kans op zware windstoten in het westelijk kustgebied",
-        "ltekst": "Vrijdagochtend zijn in het westelijk kustgebied zware windstoten mogelijk. Het verkeer en buitenactiviteiten kunnen daar hinder van ondervinden. Er kunnen windstoten voorkomen van 75 tot 90 km/uur. De windstoten komen uit een zuidwestelijke richting. Uitgifte: 03/09/2026 10:55 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-09-03T10:18:32.535132"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1788446882,
         "time": "03-09-2026 16:48:02",
         "temp": 22.4,
@@ -1762,5 +1726,41 @@
       }
     ],
     "opgehaald_op": "2026-09-10T06:47:29.975641"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1789040882,
+        "time": "10-09-2026 13:48:02",
+        "temp": 18,
+        "gtemp": 15.9,
+        "samenv": "Zwaar bewolkt",
+        "lv": 61,
+        "windr": "ZW",
+        "windrgr": 215.6,
+        "windms": 3.69,
+        "windbft": 3,
+        "windknp": 7.2,
+        "windkmh": 13.3,
+        "luchtd": 1019.73,
+        "ldmmhg": 765,
+        "dauwp": 10.4,
+        "zicht": 46700,
+        "gr": 357,
+        "verw": "Hier en daar zon en meest droog, vrijdag bewolkt en af en toe regen.",
+        "sup": "07:04",
+        "sunder": "20:08",
+        "image": "bewolkt",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 10/09/2026 11:11 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-09-10T11:56:53.071254"
   }
 ]
