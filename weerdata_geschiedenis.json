@@ -3,78 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1788478682,
-        "time": "04-09-2026 01:38:02",
-        "temp": 20.4,
-        "gtemp": 17.8,
-        "samenv": "Zwaar bewolkt",
-        "lv": 88,
-        "windr": "ZW",
-        "windrgr": 224.4,
-        "windms": 4.66,
-        "windbft": 3,
-        "windknp": 9.1,
-        "windkmh": 16.8,
-        "luchtd": 1014.41,
-        "ldmmhg": 761,
-        "dauwp": 18.4,
-        "zicht": 44400,
-        "gr": 0,
-        "verw": "Vandaag regen en in de ochtend veel wind. Morgen af en toe zon en een bui",
-        "sup": "06:54",
-        "sunder": "20:22",
-        "image": "wolkennacht",
-        "alarm": 0,
-        "lkop": "Vanochtend kans op zware windstoten in het westelijk Wadden- en kustgebied en op het IJsselmeer",
-        "ltekst": "Vanochtend zijn in de het Wadden- en kustgebied en op het IJsselmeer zware windstoten mogelijk. Het verkeer en buitenactiviteiten kunnen daar hinder van ondervinden. Begin van vanmiddag neemt de wind weer af. Er kunnen windstoten voorkomen van 75 tot 90 km/uur. De windstoten komen uit een zuidwestelijke richting. Uitgifte: 04/09/2026 01:01 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-09-03T23:40:26.178531"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
-        "timestamp": 1788485882,
-        "time": "04-09-2026 03:38:02",
-        "temp": 20.4,
-        "gtemp": 19.1,
-        "samenv": "Zwaar bewolkt",
-        "lv": 88,
-        "windr": "WZW",
-        "windrgr": 229.4,
-        "windms": 5.85,
-        "windbft": 4,
-        "windknp": 11.4,
-        "windkmh": 21.1,
-        "luchtd": 1013.31,
-        "ldmmhg": 760,
-        "dauwp": 18.4,
-        "zicht": 23400,
-        "gr": 0,
-        "verw": "Vandaag regen en in de ochtend veel wind. Morgen af en toe zon en een bui",
-        "sup": "06:54",
-        "sunder": "20:22",
-        "image": "wolkennacht",
-        "alarm": 0,
-        "lkop": "Vanochtend kans op zware windstoten in het westelijk Wadden- en kustgebied en op het IJsselmeer",
-        "ltekst": "Vanochtend zijn in de het Wadden- en kustgebied en op het IJsselmeer zware windstoten mogelijk. Het verkeer en buitenactiviteiten kunnen daar hinder van ondervinden. Begin van vanmiddag neemt de wind weer af. Er kunnen windstoten voorkomen van 75 tot 90 km/uur. De windstoten komen uit een zuidwestelijke richting. Uitgifte: 04/09/2026 01:01 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-09-04T01:45:58.479864"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1788503883,
         "time": "04-09-2026 08:38:03",
         "temp": 20.8,
@@ -1798,5 +1726,41 @@
       }
     ],
     "opgehaald_op": "2026-09-10T23:31:57.511945"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1789091282,
+        "time": "11-09-2026 03:48:02",
+        "temp": 13.2,
+        "gtemp": 12.6,
+        "samenv": "Zwaar bewolkt",
+        "lv": 89,
+        "windr": "ZZO",
+        "windrgr": 164.8,
+        "windms": 2.02,
+        "windbft": 2,
+        "windknp": 3.9,
+        "windkmh": 7.3,
+        "luchtd": 1017.12,
+        "ldmmhg": 763,
+        "dauwp": 11.4,
+        "zicht": 40200,
+        "gr": 0,
+        "verw": "Overdag bewolkt, af en toe regen. Zaterdag eerst mogelijk mist, daarna zon",
+        "sup": "07:05",
+        "sunder": "20:06",
+        "image": "wolkennacht",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 11/09/2026 01:08 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-09-11T01:49:50.573341"
   }
 ]
