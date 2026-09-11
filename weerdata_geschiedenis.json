@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1788503883,
-        "time": "04-09-2026 08:38:03",
-        "temp": 20.8,
-        "gtemp": 19,
-        "samenv": "Zwaar bewolkt",
-        "lv": 82,
-        "windr": "ZW",
-        "windrgr": 222.1,
-        "windms": 6.95,
-        "windbft": 4,
-        "windknp": 13.5,
-        "windkmh": 25,
-        "luchtd": 1010.11,
-        "ldmmhg": 758,
-        "dauwp": 17.8,
-        "zicht": 46100,
-        "gr": 36,
-        "verw": "Van het noorden uit regen, eerst veel wind. Morgen af en toe zon en een bui",
-        "sup": "06:54",
-        "sunder": "20:22",
-        "image": "bewolkt",
-        "alarm": 0,
-        "lkop": "Vanochtend kans op zware windstoten in het Wadden- en kustgebied en rond het IJsselmeer",
-        "ltekst": "Vanochtend zijn in het Wadden- en kustgebied en rond het IJsselmeer zware windstoten mogelijk. Het verkeer en buitenactiviteiten kunnen daar hinder van ondervinden. Begin van vanmiddag neemt de wind weer af. Er kunnen windstoten voorkomen van 75 tot 90 km/uur. De windstoten komen uit een zuidwestelijke richting. Uitgifte: 04/09/2026 07:30 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-09-04T06:42:22.015229"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1788522483,
         "time": "04-09-2026 13:48:03",
         "temp": 17.7,
@@ -1762,5 +1726,41 @@
       }
     ],
     "opgehaald_op": "2026-09-11T01:49:50.573341"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1789108681,
+        "time": "11-09-2026 08:38:01",
+        "temp": 15.2,
+        "gtemp": 13.8,
+        "samenv": "Zwaar bewolkt",
+        "lv": 79,
+        "windr": "ZZW",
+        "windrgr": 194.7,
+        "windms": 3.15,
+        "windbft": 2,
+        "windknp": 6.1,
+        "windkmh": 11.3,
+        "luchtd": 1017.12,
+        "ldmmhg": 763,
+        "dauwp": 11.6,
+        "zicht": 43700,
+        "gr": 41,
+        "verw": "Overdag bewolkt, af en toe regen. Zaterdag eerst mogelijk mist, daarna zon",
+        "sup": "07:05",
+        "sunder": "20:06",
+        "image": "bewolkt",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 11/09/2026 07:17 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-09-11T06:47:05.907411"
   }
 ]
