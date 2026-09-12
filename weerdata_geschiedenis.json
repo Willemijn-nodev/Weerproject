@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1788589083,
-        "time": "05-09-2026 08:18:03",
-        "temp": 15.7,
-        "gtemp": 13.5,
-        "samenv": "Licht bewolkt",
-        "lv": 83,
-        "windr": "WZW",
-        "windrgr": 236.9,
-        "windms": 3.67,
-        "windbft": 3,
-        "windknp": 7.1,
-        "windkmh": 13.2,
-        "luchtd": 1018.02,
-        "ldmmhg": 764,
-        "dauwp": 13,
-        "zicht": 31300,
-        "gr": 111,
-        "verw": "Perioden met zon en in het noorden een bui.",
-        "sup": "06:55",
-        "sunder": "20:19",
-        "image": "lichtbewolkt",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 05/09/2026 04:52 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-09-05T06:28:32.105601"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1788605882,
         "time": "05-09-2026 12:58:02",
         "temp": 19.1,
@@ -1762,5 +1726,41 @@
       }
     ],
     "opgehaald_op": "2026-09-12T01:55:31.644270"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1789195082,
+        "time": "12-09-2026 08:38:02",
+        "temp": 14,
+        "gtemp": 14,
+        "samenv": "Zwaar bewolkt",
+        "lv": 99,
+        "windr": "ZO",
+        "windrgr": 131.3,
+        "windms": 0.9,
+        "windbft": 1,
+        "windknp": 1.7,
+        "windkmh": 3.2,
+        "luchtd": 1023.12,
+        "ldmmhg": 767,
+        "dauwp": 14,
+        "zicht": 3170,
+        "gr": 37,
+        "verw": "Eerst vooral in het oosten mist. Later af en toe zon en meest droog",
+        "sup": "07:07",
+        "sunder": "20:03",
+        "image": "bewolkt",
+        "alarm": 0,
+        "lkop": "Vooral in het oosten van het land plaatselijk dichte mist",
+        "ltekst": "Plaatselijk komt dichte mist voor, vooral in de oostelijke provincies. Verkeer kan hier hinder van ondervinden. Het zicht kan van plaats tot plaatst sterk verschillen. Het zich is soms minder dan 200 m. Mogelijk ontstaat ook elders in de loop van de nacht dichte mist. Uitgifte: 12/09/2026 07:46 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-09-12T06:40:09.486021"
   }
 ]
