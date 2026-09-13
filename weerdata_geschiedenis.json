@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1788719883,
-        "time": "06-09-2026 20:38:03",
-        "temp": 18.2,
-        "gtemp": 17.6,
-        "samenv": "Licht bewolkt",
-        "lv": 73,
-        "windr": "ZO",
-        "windrgr": 127.3,
-        "windms": 2.49,
-        "windbft": 2,
-        "windknp": 4.8,
-        "windkmh": 9,
-        "luchtd": 1021.32,
-        "ldmmhg": 766,
-        "dauwp": 13.2,
-        "zicht": 49100,
-        "gr": 0,
-        "verw": "Veel zon, overwegend droog en morgen warm.",
-        "sup": "06:57",
-        "sunder": "20:17",
-        "image": "wolkennacht",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 06/09/2026 17:23 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-09-06T18:45:54.224588"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1788727682,
         "time": "06-09-2026 22:48:02",
         "temp": 18,
@@ -1726,5 +1690,41 @@
       }
     ],
     "opgehaald_op": "2026-09-13T16:44:37.344892"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1789325882,
+        "time": "13-09-2026 20:58:02",
+        "temp": 17.9,
+        "gtemp": 17.9,
+        "samenv": "Licht bewolkt",
+        "lv": 84,
+        "windr": "NNO",
+        "windrgr": 6.4,
+        "windms": 1.27,
+        "windbft": 1,
+        "windknp": 2.5,
+        "windkmh": 4.6,
+        "luchtd": 1022.02,
+        "ldmmhg": 767,
+        "dauwp": 15.1,
+        "zicht": 49900,
+        "gr": 0,
+        "verw": "Af en toe zon, plaatselijk wat regen. Vannacht kans op mist",
+        "sup": "07:09",
+        "sunder": "20:01",
+        "image": "wolkennacht",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 13/09/2026 16:13 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-09-13T19:04:49.778884"
   }
 ]
