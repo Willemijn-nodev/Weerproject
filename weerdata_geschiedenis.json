@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1789139882,
-        "time": "11-09-2026 17:18:02",
-        "temp": 19.8,
-        "gtemp": 19.3,
-        "samenv": "Zwaar bewolkt",
-        "lv": 80,
-        "windr": "W",
-        "windrgr": 262.8,
-        "windms": 2.22,
-        "windbft": 2,
-        "windknp": 4.3,
-        "windkmh": 8,
-        "luchtd": 1019.82,
-        "ldmmhg": 765,
-        "dauwp": 16.4,
-        "zicht": 41500,
-        "gr": 231,
-        "verw": "Bewolkt, eerst af en toe regen. Zaterdag eerst mogelijk mist, daarna zon",
-        "sup": "07:05",
-        "sunder": "20:06",
-        "image": "bewolkt",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 11/09/2026 14:47 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-09-11T15:25:51.539165"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1789152482,
         "time": "11-09-2026 20:48:02",
         "temp": 16.6,
@@ -1618,5 +1582,41 @@
       }
     ],
     "opgehaald_op": "2026-09-18T11:59:50.853564"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1789745283,
+        "time": "18-09-2026 17:28:03",
+        "temp": 17.9,
+        "gtemp": 16.4,
+        "samenv": "Zwaar bewolkt",
+        "lv": 61,
+        "windr": "WZW",
+        "windrgr": 234.1,
+        "windms": 5.54,
+        "windbft": 4,
+        "windknp": 10.8,
+        "windkmh": 19.9,
+        "luchtd": 1014.62,
+        "ldmmhg": 761,
+        "dauwp": 10.3,
+        "zicht": 27400,
+        "gr": 128,
+        "verw": "Geregeld zon en eerst een bui. Morgen vaak bewolkt en plaatselijk regen",
+        "sup": "07:17",
+        "sunder": "19:49",
+        "image": "bewolkt",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 18/09/2026 15:37 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-09-18T15:36:59.644036"
   }
 ]
