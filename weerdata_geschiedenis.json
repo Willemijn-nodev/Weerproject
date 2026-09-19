@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1789255682,
-        "time": "13-09-2026 01:28:02",
-        "temp": 17.2,
-        "gtemp": 15.8,
-        "samenv": "Regen.",
-        "lv": 99,
-        "windr": "WZW",
-        "windrgr": 231,
-        "windms": 2.84,
-        "windbft": 2,
-        "windknp": 5.5,
-        "windkmh": 10.2,
-        "luchtd": 1020.72,
-        "ldmmhg": 766,
-        "dauwp": 17.1,
-        "zicht": 4680,
-        "gr": 0,
-        "verw": "Perioden met regen, morgen vooral nog in het zuiden.",
-        "sup": "07:09",
-        "sunder": "20:01",
-        "image": "regen",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 12/09/2026 22:36 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-09-12T23:32:51.689965"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1789263482,
         "time": "13-09-2026 03:38:02",
         "temp": 17.8,
@@ -1582,5 +1546,41 @@
       }
     ],
     "opgehaald_op": "2026-09-19T21:54:52.081096"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1789861082,
+        "time": "20-09-2026 01:38:02",
+        "temp": 18.7,
+        "gtemp": 16,
+        "samenv": "Zwaar bewolkt",
+        "lv": 86,
+        "windr": "ZW",
+        "windrgr": 224.6,
+        "windms": 5.28,
+        "windbft": 3,
+        "windknp": 10.3,
+        "windkmh": 19,
+        "luchtd": 1017.92,
+        "ldmmhg": 764,
+        "dauwp": 16.2,
+        "zicht": 21000,
+        "gr": 0,
+        "verw": "Plaatselijk wat (mot)regen, morgen meer zon.",
+        "sup": "07:20",
+        "sunder": "19:44",
+        "image": "wolkennacht",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 19/09/2026 20:00 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-09-19T23:46:53.869283"
   }
 ]
