@@ -1582,5 +1582,41 @@
       }
     ],
     "opgehaald_op": "2026-09-20T12:53:40.007688"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1789921683,
+        "time": "20-09-2026 18:28:03",
+        "temp": 16.7,
+        "gtemp": 14.6,
+        "samenv": "Licht bewolkt",
+        "lv": 63,
+        "windr": "NW",
+        "windrgr": 299.9,
+        "windms": 3.77,
+        "windbft": 3,
+        "windknp": 7.3,
+        "windkmh": 13.6,
+        "luchtd": 1026.62,
+        "ldmmhg": 770,
+        "dauwp": 9.8,
+        "zicht": 28800,
+        "gr": 152,
+        "verw": "Af en toe zon en vandaag in het noorden een kleine kans op een bui.",
+        "sup": "07:20",
+        "sunder": "19:44",
+        "image": "lichtbewolkt",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 20/09/2026 17:07 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-09-20T16:38:34.775214"
   }
 ]
