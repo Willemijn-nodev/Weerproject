@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1789652882,
-        "time": "17-09-2026 15:48:02",
-        "temp": 15.7,
-        "gtemp": 12.7,
-        "samenv": "Lichte regen",
-        "lv": 91,
-        "windr": "ZZW",
-        "windrgr": 204.9,
-        "windms": 4.86,
-        "windbft": 3,
-        "windknp": 9.4,
-        "windkmh": 17.5,
-        "luchtd": 1010.02,
-        "ldmmhg": 758,
-        "dauwp": 14.3,
-        "zicht": 19500,
-        "gr": 176,
-        "verw": "In de loop van de middag en avond enige tijd regen.",
-        "sup": "07:15",
-        "sunder": "19:51",
-        "image": "regen",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 17/09/2026 12:51 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-09-17T13:55:04.433165"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1789667282,
         "time": "17-09-2026 19:48:02",
         "temp": 16,
@@ -1582,5 +1546,41 @@
       }
     ],
     "opgehaald_op": "2026-09-24T10:43:31.549540"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1790263682,
+        "time": "24-09-2026 17:28:02",
+        "temp": 17.3,
+        "gtemp": 16.7,
+        "samenv": "Licht bewolkt",
+        "lv": 56,
+        "windr": "NNW",
+        "windrgr": 320.8,
+        "windms": 3.68,
+        "windbft": 3,
+        "windknp": 7.2,
+        "windkmh": 13.2,
+        "luchtd": 1024.73,
+        "ldmmhg": 769,
+        "dauwp": 8.5,
+        "zicht": 47600,
+        "gr": 166,
+        "verw": "Perioden met zon en droog.",
+        "sup": "07:27",
+        "sunder": "19:35",
+        "image": "lichtbewolkt",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 24/09/2026 16:48 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-09-24T15:38:03.627221"
   }
 ]
