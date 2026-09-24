@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1789677482,
-        "time": "17-09-2026 22:38:02",
-        "temp": 15,
-        "gtemp": 13.6,
-        "samenv": "Zwaar bewolkt",
-        "lv": 97,
-        "windr": "ZW",
-        "windrgr": 220.4,
-        "windms": 2.64,
-        "windbft": 2,
-        "windknp": 5.1,
-        "windkmh": 9.5,
-        "luchtd": 1009.62,
-        "ldmmhg": 757,
-        "dauwp": 14.4,
-        "zicht": 21100,
-        "gr": 0,
-        "verw": "Natte avond. Morgen later op de dag droger",
-        "sup": "07:15",
-        "sunder": "19:51",
-        "image": "wolkennacht",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 17/09/2026 21:02 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-09-17T20:42:48.686489"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1789686483,
         "time": "18-09-2026 01:08:03",
         "temp": 14.3,
@@ -1582,5 +1546,41 @@
       }
     ],
     "opgehaald_op": "2026-09-24T19:40:05.399115"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1790290083,
+        "time": "25-09-2026 00:48:03",
+        "temp": 8.5,
+        "gtemp": 8.5,
+        "samenv": "Zwaar bewolkt",
+        "lv": 99,
+        "windr": "OZO",
+        "windrgr": 112,
+        "windms": 1.17,
+        "windbft": 1,
+        "windknp": 2.3,
+        "windkmh": 4.2,
+        "luchtd": 1024.13,
+        "ldmmhg": 768,
+        "dauwp": 8.3,
+        "zicht": 29400,
+        "gr": 0,
+        "verw": "Vrijwel onbewolkt en droog.",
+        "sup": "07:28",
+        "sunder": "19:33",
+        "image": "wolkennacht",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 24/09/2026 23:13 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-09-24T22:51:34.278745"
   }
 ]
