@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1790186283,
-        "time": "23-09-2026 19:58:03",
-        "temp": 18.2,
-        "gtemp": 17.6,
-        "samenv": "Zwaar bewolkt",
-        "lv": 76,
-        "windr": "W",
-        "windrgr": 269.6,
-        "windms": 1.95,
-        "windbft": 2,
-        "windknp": 3.8,
-        "windkmh": 7,
-        "luchtd": 1021.72,
-        "ldmmhg": 766,
-        "dauwp": 13.9,
-        "zicht": 37000,
-        "gr": 0,
-        "verw": "Vanavond af en toe regen, morgen perioden met zon.",
-        "sup": "07:25",
-        "sunder": "19:37",
-        "image": "wolkennacht",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 23/09/2026 16:47 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-09-23T18:06:45.749265"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1790200083,
         "time": "23-09-2026 23:48:03",
         "temp": 16.2,
@@ -1366,5 +1330,41 @@
       }
     ],
     "opgehaald_op": "2026-09-30T14:26:32.310798"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1790797082,
+        "time": "30-09-2026 21:38:02",
+        "temp": 20.6,
+        "gtemp": 20.6,
+        "samenv": "Lichte regen",
+        "lv": 85,
+        "windr": "WZW",
+        "windrgr": 245,
+        "windms": 1.15,
+        "windbft": 1,
+        "windknp": 2.2,
+        "windkmh": 4.1,
+        "luchtd": 1017.52,
+        "ldmmhg": 763,
+        "dauwp": 17.9,
+        "zicht": 38700,
+        "gr": 0,
+        "verw": "Perioden met regen. Morgen koeler en vooral in het westen zon",
+        "sup": "07:37",
+        "sunder": "19:21",
+        "image": "regen",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 30/09/2026 19:05 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-09-30T19:47:02.865709"
   }
 ]
