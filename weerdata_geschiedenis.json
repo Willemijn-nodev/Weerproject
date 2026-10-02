@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1790315283,
-        "time": "25-09-2026 07:48:03",
-        "temp": 7.2,
-        "gtemp": 6.3,
-        "samenv": "Licht bewolkt",
-        "lv": 99,
-        "windr": "ZZO",
-        "windrgr": 155.7,
-        "windms": 1.6,
-        "windbft": 2,
-        "windknp": 3.1,
-        "windkmh": 5.8,
-        "luchtd": 1022.03,
-        "ldmmhg": 767,
-        "dauwp": 7.2,
-        "zicht": 15200,
-        "gr": 10,
-        "verw": "Vrijwel onbewolkt en droog.",
-        "sup": "07:28",
-        "sunder": "19:33",
-        "image": "lichtbewolkt",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 25/09/2026 05:37 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-09-25T05:56:50.343342"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1790332682,
         "time": "25-09-2026 12:38:02",
         "temp": 18.6,
@@ -1294,5 +1258,41 @@
       }
     ],
     "opgehaald_op": "2026-10-02T01:15:19.075924"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1790926682,
+        "time": "02-10-2026 09:38:02",
+        "temp": 12.2,
+        "gtemp": 11.5,
+        "samenv": "Licht bewolkt",
+        "lv": 100,
+        "windr": "ZZO",
+        "windrgr": 170.8,
+        "windms": 1.77,
+        "windbft": 2,
+        "windknp": 3.4,
+        "windkmh": 6.4,
+        "luchtd": 1032.23,
+        "ldmmhg": 774,
+        "dauwp": 12.2,
+        "zicht": 8930,
+        "gr": 225,
+        "verw": "Eerst mist, verder zonnig en meest droog.",
+        "sup": "07:40",
+        "sunder": "19:16",
+        "image": "lichtbewolkt",
+        "alarm": 0,
+        "lkop": "In het noordoosten en midden plaatselijk dichte mist",
+        "ltekst": "In het noordoosten en midden komt vanochtend plaatselijk dichte mist voor. De mist kan hinderlijk zijn voor het verkeer. DetailsHet zicht is vooral in landelijke gebieden plaatselijk minder dan 200 meter. Uitgifte: 02/10/2026 07:35 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "02-10-2026 07:00",
+        "wrsch_gts": 1790917200,
+        "wrsch_gc": "geel"
+      }
+    ],
+    "opgehaald_op": "2026-10-02T07:44:34.159134"
   }
 ]
