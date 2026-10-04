@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1790534283,
-        "time": "27-09-2026 20:38:03",
-        "temp": 15,
-        "gtemp": 15,
-        "samenv": "Zwaar bewolkt",
-        "lv": 96,
-        "windr": "ZZO",
-        "windrgr": 151.4,
-        "windms": 1.13,
-        "windbft": 1,
-        "windknp": 2.2,
-        "windkmh": 4.1,
-        "luchtd": 1015.62,
-        "ldmmhg": 762,
-        "dauwp": 14.2,
-        "zicht": 5420,
-        "gr": 0,
-        "verw": "Meer wolken en morgen kans op enkele buien.",
-        "sup": "07:32",
-        "sunder": "19:28",
-        "image": "wolkennacht",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 27/09/2026 16:02 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-09-27T18:48:46.850945"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1790545083,
         "time": "27-09-2026 23:38:03",
         "temp": 14.3,
@@ -1222,5 +1186,41 @@
       }
     ],
     "opgehaald_op": "2026-10-04T17:14:35.957947"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1791146282,
+        "time": "04-10-2026 22:38:02",
+        "temp": 9.7,
+        "gtemp": 9.7,
+        "samenv": "Mist",
+        "lv": 99,
+        "windr": "ONO",
+        "windrgr": 63.3,
+        "windms": 0.55,
+        "windbft": 1,
+        "windknp": 1.1,
+        "windkmh": 2,
+        "luchtd": 1027.13,
+        "ldmmhg": 770,
+        "dauwp": 9.3,
+        "zicht": 361,
+        "gr": 0,
+        "verw": "Komende nacht mist, morgen zon.",
+        "sup": "07:43",
+        "sunder": "19:12",
+        "image": "nachtmist",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 04/10/2026 20:52 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-10-04T20:39:31.916783"
   }
 ]
