@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1790554081,
-        "time": "28-09-2026 02:08:01",
-        "temp": 15.3,
-        "gtemp": 15.3,
-        "samenv": "Licht bewolkt",
-        "lv": 99,
-        "windr": "OZO",
-        "windrgr": 116.7,
-        "windms": 0.35,
-        "windbft": 1,
-        "windknp": 0.7,
-        "windkmh": 1.3,
-        "luchtd": 1017.12,
-        "ldmmhg": 763,
-        "dauwp": 15.1,
-        "zicht": 7100,
-        "gr": 0,
-        "verw": "Meer wolken en kans op enkele buien.",
-        "sup": "07:33",
-        "sunder": "19:26",
-        "image": "wolkennacht",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 27/09/2026 22:44 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-09-28T00:09:36.649083"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1790575082,
         "time": "28-09-2026 07:58:02",
         "temp": 15.3,
@@ -1222,5 +1186,41 @@
       }
     ],
     "opgehaald_op": "2026-10-04T23:45:49.103646"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1791168482,
+        "time": "05-10-2026 04:48:02",
+        "temp": 9.5,
+        "gtemp": 9.1,
+        "samenv": "Mist",
+        "lv": 99,
+        "windr": "ZZO",
+        "windrgr": 139.9,
+        "windms": 1.09,
+        "windbft": 1,
+        "windknp": 2.1,
+        "windkmh": 3.9,
+        "luchtd": 1025.43,
+        "ldmmhg": 769,
+        "dauwp": 6.9,
+        "zicht": 680,
+        "gr": 0,
+        "verw": "Vannacht op meerdere plaatsen (dichte) mist, overdag zon.",
+        "sup": "07:45",
+        "sunder": "19:09",
+        "image": "nachtmist",
+        "alarm": 1,
+        "lkop": "Plaatselijk dichte mist in het midden en zuidwesten",
+        "ltekst": "In het midden en zuidwesten van het land komt plaatselijk dichte mist voor. Deze kan hinderlijk zijn voor met name het verkeer. De dichte mist lost in de loop van de ochtend op. In dichte mist in het zicht minder dan 200 meter. Uitgifte: 05/10/2026 01:55 uur LT",
+        "wrschklr": "geel",
+        "wrsch_g": "05-10-2026 01:00",
+        "wrsch_gts": 1791154800,
+        "wrsch_gc": "geel"
+      }
+    ],
+    "opgehaald_op": "2026-10-05T02:49:12.854577"
   }
 ]
