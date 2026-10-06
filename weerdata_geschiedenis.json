@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1790688482,
-        "time": "29-09-2026 15:28:02",
-        "temp": 25.4,
-        "gtemp": 23.7,
-        "samenv": "Licht bewolkt",
-        "lv": 60,
-        "windr": "ZO",
-        "windrgr": 123.3,
-        "windms": 3.56,
-        "windbft": 3,
-        "windknp": 6.9,
-        "windkmh": 12.8,
-        "luchtd": 1017.01,
-        "ldmmhg": 763,
-        "dauwp": 17.2,
-        "zicht": 25400,
-        "gr": 479,
-        "verw": "Warm met veel zon.",
-        "sup": "07:35",
-        "sunder": "19:23",
-        "image": "lichtbewolkt",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 29/09/2026 13:44 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-09-29T13:36:02.991234"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1790708283,
         "time": "29-09-2026 20:58:03",
         "temp": 17.4,
@@ -1186,5 +1150,41 @@
       }
     ],
     "opgehaald_op": "2026-10-06T07:02:49.191003"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1791294483,
+        "time": "06-10-2026 15:48:03",
+        "temp": 18.8,
+        "gtemp": 18.8,
+        "samenv": "Zwaar bewolkt",
+        "lv": 87,
+        "windr": "OZO",
+        "windrgr": 109.6,
+        "windms": 1.21,
+        "windbft": 1,
+        "windknp": 2.4,
+        "windkmh": 4.4,
+        "luchtd": 1017.92,
+        "ldmmhg": 764,
+        "dauwp": 16.6,
+        "zicht": 6440,
+        "gr": 294,
+        "verw": "Rustig en vrijwel droog herfstweer.",
+        "sup": "07:47",
+        "sunder": "19:07",
+        "image": "bewolkt",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 06/10/2026 14:27 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-10-06T13:58:36.029662"
   }
 ]
