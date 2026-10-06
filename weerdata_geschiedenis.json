@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1790722082,
-        "time": "30-09-2026 00:48:02",
-        "temp": 18.6,
-        "gtemp": 17.3,
-        "samenv": "Zwaar bewolkt",
-        "lv": 72,
-        "windr": "ZO",
-        "windrgr": 131.6,
-        "windms": 3.13,
-        "windbft": 2,
-        "windknp": 6.1,
-        "windkmh": 11.3,
-        "luchtd": 1016.01,
-        "ldmmhg": 762,
-        "dauwp": 13.3,
-        "zicht": 46200,
-        "gr": 0,
-        "verw": "Ook morgen warm met veel zon, later meer bewolking en kans op een bui.",
-        "sup": "07:37",
-        "sunder": "19:21",
-        "image": "wolkennacht",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 29/09/2026 22:39 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-09-29T22:52:40.415656"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1790732282,
         "time": "30-09-2026 03:38:02",
         "temp": 17.4,
@@ -1186,5 +1150,41 @@
       }
     ],
     "opgehaald_op": "2026-10-06T19:16:04.133490"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1791329283,
+        "time": "07-10-2026 01:28:03",
+        "temp": 11.3,
+        "gtemp": 10.6,
+        "samenv": "Mist",
+        "lv": 99,
+        "windr": "ONO",
+        "windrgr": 67,
+        "windms": 1.52,
+        "windbft": 1,
+        "windknp": 3,
+        "windkmh": 5.5,
+        "luchtd": 1015.22,
+        "ldmmhg": 761,
+        "dauwp": 10.7,
+        "zicht": 142,
+        "gr": 0,
+        "verw": "Plaatselijk (dichte) mist. Overdag eerst vrij zonnig, in de avond regen",
+        "sup": "07:48",
+        "sunder": "19:05",
+        "image": "nachtmist",
+        "alarm": 1,
+        "lkop": "Plaatselijk dichte mist in het zuidwesten",
+        "ltekst": "Uitgifte: 06/10/2026 22:33 uur LT",
+        "wrschklr": "geel",
+        "wrsch_g": "06-10-2026 22:00",
+        "wrsch_gts": 1791316800,
+        "wrsch_gc": "geel"
+      }
+    ],
+    "opgehaald_op": "2026-10-06T23:29:59.608838"
   }
 ]
