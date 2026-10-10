@@ -3,78 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1791016682,
-        "time": "03-10-2026 10:38:02",
-        "temp": 14.6,
-        "gtemp": 14.6,
-        "samenv": "Zwaar bewolkt",
-        "lv": 87,
-        "windr": "ZZO",
-        "windrgr": 153.7,
-        "windms": 0.96,
-        "windbft": 1,
-        "windknp": 1.9,
-        "windkmh": 3.5,
-        "luchtd": 1030.53,
-        "ldmmhg": 773,
-        "dauwp": 12.5,
-        "zicht": 13200,
-        "gr": 265,
-        "verw": "Veel zon, warm en droog.",
-        "sup": "07:42",
-        "sunder": "19:14",
-        "image": "bewolkt",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 03/10/2026 08:30 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-10-03T08:44:20.905569"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
-        "timestamp": 1791035882,
-        "time": "03-10-2026 15:58:02",
-        "temp": 20.6,
-        "gtemp": 20.1,
-        "samenv": "Licht bewolkt",
-        "lv": 51,
-        "windr": "NNW",
-        "windrgr": 318.5,
-        "windms": 2.18,
-        "windbft": 2,
-        "windknp": 4.2,
-        "windkmh": 7.8,
-        "luchtd": 1029.53,
-        "ldmmhg": 772,
-        "dauwp": 10.2,
-        "zicht": 35700,
-        "gr": 399,
-        "verw": "Veel zon, morgen meer bewolking en kleine kans op een bui.",
-        "sup": "07:42",
-        "sunder": "19:14",
-        "image": "lichtbewolkt",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 03/10/2026 14:19 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-10-03T14:06:33.469105"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1791051483,
         "time": "03-10-2026 20:18:03",
         "temp": 13.5,
@@ -1150,5 +1078,41 @@
       }
     ],
     "opgehaald_op": "2026-10-10T07:54:53.657994"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1791640681,
+        "time": "10-10-2026 15:58:01",
+        "temp": 14.1,
+        "gtemp": 12.6,
+        "samenv": "Half bewolkt",
+        "lv": 72,
+        "windr": "W",
+        "windrgr": 254.6,
+        "windms": 3.44,
+        "windbft": 3,
+        "windknp": 6.7,
+        "windkmh": 12.4,
+        "luchtd": 1009.02,
+        "ldmmhg": 757,
+        "dauwp": 8.1,
+        "zicht": 38000,
+        "gr": 258,
+        "verw": "Buien, vooral in het noorden met windstoten, onweer en veel neerslag.",
+        "sup": "07:53",
+        "sunder": "18:58",
+        "image": "halfbewolkt",
+        "alarm": 0,
+        "lkop": "Tot en met zondagochtend vooral in het noorden onweersbuien met windstoten en plaatselijk veel regen",
+        "ltekst": "Er zijn nog geen waarschuwingen van kracht. Tot en met zondagochtend komen er met name in het noorden van het land buien voor met kans op onweer, kleine hagel, zware windstoten en veel regen. Verkeer en buitenactiviteiten kunnen hier hinder van ondervinden. Bij de buien kunnen onweer en windstoten voorkomen van 60-80 km/u, waarbij de hoogste snelheden worden gehaald nabij de kust. De windstoten komen uit een noordwestelijke richting. Er kan plaatselijk veel regen vallen. In totaal valt er ongeveer 30-50 mm, plaatselijk meer. Verder is er een kleine kans op hagel van maximaal 0,5-1 cm. Uitgifte: 10/10/2026 14:07 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-10-10T14:07:45.384624"
   }
 ]
