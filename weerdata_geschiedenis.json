@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1790995081,
-        "time": "03-10-2026 04:38:01",
-        "temp": 6.9,
-        "gtemp": 6.9,
-        "samenv": "Licht bewolkt",
-        "lv": 99,
-        "windr": "ZO",
-        "windrgr": 131.3,
-        "windms": 0.72,
-        "windbft": 1,
-        "windknp": 1.4,
-        "windkmh": 2.6,
-        "luchtd": 1030.33,
-        "ldmmhg": 773,
-        "dauwp": 6.7,
-        "zicht": 2430,
-        "gr": 0,
-        "verw": "Vannacht en vanochtend plaatselijk mist, overdag vrij zonnig.",
-        "sup": "07:42",
-        "sunder": "19:14",
-        "image": "wolkennacht",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 03/10/2026 01:55 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-10-03T02:43:41.937872"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1791016682,
         "time": "03-10-2026 10:38:02",
         "temp": 14.6,
@@ -1150,5 +1114,41 @@
       }
     ],
     "opgehaald_op": "2026-10-10T01:27:16.298209"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1791618481,
+        "time": "10-10-2026 09:48:01",
+        "temp": 12.4,
+        "gtemp": 10.9,
+        "samenv": "Zwaar bewolkt",
+        "lv": 84,
+        "windr": "ZW",
+        "windrgr": 223.3,
+        "windms": 3.05,
+        "windbft": 2,
+        "windknp": 5.9,
+        "windkmh": 11,
+        "luchtd": 1009.12,
+        "ldmmhg": 757,
+        "dauwp": 9.9,
+        "zicht": 38800,
+        "gr": 261,
+        "verw": "Buien, vooral in het noorden met windstoten, onweer en veel neerslag.",
+        "sup": "07:53",
+        "sunder": "18:58",
+        "image": "bewolkt",
+        "alarm": 0,
+        "lkop": "Vanaf vanmiddag vooral in het noorden onweersbuien met windstoten en plaatselijk veel regen",
+        "ltekst": "Er zijn nog geen waarschuwingen van kracht. Vanaf vanmiddag t/m zondagochtend komen er met name in het noorden van het land buien voor met kans op onweer, zware windstoten en veel regen. Verkeer en buitenactiviteiten kunnen hier hinder van ondervinden. Bij de buien kunnen onweer en windstoten voorkomen van 60-80 km/u, waarbij de hoogste snelheden worden gehaald nabij de kust. De windstoten komen uit een noordwestelijke richting. Verder kan er plaatselijk veel regen vallen. In totaal valt er ongeveer 30-50 mm, plaatselijk meer. Uitgifte: 10/10/2026 07:47 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-10-10T07:54:53.657994"
   }
 ]
