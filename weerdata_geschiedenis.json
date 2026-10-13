@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1791269882,
-        "time": "06-10-2026 08:58:02",
-        "temp": 14.1,
-        "gtemp": 13.5,
-        "samenv": "Zwaar bewolkt",
-        "lv": 99,
-        "windr": "ZZO",
-        "windrgr": 155.8,
-        "windms": 1.56,
-        "windbft": 1,
-        "windknp": 3,
-        "windkmh": 5.6,
-        "luchtd": 1019.53,
-        "ldmmhg": 765,
-        "dauwp": 14.1,
-        "zicht": 1300,
-        "gr": 35,
-        "verw": "Plaatselijk mist. Overdag in het zuiden zon, elders ook bewolking",
-        "sup": "07:47",
-        "sunder": "19:07",
-        "image": "bewolkt",
-        "alarm": 0,
-        "lkop": "Vanochtend in het zuidwesten en in Friesland plaatselijk dichte mist",
-        "ltekst": "In het zuidwesten van het land en in Friesland komt plaatselijk dichte mist voor. Met name het verkeer kan hiervan hinder ondervinden. De dichte mist lost in de tweede helft van de ochtend op. In dichte mist in het zicht minder dan 200 meter. Uitgifte: 06/10/2026 06:51 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-10-06T07:02:49.191003"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1791294483,
         "time": "06-10-2026 15:48:03",
         "temp": 18.8,
@@ -1078,5 +1042,41 @@
       }
     ],
     "opgehaald_op": "2026-10-13T04:19:50.975720"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1791893882,
+        "time": "13-10-2026 14:18:02",
+        "temp": 18.8,
+        "gtemp": 16.8,
+        "samenv": "Zwaar bewolkt",
+        "lv": 92,
+        "windr": "ZW",
+        "windrgr": 207.1,
+        "windms": 4.47,
+        "windbft": 3,
+        "windknp": 8.7,
+        "windkmh": 16.1,
+        "luchtd": 1017.82,
+        "ldmmhg": 763,
+        "dauwp": 17.5,
+        "zicht": 16900,
+        "gr": 277,
+        "verw": "Bewolkt en (mot)regen. Morgen droog en zonnig",
+        "sup": "07:59",
+        "sunder": "18:51",
+        "image": "bewolkt",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 13/10/2026 13:56 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-10-13T12:21:08.589516"
   }
 ]
