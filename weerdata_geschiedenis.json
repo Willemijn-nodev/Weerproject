@@ -1078,5 +1078,41 @@
       }
     ],
     "opgehaald_op": "2026-10-14T19:06:08.082683"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1792015683,
+        "time": "15-10-2026 00:08:03",
+        "temp": 10.7,
+        "gtemp": 9.1,
+        "samenv": "Licht bewolkt",
+        "lv": 93,
+        "windr": "ZZO",
+        "windrgr": 164.4,
+        "windms": 2.9,
+        "windbft": 2,
+        "windknp": 5.6,
+        "windkmh": 10.4,
+        "luchtd": 1027.03,
+        "ldmmhg": 770,
+        "dauwp": 9.6,
+        "zicht": 21500,
+        "gr": 0,
+        "verw": "Rustig en vrij zonnig herfstweer.",
+        "sup": "08:02",
+        "sunder": "18:47",
+        "image": "wolkennacht",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 14/10/2026 22:12 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-10-14T22:11:40.167859"
   }
 ]
