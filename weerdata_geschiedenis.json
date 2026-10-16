@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1791580682,
-        "time": "09-10-2026 23:18:02",
-        "temp": 12.9,
-        "gtemp": 11.4,
-        "samenv": "Zwaar bewolkt",
-        "lv": 95,
-        "windr": "WZW",
-        "windrgr": 233.3,
-        "windms": 3.19,
-        "windbft": 2,
-        "windknp": 6.2,
-        "windkmh": 11.5,
-        "luchtd": 1006.52,
-        "ldmmhg": 755,
-        "dauwp": 12,
-        "zicht": 43500,
-        "gr": 0,
-        "verw": "Bewolkt en regen, zaterdag buien, in het noorden met windstoten, veel regen.",
-        "sup": "07:52",
-        "sunder": "19:00",
-        "image": "wolkennacht",
-        "alarm": 0,
-        "lkop": "Vanaf zaterdagmiddag vooral in het noorden onweersbuien met windstoten en plaatselijk veel regen",
-        "ltekst": "Er zijn nog geen waarschuwingen van kracht. Vanaf zaterdagmiddag t/m zondagochtend komen er met name in het noorden van het land buien voor met kans op onweer, zware windstoten en veel regen. Verkeer en buitenactiviteiten kunnen hier hinder van ondervinden. Meer Details De windstoten komen uit een noordwestelijke richting met 60-80 km/uur. Verder kan er plaatselijk veel regen vallen. In totaal valt er ongeveer 30-50 mm, plaatselijk meer. Uitgifte: 09/10/2026 22:27 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-10-09T21:27:50.931800"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1791595082,
         "time": "10-10-2026 03:18:02",
         "temp": 12.5,
@@ -1222,5 +1186,41 @@
       }
     ],
     "opgehaald_op": "2026-10-16T19:50:16.340549"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1792189083,
+        "time": "17-10-2026 00:18:03",
+        "temp": 11.5,
+        "gtemp": 9.9,
+        "samenv": "Zwaar bewolkt",
+        "lv": 92,
+        "windr": "NNW",
+        "windrgr": 322.6,
+        "windms": 2.8,
+        "windbft": 2,
+        "windknp": 5.4,
+        "windkmh": 10.1,
+        "luchtd": 1023.23,
+        "ldmmhg": 767,
+        "dauwp": 10.2,
+        "zicht": 49700,
+        "gr": 0,
+        "verw": "Regen.",
+        "sup": "08:06",
+        "sunder": "18:43",
+        "image": "wolkennacht",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 16/10/2026 22:34 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-10-16T22:24:58.565571"
   }
 ]
