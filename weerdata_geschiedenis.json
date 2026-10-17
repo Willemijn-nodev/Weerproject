@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1791595082,
-        "time": "10-10-2026 03:18:02",
-        "temp": 12.5,
-        "gtemp": 11,
-        "samenv": "Half bewolkt",
-        "lv": 83,
-        "windr": "W",
-        "windrgr": 251.9,
-        "windms": 3.23,
-        "windbft": 2,
-        "windknp": 6.3,
-        "windkmh": 11.6,
-        "luchtd": 1008.32,
-        "ldmmhg": 756,
-        "dauwp": 9.8,
-        "zicht": 36400,
-        "gr": 0,
-        "verw": "Buien, vooral in het noorden met windstoten, onweer en veel neerslag.",
-        "sup": "07:53",
-        "sunder": "18:58",
-        "image": "wolkennacht",
-        "alarm": 0,
-        "lkop": "Vanaf zaterdagmiddag vooral in het noorden onweersbuien met windstoten en plaatselijk veel regen",
-        "ltekst": "Er zijn nog geen waarschuwingen van kracht. Vanaf zaterdagmiddag t/m zondagochtend komen er met name in het noorden van het land buien voor met kans op onweer, zware windstoten en veel regen. Verkeer en buitenactiviteiten kunnen hier hinder van ondervinden. Meer Details Bij de buien kan onweer en windstoten voorkomen van 60-80 km/u, waarbij de hoogste snelheden worden gehaald nabij de kust. De windstoten komen uit een noordwestelijke richting. Verder kan er plaatselijk veel regen vallen. In totaal valt er ongeveer 30-50 mm, plaatselijk meer. Uitgifte: 10/10/2026 02:43 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-10-10T01:27:16.298209"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1791618481,
         "time": "10-10-2026 09:48:01",
         "temp": 12.4,
@@ -1258,5 +1222,41 @@
       }
     ],
     "opgehaald_op": "2026-10-17T00:58:16.995722"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1792213683,
+        "time": "17-10-2026 07:08:03",
+        "temp": 9.3,
+        "gtemp": 8.4,
+        "samenv": "Zwaar bewolkt",
+        "lv": 97,
+        "windr": "NNW",
+        "windrgr": 325.4,
+        "windms": 1.91,
+        "windbft": 2,
+        "windknp": 3.7,
+        "windkmh": 6.9,
+        "luchtd": 1025.53,
+        "ldmmhg": 769,
+        "dauwp": 8.9,
+        "zicht": 37300,
+        "gr": 0,
+        "verw": "Wisselvallig weekeinde met geregeld buien.",
+        "sup": "08:06",
+        "sunder": "18:43",
+        "image": "wolkennacht",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 17/10/2026 04:46 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-10-17T05:15:57.512618"
   }
 ]
