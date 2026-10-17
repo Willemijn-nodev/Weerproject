@@ -1222,5 +1222,41 @@
       }
     ],
     "opgehaald_op": "2026-10-16T22:24:58.565571"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1792198083,
+        "time": "17-10-2026 02:48:03",
+        "temp": 11,
+        "gtemp": 10.3,
+        "samenv": "Zwaar bewolkt",
+        "lv": 93,
+        "windr": "NNW",
+        "windrgr": 334.3,
+        "windms": 1.83,
+        "windbft": 2,
+        "windknp": 3.6,
+        "windkmh": 6.6,
+        "luchtd": 1024.03,
+        "ldmmhg": 768,
+        "dauwp": 10,
+        "zicht": 48900,
+        "gr": 0,
+        "verw": "Wisselvallig weekeinde met geregeld buien.",
+        "sup": "08:06",
+        "sunder": "18:43",
+        "image": "wolkennacht",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 17/10/2026 01:54 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-10-17T00:58:16.995722"
   }
 ]
