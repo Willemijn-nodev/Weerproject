@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1791787082,
-        "time": "12-10-2026 08:38:02",
-        "temp": 3.8,
-        "gtemp": 2.6,
-        "samenv": "Licht bewolkt",
-        "lv": 99,
-        "windr": "ZZO",
-        "windrgr": 159.3,
-        "windms": 1.46,
-        "windbft": 1,
-        "windknp": 2.8,
-        "windkmh": 5.3,
-        "luchtd": 1018.73,
-        "ldmmhg": 764,
-        "dauwp": 3.7,
-        "zicht": 1480,
-        "gr": 38,
-        "verw": "Meest droog en perioden met zon. Morgen bewolkt en af en toe regen",
-        "sup": "07:57",
-        "sunder": "18:54",
-        "image": "lichtbewolkt",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 12/10/2026 07:57 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-10-12T06:46:30.795512"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1791821882,
         "time": "12-10-2026 18:18:02",
         "temp": 14.3,
@@ -1438,5 +1402,41 @@
       }
     ],
     "opgehaald_op": "2026-10-19T02:38:48.567012"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1792397283,
+        "time": "19-10-2026 10:08:03",
+        "temp": 11.8,
+        "gtemp": 10.3,
+        "samenv": "Zwaar bewolkt",
+        "lv": 94,
+        "windr": "O",
+        "windrgr": 93.7,
+        "windms": 3.48,
+        "windbft": 3,
+        "windknp": 6.8,
+        "windkmh": 12.5,
+        "luchtd": 1028.53,
+        "ldmmhg": 771,
+        "dauwp": 10.8,
+        "zicht": 9790,
+        "gr": 113,
+        "verw": "Vrij zonnig en droog.",
+        "sup": "08:09",
+        "sunder": "18:38",
+        "image": "bewolkt",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 19/10/2026 07:28 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-10-19T08:13:22.925887"
   }
 ]
