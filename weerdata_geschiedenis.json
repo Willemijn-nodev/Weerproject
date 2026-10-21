@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1792015683,
-        "time": "15-10-2026 00:08:03",
-        "temp": 10.7,
-        "gtemp": 9.1,
-        "samenv": "Licht bewolkt",
-        "lv": 93,
-        "windr": "ZZO",
-        "windrgr": 164.4,
-        "windms": 2.9,
-        "windbft": 2,
-        "windknp": 5.6,
-        "windkmh": 10.4,
-        "luchtd": 1027.03,
-        "ldmmhg": 770,
-        "dauwp": 9.6,
-        "zicht": 21500,
-        "gr": 0,
-        "verw": "Rustig en vrij zonnig herfstweer.",
-        "sup": "08:02",
-        "sunder": "18:47",
-        "image": "wolkennacht",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 14/10/2026 22:12 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-10-14T22:11:40.167859"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1792025882,
         "time": "15-10-2026 02:58:02",
         "temp": 12.1,
@@ -1474,5 +1438,41 @@
       }
     ],
     "opgehaald_op": "2026-10-21T20:59:48.348258"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1792626482,
+        "time": "22-10-2026 01:48:02",
+        "temp": 8.8,
+        "gtemp": 6,
+        "samenv": "Lichte regen",
+        "lv": 90,
+        "windr": "ZW",
+        "windrgr": 210.1,
+        "windms": 5.21,
+        "windbft": 3,
+        "windknp": 10.1,
+        "windkmh": 18.8,
+        "luchtd": 1009.32,
+        "ldmmhg": 757,
+        "dauwp": 7.3,
+        "zicht": 20300,
+        "gr": 0,
+        "verw": "Vooral in het westen en noorden buien en vrij veel wind.",
+        "sup": "08:14",
+        "sunder": "18:32",
+        "image": "regen",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 21/10/2026 22:13 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-10-21T23:54:12.218247"
   }
 ]
