@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1792066682,
-        "time": "15-10-2026 14:18:02",
-        "temp": 19.8,
-        "gtemp": 17.8,
-        "samenv": "Zwaar bewolkt",
-        "lv": 69,
-        "windr": "ZZW",
-        "windrgr": 202.2,
-        "windms": 4.45,
-        "windbft": 3,
-        "windknp": 8.7,
-        "windkmh": 16,
-        "luchtd": 1022.82,
-        "ldmmhg": 767,
-        "dauwp": 14,
-        "zicht": 27600,
-        "gr": 455,
-        "verw": "Vandaag droog met eerst zon. Morgenmiddag van het westen uit regen",
-        "sup": "08:02",
-        "sunder": "18:47",
-        "image": "bewolkt",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 15/10/2026 13:50 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-10-15T12:19:19.600432"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1792085282,
         "time": "15-10-2026 19:28:02",
         "temp": 18.4,
@@ -1474,5 +1438,41 @@
       }
     ],
     "opgehaald_op": "2026-10-22T08:03:50.709462"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1792678082,
+        "time": "22-10-2026 16:08:02",
+        "temp": 14.4,
+        "gtemp": 12.6,
+        "samenv": "Onweer (met of zonder neerslag)",
+        "lv": 68,
+        "windr": "WZW",
+        "windrgr": 225.4,
+        "windms": 6.29,
+        "windbft": 4,
+        "windknp": 12.2,
+        "windkmh": 22.6,
+        "luchtd": 1009.92,
+        "ldmmhg": 758,
+        "dauwp": 8.6,
+        "zicht": 30900,
+        "gr": 221,
+        "verw": "Vooral in het westen en noorden buien en vrij veel wind.",
+        "sup": "08:14",
+        "sunder": "18:32",
+        "image": "bliksem",
+        "alarm": 0,
+        "lkop": "Vrijdagavond en in de nacht erna zware windstoten in het zuidwesten en zuidoosten",
+        "ltekst": "Vandaag zijn er geen waarschuwingen van kracht. Vrijdagavond en de nacht erna is er kans op zware windstoten op de Zeeuwse en Zuid-Hollandse eilanden en in Limburg. Doordat de bomen nog vol in het blad staan zullen er veel kleinere takken afbreken, met vooral hinder voor het verkeer. In Limburg neemt de wind in de nacht naar zaterdag weer af, in het zuidwesten gebeurt dat zaterdagochtend. De wind komt uit richtingen tussen west en zuidwest. We spreken van zware windstoten als deze een snelheid hebben van minimaal 75 km/u. De wind wordt veroorzaakt door stormdepressie Austen. Uitgifte: 22/10/2026 13:08 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-10-22T14:12:08.813002"
   }
 ]
