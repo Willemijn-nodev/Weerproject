@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1792115882,
-        "time": "16-10-2026 03:58:02",
-        "temp": 17.1,
-        "gtemp": 15.7,
-        "samenv": "Zwaar bewolkt",
-        "lv": 82,
-        "windr": "ZZO",
-        "windrgr": 168.7,
-        "windms": 2.61,
-        "windbft": 2,
-        "windknp": 5.1,
-        "windkmh": 9.4,
-        "luchtd": 1019.22,
-        "ldmmhg": 764,
-        "dauwp": 14,
-        "zicht": 43600,
-        "gr": 0,
-        "verw": "Vanmiddag van het westen uit regen.",
-        "sup": "08:04",
-        "sunder": "18:45",
-        "image": "wolkennacht",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 16/10/2026 01:59 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-10-16T02:05:18.344885"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1792133283,
         "time": "16-10-2026 08:48:03",
         "temp": 14.2,
@@ -1474,5 +1438,41 @@
       }
     ],
     "opgehaald_op": "2026-10-23T00:24:18.469469"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1792733282,
+        "time": "23-10-2026 07:28:02",
+        "temp": 11.3,
+        "gtemp": 8,
+        "samenv": "Regen.",
+        "lv": 97,
+        "windr": "ZZO",
+        "windrgr": 150.5,
+        "windms": 4.7,
+        "windbft": 3,
+        "windknp": 9.1,
+        "windkmh": 16.9,
+        "luchtd": 1004.12,
+        "ldmmhg": 753,
+        "dauwp": 10.9,
+        "zicht": 19500,
+        "gr": 0,
+        "verw": "Wisselvallig en veel wind.",
+        "sup": "08:16",
+        "sunder": "18:30",
+        "image": "regen",
+        "alarm": 0,
+        "lkop": "Vrijdagavond en in de nacht naar zaterdag zware windstoten in het zuidwesten en zuidoosten",
+        "ltekst": "Eerst zijn er geen waarschuwingen van kracht. Vanavond komen in Limburg windstoten voor van 75-90 km/uur. Vanavond en in de nacht naar zaterdag zijn er in het zuidwestelijk en later westelijk kustgebied windstoten van 75-90 km/uur. Doordat de bomen nog vol in het blad staan zullen er veel kleinere takken afbreken, met vooral hinder voor het verkeer. In Limburg neemt de wind in de nacht naar zaterdag weer af, in het zuidwesten en westen gebeurt dat zaterdagochtend. De wind komt uit richtingen tussen west en zuidwest. We spreken van zware windstoten als deze een snelheid hebben van minimaal 75 km/u. De wind wordt veroorzaakt door het lagedrukgebied Austen. Uitgifte: 23/10/2026 05:49 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-10-23T05:33:10.468204"
   }
 ]
