@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1792352882,
-        "time": "18-10-2026 21:48:02",
-        "temp": 9.9,
-        "gtemp": 8.8,
-        "samenv": "Lichte regen",
-        "lv": 99,
-        "windr": "NO",
-        "windrgr": 38.8,
-        "windms": 2.39,
-        "windbft": 2,
-        "windknp": 4.6,
-        "windkmh": 8.6,
-        "luchtd": 1027.63,
-        "ldmmhg": 771,
-        "dauwp": 9.8,
-        "zicht": 4440,
-        "gr": 0,
-        "verw": "Vandaag bewolkt en af en toe (mot)regen, morgen vrij zonnig en droog.",
-        "sup": "08:07",
-        "sunder": "18:41",
-        "image": "regen",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 18/10/2026 20:05 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-10-18T19:53:31.509572"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1792360683,
         "time": "18-10-2026 23:58:03",
         "temp": 10.8,
@@ -1438,5 +1402,41 @@
       }
     ],
     "opgehaald_op": "2026-10-25T17:58:42.865443"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1792958883,
+        "time": "25-10-2026 21:08:03",
+        "temp": 12.3,
+        "gtemp": 9.1,
+        "samenv": "Zwaar bewolkt",
+        "lv": 55,
+        "windr": "W",
+        "windrgr": 259.4,
+        "windms": 5.46,
+        "windbft": 3,
+        "windknp": 10.6,
+        "windkmh": 19.7,
+        "luchtd": 1007.12,
+        "ldmmhg": 755,
+        "dauwp": 3.3,
+        "zicht": 37200,
+        "gr": 0,
+        "verw": "Buien en veel wind. Morgen rustiger en af en toe zon",
+        "sup": "07:20",
+        "sunder": "17:26",
+        "image": "wolkennacht",
+        "alarm": 0,
+        "lkop": "In de kustgebieden, met uitzondering van het zuidwesten, zware windstoten",
+        "ltekst": "In de kustprovincies, met uitzondering van het zuidwesten, komen zware windstoten voor. In het noordelijk kustgebied kunnen de zware windstoten tot in de nacht naar maandag aanhouden. Doordat de bomen nog in het blad staan zullen er veel (kleinere) takken afbreken. Ook is er hinder voor het verkeer. De wind komt uit het zuidwesten tot westen. In het noordelijk kustgebied windstoten van 75-90 km/u. De wind wordt veroorzaakt door het lagedrukgebied Boelo. Uitgifte: 25/10/2026 19:23 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-10-25T20:13:12.037284"
   }
 ]
