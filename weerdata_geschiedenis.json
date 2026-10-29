@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1792655882,
-        "time": "22-10-2026 09:58:02",
-        "temp": 8.9,
-        "gtemp": 5.3,
-        "samenv": "Lichte regen",
-        "lv": 91,
-        "windr": "ZZO",
-        "windrgr": 182.9,
-        "windms": 7.81,
-        "windbft": 4,
-        "windknp": 15.2,
-        "windkmh": 28.1,
-        "luchtd": 1008.63,
-        "ldmmhg": 757,
-        "dauwp": 7.6,
-        "zicht": 27200,
-        "gr": 29,
-        "verw": "Vooral in het westen en noorden buien en vrij veel wind.",
-        "sup": "08:14",
-        "sunder": "18:32",
-        "image": "regen",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 22/10/2026 08:17 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-10-22T08:03:50.709462"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1792678082,
         "time": "22-10-2026 16:08:02",
         "temp": 14.4,
@@ -1438,5 +1402,41 @@
       }
     ],
     "opgehaald_op": "2026-10-29T03:16:36.806762"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1793269682,
+        "time": "29-10-2026 11:28:02",
+        "temp": 12.8,
+        "gtemp": 12.8,
+        "samenv": "Licht bewolkt",
+        "lv": 90,
+        "windr": "ZZO",
+        "windrgr": 154.1,
+        "windms": 1.13,
+        "windbft": 1,
+        "windknp": 2.2,
+        "windkmh": 4.1,
+        "luchtd": 1030.43,
+        "ldmmhg": 773,
+        "dauwp": 11.2,
+        "zicht": 10500,
+        "gr": 202,
+        "verw": "Af en toe zon. In de nacht en ochtend kans op mist",
+        "sup": "07:27",
+        "sunder": "17:18",
+        "image": "lichtbewolkt",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 29/10/2026 10:19 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-10-29T10:34:00.375236"
   }
 ]
