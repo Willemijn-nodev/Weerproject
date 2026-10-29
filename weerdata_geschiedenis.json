@@ -3,78 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1792694882,
-        "time": "22-10-2026 20:48:02",
-        "temp": 10.2,
-        "gtemp": 9.5,
-        "samenv": "Licht bewolkt",
-        "lv": 85,
-        "windr": "ZZO",
-        "windrgr": 181.1,
-        "windms": 2.08,
-        "windbft": 2,
-        "windknp": 4,
-        "windkmh": 7.5,
-        "luchtd": 1012.03,
-        "ldmmhg": 759,
-        "dauwp": 7.4,
-        "zicht": 42000,
-        "gr": 0,
-        "verw": "Vooral in het noorden buien en vrij veel wind.",
-        "sup": "08:14",
-        "sunder": "18:32",
-        "image": "wolkennacht",
-        "alarm": 0,
-        "lkop": "Vrijdagavond en in de nacht erna zware windstoten in het zuidwesten en zuidoosten",
-        "ltekst": "Vandaag zijn er geen waarschuwingen van kracht. Vrijdagavond en de nacht erna is er kans op zware windstoten op de Zeeuwse en Zuid-Hollandse eilanden en in Limburg. Doordat de bomen nog vol in het blad staan zullen er veel kleinere takken afbreken, met vooral hinder voor het verkeer. In Limburg neemt de wind in de nacht naar zaterdag weer af, in het zuidwesten gebeurt dat zaterdagochtend. De wind komt uit richtingen tussen west en zuidwest. We spreken van zware windstoten als deze een snelheid hebben van minimaal 75 km/u. De wind wordt veroorzaakt door stormdepressie Austen. Uitgifte: 22/10/2026 17:06 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-10-22T18:56:58.868786"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
-        "timestamp": 1792706282,
-        "time": "22-10-2026 23:58:02",
-        "temp": 9.1,
-        "gtemp": 7.8,
-        "samenv": "Zwaar bewolkt",
-        "lv": 93,
-        "windr": "ZZO",
-        "windrgr": 155.4,
-        "windms": 2.45,
-        "windbft": 2,
-        "windknp": 4.8,
-        "windkmh": 8.8,
-        "luchtd": 1011.93,
-        "ldmmhg": 759,
-        "dauwp": 7.9,
-        "zicht": 37600,
-        "gr": 0,
-        "verw": "In het noorden een enkele bui, later van het zuiden uit regen.",
-        "sup": "08:14",
-        "sunder": "18:32",
-        "image": "wolkennacht",
-        "alarm": 0,
-        "lkop": "Vrijdagavond en in de nacht erna zware windstoten in het zuidwesten en zuidoosten",
-        "ltekst": "Vandaag zijn er geen waarschuwingen van kracht. Vrijdagavond en de nacht erna is er kans op zware windstoten op de Zeeuwse en Zuid-Hollandse eilanden en in Limburg. Doordat de bomen nog vol in het blad staan zullen er veel kleinere takken afbreken, met vooral hinder voor het verkeer. In Limburg neemt de wind in de nacht naar zaterdag weer af, in het zuidwesten gebeurt dat zaterdagochtend. De wind komt uit richtingen tussen west en zuidwest. We spreken van zware windstoten als deze een snelheid hebben van minimaal 75 km/u. De wind wordt veroorzaakt door stormdepressie Austen. Uitgifte: 22/10/2026 22:51 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-10-22T22:00:33.589170"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1792714682,
         "time": "23-10-2026 02:18:02",
         "temp": 10.1,
@@ -1438,5 +1366,41 @@
       }
     ],
     "opgehaald_op": "2026-10-29T17:13:55.438047"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1793311682,
+        "time": "29-10-2026 23:08:02",
+        "temp": 7.2,
+        "gtemp": 7.2,
+        "samenv": "Mist",
+        "lv": 99,
+        "windr": "O",
+        "windrgr": 85.2,
+        "windms": 0.9,
+        "windbft": 1,
+        "windknp": 1.7,
+        "windkmh": 3.2,
+        "luchtd": 1031.24,
+        "ldmmhg": 773,
+        "dauwp": 6.8,
+        "zicht": 447,
+        "gr": 0,
+        "verw": "In de nacht en ochtend plaatselijk mist, daarna af en toe zon en droog.",
+        "sup": "07:27",
+        "sunder": "17:18",
+        "image": "nachtmist",
+        "alarm": 1,
+        "lkop": "Plaatselijk dichte mist in het midden en noorden",
+        "ltekst": "In het midden en noorden komt dichte mist voor. Deze mist kan zeer plaatselijk en verraderlijk zijn. Ook op andere plaatsen kan (dichte) mist ontstaan. De mist kan hinder voor het verkeer opleveren. In dichte mist is het zicht minder dan 200 m. De mist is (zeer) plaatselijk en kan tot morgenochtend hardnekkig zijn. Uitgifte: 29/10/2026 21:42 uur LT",
+        "wrschklr": "geel",
+        "wrsch_g": "29-10-2026 21:00",
+        "wrsch_gts": 1793304000,
+        "wrsch_gc": "geel"
+      }
+    ],
+    "opgehaald_op": "2026-10-29T22:11:37.871342"
   }
 ]
