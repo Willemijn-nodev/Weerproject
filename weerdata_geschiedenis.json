@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1792678082,
-        "time": "22-10-2026 16:08:02",
-        "temp": 14.4,
-        "gtemp": 12.6,
-        "samenv": "Onweer (met of zonder neerslag)",
-        "lv": 68,
-        "windr": "WZW",
-        "windrgr": 225.4,
-        "windms": 6.29,
-        "windbft": 4,
-        "windknp": 12.2,
-        "windkmh": 22.6,
-        "luchtd": 1009.92,
-        "ldmmhg": 758,
-        "dauwp": 8.6,
-        "zicht": 30900,
-        "gr": 221,
-        "verw": "Vooral in het westen en noorden buien en vrij veel wind.",
-        "sup": "08:14",
-        "sunder": "18:32",
-        "image": "bliksem",
-        "alarm": 0,
-        "lkop": "Vrijdagavond en in de nacht erna zware windstoten in het zuidwesten en zuidoosten",
-        "ltekst": "Vandaag zijn er geen waarschuwingen van kracht. Vrijdagavond en de nacht erna is er kans op zware windstoten op de Zeeuwse en Zuid-Hollandse eilanden en in Limburg. Doordat de bomen nog vol in het blad staan zullen er veel kleinere takken afbreken, met vooral hinder voor het verkeer. In Limburg neemt de wind in de nacht naar zaterdag weer af, in het zuidwesten gebeurt dat zaterdagochtend. De wind komt uit richtingen tussen west en zuidwest. We spreken van zware windstoten als deze een snelheid hebben van minimaal 75 km/u. De wind wordt veroorzaakt door stormdepressie Austen. Uitgifte: 22/10/2026 13:08 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-10-22T14:12:08.813002"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1792694882,
         "time": "22-10-2026 20:48:02",
         "temp": 10.2,
@@ -1438,5 +1402,41 @@
       }
     ],
     "opgehaald_op": "2026-10-29T10:34:00.375236"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1793293682,
+        "time": "29-10-2026 18:08:02",
+        "temp": 13.4,
+        "gtemp": 13.4,
+        "samenv": "Licht bewolkt",
+        "lv": 95,
+        "windr": "NNO",
+        "windrgr": 21.7,
+        "windms": 0.7,
+        "windbft": 1,
+        "windknp": 1.4,
+        "windkmh": 2.5,
+        "luchtd": 1030.33,
+        "ldmmhg": 773,
+        "dauwp": 12.6,
+        "zicht": 8050,
+        "gr": 0,
+        "verw": "Af en toe zon. In de nacht en ochtend kans op mist",
+        "sup": "07:27",
+        "sunder": "17:18",
+        "image": "wolkennacht",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 29/10/2026 16:23 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-10-29T17:13:55.438047"
   }
 ]
