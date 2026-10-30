@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1792733282,
-        "time": "23-10-2026 07:28:02",
-        "temp": 11.3,
-        "gtemp": 8,
-        "samenv": "Regen.",
-        "lv": 97,
-        "windr": "ZZO",
-        "windrgr": 150.5,
-        "windms": 4.7,
-        "windbft": 3,
-        "windknp": 9.1,
-        "windkmh": 16.9,
-        "luchtd": 1004.12,
-        "ldmmhg": 753,
-        "dauwp": 10.9,
-        "zicht": 19500,
-        "gr": 0,
-        "verw": "Wisselvallig en veel wind.",
-        "sup": "08:16",
-        "sunder": "18:30",
-        "image": "regen",
-        "alarm": 0,
-        "lkop": "Vrijdagavond en in de nacht naar zaterdag zware windstoten in het zuidwesten en zuidoosten",
-        "ltekst": "Eerst zijn er geen waarschuwingen van kracht. Vanavond komen in Limburg windstoten voor van 75-90 km/uur. Vanavond en in de nacht naar zaterdag zijn er in het zuidwestelijk en later westelijk kustgebied windstoten van 75-90 km/uur. Doordat de bomen nog vol in het blad staan zullen er veel kleinere takken afbreken, met vooral hinder voor het verkeer. In Limburg neemt de wind in de nacht naar zaterdag weer af, in het zuidwesten en westen gebeurt dat zaterdagochtend. De wind komt uit richtingen tussen west en zuidwest. We spreken van zware windstoten als deze een snelheid hebben van minimaal 75 km/u. De wind wordt veroorzaakt door het lagedrukgebied Austen. Uitgifte: 23/10/2026 05:49 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-10-23T05:33:10.468204"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1792751882,
         "time": "23-10-2026 12:38:02",
         "temp": 13.4,
@@ -1402,5 +1366,41 @@
       }
     ],
     "opgehaald_op": "2026-10-30T02:17:13.842994"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1793351282,
+        "time": "30-10-2026 10:08:02",
+        "temp": 9.5,
+        "gtemp": 8.8,
+        "samenv": "Licht bewolkt",
+        "lv": 99,
+        "windr": "OZO",
+        "windrgr": 101.7,
+        "windms": 1.73,
+        "windbft": 2,
+        "windknp": 3.4,
+        "windkmh": 6.2,
+        "luchtd": 1032.34,
+        "ldmmhg": 774,
+        "dauwp": 9.5,
+        "zicht": 3570,
+        "gr": 196,
+        "verw": "Vanochtend (dichte) mist, overdag af en toe zon en droog.",
+        "sup": "07:29",
+        "sunder": "17:16",
+        "image": "lichtbewolkt",
+        "alarm": 1,
+        "lkop": "Vanochtend op veel plaatsen (dichte) mist",
+        "ltekst": "In nagenoeg het hele land komt mist voor. Plaatselijk is er sprake van dichte mist, wat hinderlijk kan zijn voor het verkeer. In de tweede helft van de ochtend zal de (dichte) mist geleidelijk verdwijnen. In dichte mist is het zicht minder dan 200 meter. Uitgifte: 30/10/2026 08:13 uur LT",
+        "wrschklr": "geel",
+        "wrsch_g": "30-10-2026 08:00",
+        "wrsch_gts": 1793343600,
+        "wrsch_gc": "geel"
+      }
+    ],
+    "opgehaald_op": "2026-10-30T09:15:52.340179"
   }
 ]
