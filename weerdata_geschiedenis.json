@@ -3,78 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1792804082,
-        "time": "24-10-2026 03:08:02",
-        "temp": 11.1,
-        "gtemp": 8.2,
-        "samenv": "Lichte regen",
-        "lv": 97,
-        "windr": "W",
-        "windrgr": 274.7,
-        "windms": 7.07,
-        "windbft": 4,
-        "windknp": 13.7,
-        "windkmh": 25.5,
-        "luchtd": 1000.22,
-        "ldmmhg": 750,
-        "dauwp": 10.6,
-        "zicht": 6960,
-        "gr": 0,
-        "verw": "Perioden met regen en veel wind.",
-        "sup": "08:18",
-        "sunder": "18:28",
-        "image": "regen",
-        "alarm": 0,
-        "lkop": "Vanavond en vannacht zware windstoten in de kustgebieden, zaterdagavond en zondag opnieuw",
-        "ltekst": "Vanavond komen er in de zuidwestelijke kustgebieden zware windstoten voor van 75-90 km/u. Vannacht is dit ook het geval voor de (noord)westelijk kustgebieden en later ook het Waddengebied. In het zuidwesten en westen neemt de wind zaterdagochtend af en in het Waddengebied pas in de loop van zaterdagmiddag. Vanaf het einde van zaterdagavond komen er in de kustgebieden en in Zuid-Limburg opnieuw zware windstoten voor van 75-90 km/u. In de kustgebieden houden de zware windstoten de hele zondag aan. Doordat de bomen nog vol in het blad staan zullen er veel kleinere takken afbreken, met vooral hinder voor het verkeer. De wind komt uit richtingen tussen west en zuidwest. We spreken van zware windstoten als deze een snelheid hebben van minimaal 75 km/u. De wind wordt vandaag veroorzaakt door het lagedrukgebied Austen en vanaf zaterdagavond door lagedrukgebied Boelo. Uitgifte: 23/10/2026 23:23 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-10-24T01:15:11.778333"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
-        "timestamp": 1792823882,
-        "time": "24-10-2026 08:38:02",
-        "temp": 9.4,
-        "gtemp": 7,
-        "samenv": "Lichte regen",
-        "lv": 86,
-        "windr": "W",
-        "windrgr": 247.4,
-        "windms": 4.49,
-        "windbft": 3,
-        "windknp": 8.7,
-        "windkmh": 16.2,
-        "luchtd": 1007.82,
-        "ldmmhg": 756,
-        "dauwp": 7.2,
-        "zicht": 15800,
-        "gr": 523,
-        "verw": "Veel regen en wind.",
-        "sup": "08:18",
-        "sunder": "18:28",
-        "image": "regen",
-        "alarm": 0,
-        "lkop": "Vanaf zaterdagavond in de kustgebieden zware windstoten",
-        "ltekst": "Momenteel zijn er geen waarschuwingen. Vanaf het einde van zaterdagavond komen er in de kustgebieden windstoten voor van 75-90 km/uur, in het westelijk Waddengebied rond middernacht tot ongeveer 100 km/uur. De windstoten houden de hele zondag aan. Doordat de bomen nog vol in het blad staan zullen er veel (kleinere) takken afbreken. Ook is er hinder voor het verkeer. De wind komt eerst uit het zuiden, later in de nacht naar zondag en zondag overdag uit het zuidwesten tot westen. We spreken van zware windstoten als deze een snelheid hebben van minimaal 75 km/u. De wind wordt veroorzaakt door het lagedrukgebied Boelo. Uitgifte: 24/10/2026 07:43 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-10-24T06:39:05.739269"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1792841882,
         "time": "24-10-2026 13:38:02",
         "temp": 12,
@@ -1366,5 +1294,41 @@
       }
     ],
     "opgehaald_op": "2026-10-31T01:13:08.002411"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1793432281,
+        "time": "31-10-2026 08:38:01",
+        "temp": 7.5,
+        "gtemp": 5.7,
+        "samenv": "Licht bewolkt",
+        "lv": 99,
+        "windr": "O",
+        "windrgr": 76.5,
+        "windms": 2.64,
+        "windbft": 2,
+        "windknp": 5.1,
+        "windkmh": 9.5,
+        "luchtd": 1033.94,
+        "ldmmhg": 776,
+        "dauwp": 7.4,
+        "zicht": 1160,
+        "gr": 16,
+        "verw": "Vanochtend in het zuiden (dichte) mist. Verder droog, meestal bewolkt",
+        "sup": "07:30",
+        "sunder": "17:14",
+        "image": "lichtbewolkt",
+        "alarm": 0,
+        "lkop": "Vanochtend in het zuiden plaatselijk dichte mist",
+        "ltekst": "Vanochtend komt er in zuiden plaatselijk dichte mist voor die hinderlijk kan zijn voor het weg- en vliegverkeer. De mist lost in de loop van de ochtend weer op. In dichte mist is het zicht minder dan 200 meter. Uitgifte: 31/10/2026 04:49 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-10-31T07:42:14.530753"
   }
 ]
