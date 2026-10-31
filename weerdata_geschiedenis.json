@@ -3,78 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1792853882,
-        "time": "24-10-2026 16:58:02",
-        "temp": 11.5,
-        "gtemp": 8.2,
-        "samenv": "Zwaar bewolkt",
-        "lv": 69,
-        "windr": "ZZW",
-        "windrgr": 191.3,
-        "windms": 4.9,
-        "windbft": 3,
-        "windknp": 9.5,
-        "windkmh": 17.6,
-        "luchtd": 1007.62,
-        "ldmmhg": 756,
-        "dauwp": 6.1,
-        "zicht": 47400,
-        "gr": 77,
-        "verw": "Veel regen en wind.",
-        "sup": "08:18",
-        "sunder": "18:28",
-        "image": "bewolkt",
-        "alarm": 0,
-        "lkop": "Vanaf zaterdagavond in de kustgebieden zware windstoten",
-        "ltekst": "Momenteel zijn er geen waarschuwingen. Vanaf het einde van zaterdagavond komen er in de kustgebieden windstoten voor van 75-90 km/uur, in het westelijk Waddengebied rond middernacht tot ongeveer 100 km/uur. De windstoten houden de hele zondag aan. In de Limburgse heuvels is er laat op zaterdagavond en in de nacht naar zondag kans op windstoten rond 75 km/u. Doordat de bomen nog vol in het blad staan zullen er veel (kleinere) takken afbreken. Ook is er hinder voor het verkeer. De wind komt eerst uit het zuiden, later in de nacht naar zondag en zondag overdag uit het zuidwesten tot westen. We spreken van zware windstoten als deze een snelheid hebben van minimaal 75 km/u. De wind wordt veroorzaakt door het lagedrukgebied Boelo. Uitgifte: 24/10/2026 12:51 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-10-24T15:01:11.528763"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
-        "timestamp": 1792864082,
-        "time": "24-10-2026 19:48:02",
-        "temp": 10.1,
-        "gtemp": 6.3,
-        "samenv": "Lichte regen",
-        "lv": 92,
-        "windr": "ZZO",
-        "windrgr": 183.3,
-        "windms": 8.16,
-        "windbft": 5,
-        "windknp": 15.9,
-        "windkmh": 29.4,
-        "luchtd": 1004.02,
-        "ldmmhg": 753,
-        "dauwp": 8.9,
-        "zicht": 20600,
-        "gr": 0,
-        "verw": "Veel regen en wind.",
-        "sup": "08:18",
-        "sunder": "18:28",
-        "image": "regen",
-        "alarm": 0,
-        "lkop": "Vanaf vanavond in de kustgebieden en in Zuid-Limburg zware windstoten",
-        "ltekst": "Vanaf halverwege vanavond is er in de kustgebieden kans op zware windstoten, in het westelijk Waddengebied rond middernacht mogelijk zeer zware windstoten. Ook in de Limburgse heuvels is er komende nacht kans op zware windstoten. In de tweede helft van de nacht waait het tijdelijk minder hard, maar vanaf het begin van zondagochtend is er in de kustgebieden opnieuw kans op zware windstoten. Zondagmiddag is vooral in het noordelijk kustgebied een kleine kans op zeer zware windstoten, met name tijdens buien. In het zuidwestelijk kustgebied verdwijnen de zware windstoten op zondagavond. In het noordelijk kustgebied kunnen de zware windstoten tot in de nacht naar maandag aanhouden. Doordat de bomen nog in het blad staan zullen er veel (kleinere) takken afbreken. Ook is er hinder voor het verkeer. De wind komt vanavond uit het zuiden, later in de nacht naar zondag en zondag overdag uit het zuidwesten tot westen. Vanaf vanavond in het kustgebied windstoten van 75-90 km/u, in het westelijk Waddengebied rond middernacht tijdelijk tot rond 100 km/u. In het Waddengebied ook zondagmiddag vooral bij buien mogelijk rond 100 km/u. De wind wordt veroorzaakt door het lagedrukgebied Boelo. Uitgifte: 24/10/2026 18:09 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-10-24T17:51:09.607404"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1792871282,
         "time": "24-10-2026 21:48:02",
         "temp": 9.6,
@@ -1330,5 +1258,41 @@
       }
     ],
     "opgehaald_op": "2026-10-31T14:01:28.377015"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1793470083,
+        "time": "31-10-2026 19:08:03",
+        "temp": 7.8,
+        "gtemp": 7.8,
+        "samenv": "Zwaar bewolkt",
+        "lv": 97,
+        "windr": "NO",
+        "windrgr": 30.9,
+        "windms": 0.82,
+        "windbft": 1,
+        "windknp": 1.6,
+        "windkmh": 3,
+        "luchtd": 1033.34,
+        "ldmmhg": 775,
+        "dauwp": 6.1,
+        "zicht": 6740,
+        "gr": 0,
+        "verw": "Overwegend bewolkt en morgen vooral in het oosten plaatselijk motregen.",
+        "sup": "07:30",
+        "sunder": "17:14",
+        "image": "wolkennacht",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 31/10/2026 17:06 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-10-31T18:11:16.826950"
   }
 ]
