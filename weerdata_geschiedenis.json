@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1792841882,
-        "time": "24-10-2026 13:38:02",
-        "temp": 12,
-        "gtemp": 10,
-        "samenv": "Licht bewolkt",
-        "lv": 61,
-        "windr": "WZW",
-        "windrgr": 241.2,
-        "windms": 6.29,
-        "windbft": 4,
-        "windknp": 12.2,
-        "windkmh": 22.6,
-        "luchtd": 1010.42,
-        "ldmmhg": 758,
-        "dauwp": 4.7,
-        "zicht": 35100,
-        "gr": 196,
-        "verw": "Veel regen en wind.",
-        "sup": "08:18",
-        "sunder": "18:28",
-        "image": "lichtbewolkt",
-        "alarm": 0,
-        "lkop": "Vanaf zaterdagavond in de kustgebieden zware windstoten",
-        "ltekst": "Momenteel zijn er geen waarschuwingen. Vanaf het einde van zaterdagavond komen er in de kustgebieden windstoten voor van 75-90 km/uur, in het westelijk Waddengebied rond middernacht tot ongeveer 100 km/uur. De windstoten houden de hele zondag aan. In de Limburgse heuvels is er laat op zaterdagavond en in de nacht naar zondag kans op windstoten rond 75 km/u. Doordat de bomen nog vol in het blad staan zullen er veel (kleinere) takken afbreken. Ook is er hinder voor het verkeer. De wind komt eerst uit het zuiden, later in de nacht naar zondag en zondag overdag uit het zuidwesten tot westen. We spreken van zware windstoten als deze een snelheid hebben van minimaal 75 km/u. De wind wordt veroorzaakt door het lagedrukgebied Boelo. Uitgifte: 24/10/2026 12:51 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-10-24T11:43:22.141608"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1792853882,
         "time": "24-10-2026 16:58:02",
         "temp": 11.5,
@@ -1330,5 +1294,41 @@
       }
     ],
     "opgehaald_op": "2026-10-31T07:42:14.530753"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1793455082,
+        "time": "31-10-2026 14:58:02",
+        "temp": 9.6,
+        "gtemp": 8.5,
+        "samenv": "Zwaar bewolkt",
+        "lv": 88,
+        "windr": "O",
+        "windrgr": 95.9,
+        "windms": 2.24,
+        "windbft": 2,
+        "windknp": 4.4,
+        "windkmh": 8.1,
+        "luchtd": 1033.34,
+        "ldmmhg": 775,
+        "dauwp": 7.7,
+        "zicht": 16000,
+        "gr": 118,
+        "verw": "Overwegend bewolkt en morgen vooral in het oosten plaatselijk motregen.",
+        "sup": "07:30",
+        "sunder": "17:14",
+        "image": "bewolkt",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 31/10/2026 14:09 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-10-31T14:01:28.377015"
   }
 ]
