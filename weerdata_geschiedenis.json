@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1792958883,
-        "time": "25-10-2026 21:08:03",
-        "temp": 12.3,
-        "gtemp": 9.1,
-        "samenv": "Zwaar bewolkt",
-        "lv": 55,
-        "windr": "W",
-        "windrgr": 259.4,
-        "windms": 5.46,
-        "windbft": 3,
-        "windknp": 10.6,
-        "windkmh": 19.7,
-        "luchtd": 1007.12,
-        "ldmmhg": 755,
-        "dauwp": 3.3,
-        "zicht": 37200,
-        "gr": 0,
-        "verw": "Buien en veel wind. Morgen rustiger en af en toe zon",
-        "sup": "07:20",
-        "sunder": "17:26",
-        "image": "wolkennacht",
-        "alarm": 0,
-        "lkop": "In de kustgebieden, met uitzondering van het zuidwesten, zware windstoten",
-        "ltekst": "In de kustprovincies, met uitzondering van het zuidwesten, komen zware windstoten voor. In het noordelijk kustgebied kunnen de zware windstoten tot in de nacht naar maandag aanhouden. Doordat de bomen nog in het blad staan zullen er veel (kleinere) takken afbreken. Ook is er hinder voor het verkeer. De wind komt uit het zuidwesten tot westen. In het noordelijk kustgebied windstoten van 75-90 km/u. De wind wordt veroorzaakt door het lagedrukgebied Boelo. Uitgifte: 25/10/2026 19:23 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-10-25T20:13:12.037284"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1792968482,
         "time": "25-10-2026 23:48:02",
         "temp": 11.8,
@@ -1222,5 +1186,41 @@
       }
     ],
     "opgehaald_op": "2026-11-01T18:48:57.817082"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1793572083,
+        "time": "01-11-2026 23:28:03",
+        "temp": 9.5,
+        "gtemp": 9,
+        "samenv": "Zwaar bewolkt",
+        "lv": 95,
+        "windr": "WZW",
+        "windrgr": 231.4,
+        "windms": 1.54,
+        "windbft": 1,
+        "windknp": 3,
+        "windkmh": 5.5,
+        "luchtd": 1031.94,
+        "ldmmhg": 774,
+        "dauwp": 8.8,
+        "zicht": 9300,
+        "gr": 0,
+        "verw": "Meest bewolkt en plaatselijk motregen. Maandag meer zon en een enkele bui",
+        "sup": "07:32",
+        "sunder": "17:12",
+        "image": "wolkennacht",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 01/11/2026 22:49 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-11-01T22:34:12.798000"
   }
 ]
