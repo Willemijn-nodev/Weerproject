@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1792923482,
-        "time": "25-10-2026 11:18:02",
-        "temp": 12.9,
-        "gtemp": 10.2,
-        "samenv": "Zwaar bewolkt",
-        "lv": 64,
-        "windr": "W",
-        "windrgr": 248.7,
-        "windms": 6.88,
-        "windbft": 4,
-        "windknp": 13.4,
-        "windkmh": 24.8,
-        "luchtd": 995.018,
-        "ldmmhg": 746,
-        "dauwp": 6.3,
-        "zicht": 18500,
-        "gr": 124,
-        "verw": "Buien en veel wind. Maandag rustiger en af en toe zon",
-        "sup": "07:20",
-        "sunder": "17:26",
-        "image": "bewolkt",
-        "alarm": 0,
-        "lkop": "In de kustgebieden zware windstoten",
-        "ltekst": "Aan de kust komen zware windstoten voor, in de loop van vanmorgen breiden deze zich uit over de kustprovincies. Zondagmiddag is vooral in het noordelijk kustgebied een kleine kans op zeer zware windstoten, met name tijdens buien. In het zuidwestelijk kustgebied verdwijnen de zware windstoten op zondagavond. In het noordelijk kustgebied kunnen de zware windstoten tot in de nacht naar maandag aanhouden. Doordat de bomen nog in het blad staan zullen er veel (kleinere) takken afbreken. Ook is er hinder voor het verkeer. De wind komt uit het zuidwesten tot westen. In het kustgebied windstoten van 75-90 km/u. In het Waddengebied is er zondagmiddag een kleine kans dat vooral bij buien windstoten voorkomen rond 100 km/u. De wind wordt veroorzaakt door het lagedrukgebied Boelo. Uitgifte: 25/10/2026 08:34 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-10-25T10:20:10.796171"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1792939083,
         "time": "25-10-2026 15:38:03",
         "temp": 13.3,
@@ -1258,5 +1222,41 @@
       }
     ],
     "opgehaald_op": "2026-11-01T07:01:43.413242"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1793541482,
+        "time": "01-11-2026 14:58:02",
+        "temp": 11.2,
+        "gtemp": 11.2,
+        "samenv": "Zwaar bewolkt",
+        "lv": 81,
+        "windr": "NW",
+        "windrgr": 296.4,
+        "windms": 0.49,
+        "windbft": 1,
+        "windknp": 1,
+        "windkmh": 1.8,
+        "luchtd": 1032.24,
+        "ldmmhg": 774,
+        "dauwp": 8.2,
+        "zicht": 30400,
+        "gr": 28,
+        "verw": "Meest bewolkt en plaatselijk motregen. Maandag meer zon en een enkele bui",
+        "sup": "07:32",
+        "sunder": "17:12",
+        "image": "bewolkt",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 01/11/2026 13:59 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-11-01T14:03:37.456381"
   }
 ]
