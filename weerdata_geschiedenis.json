@@ -3,78 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1792968482,
-        "time": "25-10-2026 23:48:02",
-        "temp": 11.8,
-        "gtemp": 8.6,
-        "samenv": "Zwaar bewolkt",
-        "lv": 58,
-        "windr": "W",
-        "windrgr": 252.2,
-        "windms": 4.7,
-        "windbft": 3,
-        "windknp": 9.1,
-        "windkmh": 16.9,
-        "luchtd": 1008.92,
-        "ldmmhg": 757,
-        "dauwp": 3.8,
-        "zicht": 20800,
-        "gr": 0,
-        "verw": "Af en toe een bui en in het noorden veel wind. Morgen af en toe zon",
-        "sup": "07:20",
-        "sunder": "17:26",
-        "image": "wolkennacht",
-        "alarm": 0,
-        "lkop": "In de kustgebieden, met uitzondering van het zuidwesten, zware windstoten",
-        "ltekst": "In de kustprovincies, met uitzondering van het zuidwesten, komen zware windstoten voor. In het noordelijk kustgebied kunnen de zware windstoten tot in de nacht naar maandag aanhouden. Doordat de bomen nog in het blad staan zullen er veel (kleinere) takken afbreken. Ook is er hinder voor het verkeer. De wind komt uit het zuidwesten tot westen. In het noordelijk kustgebied windstoten van 75-90 km/u. De wind wordt veroorzaakt door het lagedrukgebied Boelo. Uitgifte: 25/10/2026 21:03 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-10-25T22:56:01.399751"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
-        "timestamp": 1792975682,
-        "time": "26-10-2026 01:48:02",
-        "temp": 11.6,
-        "gtemp": 9.2,
-        "samenv": "Zwaar bewolkt",
-        "lv": 64,
-        "windr": "W",
-        "windrgr": 247.8,
-        "windms": 5.42,
-        "windbft": 3,
-        "windknp": 10.5,
-        "windkmh": 19.5,
-        "luchtd": 1010.42,
-        "ldmmhg": 758,
-        "dauwp": 5.6,
-        "zicht": 24600,
-        "gr": 0,
-        "verw": "Af en toe zon en regen .",
-        "sup": "07:21",
-        "sunder": "17:24",
-        "image": "wolkennacht",
-        "alarm": 0,
-        "lkop": "In de kustgebieden, met uitzondering van het zuidwesten, zware windstoten",
-        "ltekst": "In de kustprovincies, met uitzondering van het zuidwesten, komen zware windstoten voor. In het noordelijk kustgebied kunnen de zware windstoten tot in de nacht naar maandag aanhouden. Doordat de bomen nog in het blad staan zullen er veel (kleinere) takken afbreken. Ook is er hinder voor het verkeer. De wind komt uit het zuidwesten tot westen. In het noordelijk kustgebied windstoten van 75-90 km/u. De wind wordt veroorzaakt door het lagedrukgebied Boelo. Uitgifte: 25/10/2026 21:03 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-10-26T00:51:35.857307"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1792992482,
         "time": "26-10-2026 06:28:02",
         "temp": 9.7,
@@ -1222,5 +1150,41 @@
       }
     ],
     "opgehaald_op": "2026-11-01T22:34:12.798000"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1793584682,
+        "time": "02-11-2026 02:58:02",
+        "temp": 8.7,
+        "gtemp": 8.7,
+        "samenv": "Licht bewolkt",
+        "lv": 99,
+        "windr": "W",
+        "windrgr": 247.2,
+        "windms": 1.11,
+        "windbft": 1,
+        "windknp": 2.2,
+        "windkmh": 4,
+        "luchtd": 1030.94,
+        "ldmmhg": 773,
+        "dauwp": 8.7,
+        "zicht": 4620,
+        "gr": 0,
+        "verw": "Eerst motregen, overdag zonnige perioden en kans op een bui.",
+        "sup": "07:34",
+        "sunder": "17:11",
+        "image": "wolkennacht",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 02/11/2026 01:28 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-11-02T02:00:42.267771"
   }
 ]
