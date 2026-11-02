@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1792992482,
-        "time": "26-10-2026 06:28:02",
-        "temp": 9.7,
-        "gtemp": 8.2,
-        "samenv": "Half bewolkt",
-        "lv": 82,
-        "windr": "ZZW",
-        "windrgr": 204,
-        "windms": 2.92,
-        "windbft": 2,
-        "windknp": 5.7,
-        "windkmh": 10.5,
-        "luchtd": 1012.93,
-        "ldmmhg": 760,
-        "dauwp": 6.4,
-        "zicht": 20000,
-        "gr": 0,
-        "verw": "Af en toe zon en regen .",
-        "sup": "07:21",
-        "sunder": "17:24",
-        "image": "wolkennacht",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 26/10/2026 04:37 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-10-26T05:34:13.456954"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1793014683,
         "time": "26-10-2026 12:38:03",
         "temp": 12.1,
@@ -1186,5 +1150,41 @@
       }
     ],
     "opgehaald_op": "2026-11-02T02:00:42.267771"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1793608683,
+        "time": "02-11-2026 09:38:03",
+        "temp": 10.3,
+        "gtemp": 7.8,
+        "samenv": "Zwaar bewolkt",
+        "lv": 86,
+        "windr": "N",
+        "windrgr": 1.8,
+        "windms": 3.6,
+        "windbft": 3,
+        "windknp": 7,
+        "windkmh": 13,
+        "luchtd": 1031.74,
+        "ldmmhg": 774,
+        "dauwp": 8.1,
+        "zicht": 31300,
+        "gr": 74,
+        "verw": "Eerst (mot)regen, vanuit het noordwesten perioden met zon en een bui.",
+        "sup": "07:34",
+        "sunder": "17:11",
+        "image": "bewolkt",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 02/11/2026 08:37 uur LT",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-11-02T08:46:32.079631"
   }
 ]
