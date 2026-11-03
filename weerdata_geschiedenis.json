@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1793051881,
-        "time": "26-10-2026 22:58:01",
-        "temp": 11.8,
-        "gtemp": 9.4,
-        "samenv": "Motregen of motsneeuw",
-        "lv": 95,
-        "windr": "ZZO",
-        "windrgr": 187.5,
-        "windms": 4.41,
-        "windbft": 3,
-        "windknp": 8.6,
-        "windkmh": 15.9,
-        "luchtd": 1011.93,
-        "ldmmhg": 759,
-        "dauwp": 11.1,
-        "zicht": 17200,
-        "gr": 0,
-        "verw": "Vrij wisselvallig en morgen zeer zacht.",
-        "sup": "07:21",
-        "sunder": "17:24",
-        "image": "sneeuw",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "Er zijn momenteel geen waarschuwingen van kracht. Uitgifte: 26/10/2026 19:56 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-10-26T22:03:58.850906"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1793065082,
         "time": "27-10-2026 02:38:02",
         "temp": 12.5,
@@ -1150,5 +1114,41 @@
       }
     ],
     "opgehaald_op": "2026-11-02T19:00:41.972130"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1793669282,
+        "time": "03-11-2026 02:28:02",
+        "temp": 9.1,
+        "gtemp": 7.4,
+        "samenv": "Zwaar bewolkt",
+        "lv": 95,
+        "windr": "NO",
+        "windrgr": 23,
+        "windms": 3.01,
+        "windbft": 2,
+        "windknp": 5.9,
+        "windkmh": 10.8,
+        "luchtd": 1031.43,
+        "ldmmhg": 774,
+        "dauwp": 8.4,
+        "zicht": 38900,
+        "gr": 0,
+        "verw": "Plaatselijk motregen, vanmiddag van het oosten uit droog en meer zon.",
+        "sup": "07:36",
+        "sunder": "17:09",
+        "image": "wolkennacht",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "Er zijn geen waarschuwingen Het KNMI waarschuwt voor gevaarlijk weer bij gladheid, hitte, kou, mist, onweersbuien, sneeuw, waterhozen, windstoten en zware regen. Meldingen ontvangen voor onze waarschuwingen?",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-11-03T01:29:25.034045"
   }
 ]
