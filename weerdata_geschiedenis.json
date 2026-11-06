@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1793311682,
-        "time": "29-10-2026 23:08:02",
-        "temp": 7.2,
-        "gtemp": 7.2,
-        "samenv": "Mist",
-        "lv": 99,
-        "windr": "O",
-        "windrgr": 85.2,
-        "windms": 0.9,
-        "windbft": 1,
-        "windknp": 1.7,
-        "windkmh": 3.2,
-        "luchtd": 1031.24,
-        "ldmmhg": 773,
-        "dauwp": 6.8,
-        "zicht": 447,
-        "gr": 0,
-        "verw": "In de nacht en ochtend plaatselijk mist, daarna af en toe zon en droog.",
-        "sup": "07:27",
-        "sunder": "17:18",
-        "image": "nachtmist",
-        "alarm": 1,
-        "lkop": "Plaatselijk dichte mist in het midden en noorden",
-        "ltekst": "In het midden en noorden komt dichte mist voor. Deze mist kan zeer plaatselijk en verraderlijk zijn. Ook op andere plaatsen kan (dichte) mist ontstaan. De mist kan hinder voor het verkeer opleveren. In dichte mist is het zicht minder dan 200 m. De mist is (zeer) plaatselijk en kan tot morgenochtend hardnekkig zijn. Uitgifte: 29/10/2026 21:42 uur LT",
-        "wrschklr": "geel",
-        "wrsch_g": "29-10-2026 21:00",
-        "wrsch_gts": 1793304000,
-        "wrsch_gc": "geel"
-      }
-    ],
-    "opgehaald_op": "2026-10-29T22:11:37.871342"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1793326083,
         "time": "30-10-2026 03:08:03",
         "temp": 5.7,
@@ -1042,5 +1006,41 @@
       }
     ],
     "opgehaald_op": "2026-11-05T21:43:21.494458"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1793929683,
+        "time": "06-11-2026 02:48:03",
+        "temp": 3.6,
+        "gtemp": 1.2,
+        "samenv": "Mist",
+        "lv": 97,
+        "windr": "ONO",
+        "windrgr": 59.4,
+        "windms": 2.2,
+        "windbft": 2,
+        "windknp": 4.3,
+        "windkmh": 7.9,
+        "luchtd": 1024.84,
+        "ldmmhg": 769,
+        "dauwp": 1.6,
+        "zicht": 7990,
+        "gr": 0,
+        "verw": "Vandaag zonnig en droog. Morgen eerst mist, later bewolking en wat regen",
+        "sup": "07:41",
+        "sunder": "17:04",
+        "image": "nachtmist",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "-",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-11-06T01:56:18.782220"
   }
 ]
