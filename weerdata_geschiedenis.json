@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1793432281,
-        "time": "31-10-2026 08:38:01",
-        "temp": 7.5,
-        "gtemp": 5.7,
-        "samenv": "Licht bewolkt",
-        "lv": 99,
-        "windr": "O",
-        "windrgr": 76.5,
-        "windms": 2.64,
-        "windbft": 2,
-        "windknp": 5.1,
-        "windkmh": 9.5,
-        "luchtd": 1033.94,
-        "ldmmhg": 776,
-        "dauwp": 7.4,
-        "zicht": 1160,
-        "gr": 16,
-        "verw": "Vanochtend in het zuiden (dichte) mist. Verder droog, meestal bewolkt",
-        "sup": "07:30",
-        "sunder": "17:14",
-        "image": "lichtbewolkt",
-        "alarm": 0,
-        "lkop": "Vanochtend in het zuiden plaatselijk dichte mist",
-        "ltekst": "Vanochtend komt er in zuiden plaatselijk dichte mist voor die hinderlijk kan zijn voor het weg- en vliegverkeer. De mist lost in de loop van de ochtend weer op. In dichte mist is het zicht minder dan 200 meter. Uitgifte: 31/10/2026 04:49 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-10-31T07:42:14.530753"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1793455082,
         "time": "31-10-2026 14:58:02",
         "temp": 9.6,
@@ -1006,5 +970,41 @@
       }
     ],
     "opgehaald_op": "2026-11-07T01:27:28.534300"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1794038282,
+        "time": "07-11-2026 08:58:02",
+        "temp": 0.6,
+        "gtemp": 0.6,
+        "samenv": "Licht bewolkt",
+        "lv": 100,
+        "windr": "OZO",
+        "windrgr": 108.4,
+        "windms": 1.13,
+        "windbft": 1,
+        "windknp": 2.2,
+        "windkmh": 4.1,
+        "luchtd": 1024.05,
+        "ldmmhg": 768,
+        "dauwp": 0.6,
+        "zicht": 4520,
+        "gr": 69,
+        "verw": "Eerst plaatselijk mist. Verder af en toe zon, in het zuidwesten (mot)regen",
+        "sup": "07:43",
+        "sunder": "17:02",
+        "image": "lichtbewolkt",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "-",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-11-07T07:59:16.270455"
   }
 ]
