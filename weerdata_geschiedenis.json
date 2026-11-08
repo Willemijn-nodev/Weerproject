@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1793493482,
-        "time": "01-11-2026 01:38:02",
-        "temp": 6.9,
-        "gtemp": 6.9,
-        "samenv": "Licht bewolkt",
-        "lv": 99,
-        "windr": "NNO",
-        "windrgr": 7.6,
-        "windms": 0.43,
-        "windbft": 1,
-        "windknp": 0.8,
-        "windkmh": 1.5,
-        "luchtd": 1033.24,
-        "ldmmhg": 775,
-        "dauwp": 6.8,
-        "zicht": 5540,
-        "gr": 0,
-        "verw": "Bewolkt en overdag wat motregen. Maandag meer zon en een enkele bui",
-        "sup": "07:32",
-        "sunder": "17:12",
-        "image": "wolkennacht",
-        "alarm": 0,
-        "lkop": "Dichte mist in het zuidwesten",
-        "ltekst": "In het zuidwesten van het land komt lokaal dichte mist voor. Vooral het wegverkeer kan hier hinder van ondervinden. Er is sprake van dichte mist bij zichten minder dan 200 meter. Uitgifte: 01/11/2026 00:03 uur LT",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-11-01T00:46:47.769014"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1793516282,
         "time": "01-11-2026 07:58:02",
         "temp": 8.4,
@@ -1006,5 +970,41 @@
       }
     ],
     "opgehaald_op": "2026-11-07T23:15:03.186908"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1794106682,
+        "time": "08-11-2026 03:58:02",
+        "temp": 6.9,
+        "gtemp": 6.9,
+        "samenv": "Mist",
+        "lv": 99,
+        "windr": "ZZO",
+        "windrgr": 136.8,
+        "windms": 0.96,
+        "windbft": 1,
+        "windknp": 1.9,
+        "windkmh": 3.5,
+        "luchtd": 1020.94,
+        "ldmmhg": 766,
+        "dauwp": 6.8,
+        "zicht": 139,
+        "gr": 0,
+        "verw": "Half tot zwaar bewolkt, plaatselijk regen. Morgen perioden met zon",
+        "sup": "07:45",
+        "sunder": "17:00",
+        "image": "nachtmist",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "-",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-11-08T03:04:20.676428"
   }
 ]
