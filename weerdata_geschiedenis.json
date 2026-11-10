@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1793645882,
-        "time": "02-11-2026 19:58:02",
-        "temp": 10.6,
-        "gtemp": 9.9,
-        "samenv": "Zwaar bewolkt",
-        "lv": 90,
-        "windr": "NNO",
-        "windrgr": 11,
-        "windms": 2.1,
-        "windbft": 2,
-        "windknp": 4.1,
-        "windkmh": 7.6,
-        "luchtd": 1031.94,
-        "ldmmhg": 774,
-        "dauwp": 8.9,
-        "zicht": 41000,
-        "gr": 0,
-        "verw": "Af en toe zon en plaatselijk een bui.",
-        "sup": "07:34",
-        "sunder": "17:11",
-        "image": "wolkennacht",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "Er zijn geen waarschuwingen Het KNMI waarschuwt voor gevaarlijk weer bij gladheid, hitte, kou, mist, onweersbuien, sneeuw, waterhozen, windstoten en zware regen. Meldingen ontvangen voor onze waarschuwingen?",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-11-02T19:00:41.972130"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1793669282,
         "time": "03-11-2026 02:28:02",
         "temp": 9.1,
@@ -1006,5 +970,41 @@
       }
     ],
     "opgehaald_op": "2026-11-09T18:00:17.467528"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1794272282,
+        "time": "10-11-2026 01:58:02",
+        "temp": -0.8,
+        "gtemp": -0.8,
+        "samenv": "Mist",
+        "lv": 98,
+        "windr": "NNO",
+        "windrgr": 7.7,
+        "windms": 0.84,
+        "windbft": 1,
+        "windknp": 1.6,
+        "windkmh": 3,
+        "luchtd": 1014.84,
+        "ldmmhg": 761,
+        "dauwp": -1.1,
+        "zicht": 907,
+        "gr": 0,
+        "verw": "Komende nacht (dichte) mist.",
+        "sup": "07:48",
+        "sunder": "16:57",
+        "image": "nachtmist",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "-",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-11-10T01:02:06.784714"
   }
 ]
