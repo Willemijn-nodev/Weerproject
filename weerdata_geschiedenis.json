@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1793786283,
-        "time": "04-11-2026 10:58:03",
-        "temp": 8.6,
-        "gtemp": 5.7,
-        "samenv": "Licht bewolkt",
-        "lv": 65,
-        "windr": "O",
-        "windrgr": 69.5,
-        "windms": 7.09,
-        "windbft": 4,
-        "windknp": 13.8,
-        "windkmh": 25.5,
-        "luchtd": 1032.24,
-        "ldmmhg": 774,
-        "dauwp": 2.5,
-        "zicht": 43400,
-        "gr": 171,
-        "verw": "Rustig herfstweer met steeds meer zon.",
-        "sup": "07:38",
-        "sunder": "17:07",
-        "image": "lichtbewolkt",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "-",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-11-04T10:08:01.877423"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1793816282,
         "time": "04-11-2026 19:18:02",
         "temp": 6.3,
@@ -1006,5 +970,41 @@
       }
     ],
     "opgehaald_op": "2026-11-11T08:38:36.376033"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1794415082,
+        "time": "11-11-2026 17:38:02",
+        "temp": 4.2,
+        "gtemp": 2.1,
+        "samenv": "Licht bewolkt",
+        "lv": 91,
+        "windr": "ONO",
+        "windrgr": 55.8,
+        "windms": 2.33,
+        "windbft": 2,
+        "windknp": 4.5,
+        "windkmh": 8.4,
+        "luchtd": 1003.13,
+        "ldmmhg": 752,
+        "dauwp": 2.9,
+        "zicht": 6770,
+        "gr": 0,
+        "verw": "Bewolkt en in het zuiden wat regen. Morgen buien maar ook zon",
+        "sup": "07:50",
+        "sunder": "16:55",
+        "image": "wolkennacht",
+        "alarm": 0,
+        "lkop": "Donderdag in de nacht en ochtend in de zuidoostelijke helft plaatselijk dichte mist.",
+        "ltekst": "In de nacht en ochtend komt er in de noordelijke helft plaatselijk dichte mist voor. In de tweede helft van de ochtend lost de (dichte) mist langzaam op.",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-11-11T16:48:50.301303"
   }
 ]
