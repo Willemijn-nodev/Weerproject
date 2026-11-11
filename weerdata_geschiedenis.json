@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1793760481,
-        "time": "04-11-2026 03:48:01",
-        "temp": 5.3,
-        "gtemp": 2.7,
-        "samenv": "Licht bewolkt",
-        "lv": 89,
-        "windr": "ONO",
-        "windrgr": 50.5,
-        "windms": 3.17,
-        "windbft": 2,
-        "windknp": 6.2,
-        "windkmh": 11.4,
-        "luchtd": 1032.54,
-        "ldmmhg": 774,
-        "dauwp": 3.7,
-        "zicht": 17100,
-        "gr": 0,
-        "verw": "Rustig herfstweer met steeds meer zon.",
-        "sup": "07:38",
-        "sunder": "17:07",
-        "image": "wolkennacht",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "Er zijn geen waarschuwingen Het KNMI waarschuwt voor gevaarlijk weer bij gladheid, hitte, kou, mist, onweersbuien, sneeuw, waterhozen, windstoten en zware regen. Meldingen ontvangen voor onze waarschuwingen?",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-11-04T02:52:54.054395"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1793786283,
         "time": "04-11-2026 10:58:03",
         "temp": 8.6,
@@ -1006,5 +970,41 @@
       }
     ],
     "opgehaald_op": "2026-11-11T01:40:52.167299"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1794385684,
+        "time": "11-11-2026 09:28:04",
+        "temp": 4.6,
+        "gtemp": 2.1,
+        "samenv": "Zwaar bewolkt",
+        "lv": 94,
+        "windr": "NO",
+        "windrgr": 43.4,
+        "windms": 2.86,
+        "windbft": 2,
+        "windknp": 5.6,
+        "windkmh": 10.3,
+        "luchtd": 1003.93,
+        "ldmmhg": 753,
+        "dauwp": 3.9,
+        "zicht": 4820,
+        "gr": 67,
+        "verw": "In het zuiden regen, in het noorden later zon. Morgen buien maar ook zon",
+        "sup": "07:50",
+        "sunder": "16:55",
+        "image": "bewolkt",
+        "alarm": 0,
+        "lkop": "Donderdag in de nacht en ochtend in de zuidoostelijke helft plaatselijk dichte mist.",
+        "ltekst": "In de nacht en ochtend komt er in de noordelijke helft plaatselijk dichte mist voor. In de tweede helft van de ochtend lost de (dichte) mist langzaam op.",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-11-11T08:38:36.376033"
   }
 ]
