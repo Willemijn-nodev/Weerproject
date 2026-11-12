@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1793894283,
-        "time": "05-11-2026 16:58:03",
-        "temp": 8.6,
-        "gtemp": 6.7,
-        "samenv": "Onbewolkt",
-        "lv": 75,
-        "windr": "O",
-        "windrgr": 72.7,
-        "windms": 3.25,
-        "windbft": 2,
-        "windknp": 6.3,
-        "windkmh": 11.7,
-        "luchtd": 1025.84,
-        "ldmmhg": 769,
-        "dauwp": 4.3,
-        "zicht": 41100,
-        "gr": 15,
-        "verw": "Zonnig en droog.",
-        "sup": "07:39",
-        "sunder": "17:05",
-        "image": "zonnig",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "-",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-11-05T15:59:32.437244"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1793914683,
         "time": "05-11-2026 22:38:03",
         "temp": 4.2,
@@ -1006,5 +970,41 @@
       }
     ],
     "opgehaald_op": "2026-11-12T13:29:43.835034"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1794517683,
+        "time": "12-11-2026 22:08:03",
+        "temp": 5.1,
+        "gtemp": 3.6,
+        "samenv": "Licht bewolkt",
+        "lv": 85,
+        "windr": "NNW",
+        "windrgr": 320.2,
+        "windms": 1.85,
+        "windbft": 2,
+        "windknp": 3.6,
+        "windkmh": 6.7,
+        "luchtd": 1004.83,
+        "ldmmhg": 754,
+        "dauwp": 2.3,
+        "zicht": 43800,
+        "gr": 0,
+        "verw": "Enkele buien.",
+        "sup": "07:52",
+        "sunder": "16:54",
+        "image": "wolkennacht",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "-",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-11-12T21:16:43.830123"
   }
 ]
