@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1793836683,
-        "time": "05-11-2026 00:58:03",
-        "temp": 4.8,
-        "gtemp": 1.5,
-        "samenv": "Onbewolkt",
-        "lv": 83,
-        "windr": "ONO",
-        "windrgr": 66.4,
-        "windms": 4.12,
-        "windbft": 3,
-        "windknp": 8,
-        "windkmh": 14.8,
-        "luchtd": 1029.84,
-        "ldmmhg": 772,
-        "dauwp": 2.2,
-        "zicht": 42400,
-        "gr": 0,
-        "verw": "Droog. Morgen veel zon",
-        "sup": "07:39",
-        "sunder": "17:05",
-        "image": "zonnig",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "-",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-11-05T00:04:58.261367"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1793863682,
         "time": "05-11-2026 08:28:02",
         "temp": 3.8,
@@ -1006,5 +970,41 @@
       }
     ],
     "opgehaald_op": "2026-11-11T23:18:38.768671"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1794458283,
+        "time": "12-11-2026 05:38:03",
+        "temp": 2.3,
+        "gtemp": 0.9,
+        "samenv": "Licht bewolkt",
+        "lv": 99,
+        "windr": "WZW",
+        "windrgr": 243.6,
+        "windms": 1.48,
+        "windbft": 1,
+        "windknp": 2.9,
+        "windkmh": 5.3,
+        "luchtd": 1001.23,
+        "ldmmhg": 751,
+        "dauwp": 2.3,
+        "zicht": 2340,
+        "gr": 0,
+        "verw": "Vannacht lokaal mist. Overdag en morgen enkele buien maar ook zon",
+        "sup": "07:52",
+        "sunder": "16:54",
+        "image": "wolkennacht",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "-",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-11-12T04:45:21.017293"
   }
 ]
