@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1793863682,
-        "time": "05-11-2026 08:28:02",
-        "temp": 3.8,
-        "gtemp": 0.2,
-        "samenv": "Onbewolkt",
-        "lv": 91,
-        "windr": "ONO",
-        "windrgr": 66.1,
-        "windms": 3.09,
-        "windbft": 2,
-        "windknp": 6,
-        "windkmh": 11.1,
-        "luchtd": 1028.64,
-        "ldmmhg": 772,
-        "dauwp": 1.8,
-        "zicht": 38800,
-        "gr": 36,
-        "verw": "Zonnig en droog.",
-        "sup": "07:39",
-        "sunder": "17:05",
-        "image": "zonnig",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "-",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-11-05T07:33:26.884870"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1793894283,
         "time": "05-11-2026 16:58:03",
         "temp": 8.6,
@@ -1006,5 +970,41 @@
       }
     ],
     "opgehaald_op": "2026-11-12T04:45:21.017293"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1794490083,
+        "time": "12-11-2026 14:28:03",
+        "temp": 9.9,
+        "gtemp": 7.8,
+        "samenv": "Licht bewolkt",
+        "lv": 56,
+        "windr": "NNW",
+        "windrgr": 340.3,
+        "windms": 4.26,
+        "windbft": 3,
+        "windknp": 8.3,
+        "windkmh": 15.3,
+        "luchtd": 1001.23,
+        "ldmmhg": 751,
+        "dauwp": 1.6,
+        "zicht": 39900,
+        "gr": 249,
+        "verw": "Enkele buien, maar ook af en toe zon.",
+        "sup": "07:52",
+        "sunder": "16:54",
+        "image": "lichtbewolkt",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "-",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-11-12T13:29:43.835034"
   }
 ]
