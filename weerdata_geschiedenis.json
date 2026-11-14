@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1794078482,
-        "time": "07-11-2026 20:08:02",
-        "temp": 4.3,
-        "gtemp": 2.7,
-        "samenv": "Licht bewolkt",
-        "lv": 99,
-        "windr": "ZZO",
-        "windrgr": 146.3,
-        "windms": 1.85,
-        "windbft": 2,
-        "windknp": 3.6,
-        "windkmh": 6.7,
-        "luchtd": 1022.44,
-        "ldmmhg": 767,
-        "dauwp": 4.2,
-        "zicht": 1690,
-        "gr": 0,
-        "verw": "Plaatselijk mist, in het zuidwesten (mot)regen.",
-        "sup": "07:43",
-        "sunder": "17:02",
-        "image": "wolkennacht",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "-",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-11-07T19:12:56.698160"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1794092882,
         "time": "08-11-2026 00:08:02",
         "temp": 5.5,
@@ -970,5 +934,41 @@
       }
     ],
     "opgehaald_op": "2026-11-14T17:37:00.337497"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1794692882,
+        "time": "14-11-2026 22:48:02",
+        "temp": 2.8,
+        "gtemp": -0.1,
+        "samenv": "Onbewolkt",
+        "lv": 98,
+        "windr": "OZO",
+        "windrgr": 103.8,
+        "windms": 2.1,
+        "windbft": 2,
+        "windknp": 4.1,
+        "windkmh": 7.6,
+        "luchtd": 1012.84,
+        "ldmmhg": 760,
+        "dauwp": -0.4,
+        "zicht": 2620,
+        "gr": 0,
+        "verw": "In het noordoosten mist. Morgen bewolkt en vooral later regen",
+        "sup": "07:55",
+        "sunder": "16:51",
+        "image": "zonnig",
+        "alarm": 0,
+        "lkop": "Aan de noordwest- en noordkust mogelijk windstoten van ongeveer 90 km/uur.",
+        "ltekst": "Aan de noordwest- en noordkust 30-40% kans op windstoten van ongeveer 90 km/uur. In het noordoosten van het land komt plaatselijk dichte mist voor",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-11-14T21:50:32.829220"
   }
 ]
