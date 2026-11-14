@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1794014283,
-        "time": "07-11-2026 02:18:03",
-        "temp": -0.7,
-        "gtemp": -2.5,
-        "samenv": "Licht bewolkt",
-        "lv": 98,
-        "windr": "O",
-        "windrgr": 91.7,
-        "windms": 1.48,
-        "windbft": 1,
-        "windknp": 2.9,
-        "windkmh": 5.3,
-        "luchtd": 1023.94,
-        "ldmmhg": 768,
-        "dauwp": -0.9,
-        "zicht": 1840,
-        "gr": 0,
-        "verw": "Vannacht plaatselijk mist. Overdag af en toe zon, later wat regen",
-        "sup": "07:43",
-        "sunder": "17:02",
-        "image": "wolkennacht",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "-",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-11-07T01:27:28.534300"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1794038282,
         "time": "07-11-2026 08:58:02",
         "temp": 0.6,
@@ -970,5 +934,41 @@
       }
     ],
     "opgehaald_op": "2026-11-14T00:04:10.012503"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1794632282,
+        "time": "14-11-2026 05:58:02",
+        "temp": -1.1,
+        "gtemp": -2.9,
+        "samenv": "Mist",
+        "lv": 98,
+        "windr": "ZZO",
+        "windrgr": 140.8,
+        "windms": 1.44,
+        "windbft": 1,
+        "windknp": 2.8,
+        "windkmh": 5.2,
+        "luchtd": 1019.54,
+        "ldmmhg": 765,
+        "dauwp": -1.4,
+        "zicht": 211,
+        "gr": 0,
+        "verw": "Plaatselijk mist. Overdag zonnig en droog. Morgenmiddag later regen",
+        "sup": "07:55",
+        "sunder": "16:51",
+        "image": "nachtmist",
+        "alarm": 0,
+        "lkop": "Aan de noordwest- en noordkust mogelijk windstoten van ongeveer 90 km/uur.",
+        "ltekst": "Aan de noordwest- en noordkust 30-40% kans op windstoten van ongeveer 90 km/uur.",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-11-14T05:04:28.848726"
   }
 ]
