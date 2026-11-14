@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1794038282,
-        "time": "07-11-2026 08:58:02",
-        "temp": 0.6,
-        "gtemp": 0.6,
-        "samenv": "Licht bewolkt",
-        "lv": 100,
-        "windr": "OZO",
-        "windrgr": 108.4,
-        "windms": 1.13,
-        "windbft": 1,
-        "windknp": 2.2,
-        "windkmh": 4.1,
-        "luchtd": 1024.05,
-        "ldmmhg": 768,
-        "dauwp": 0.6,
-        "zicht": 4520,
-        "gr": 69,
-        "verw": "Eerst plaatselijk mist. Verder af en toe zon, in het zuidwesten (mot)regen",
-        "sup": "07:43",
-        "sunder": "17:02",
-        "image": "lichtbewolkt",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "-",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-11-07T07:59:16.270455"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1794061683,
         "time": "07-11-2026 15:28:03",
         "temp": 4.1,
@@ -970,5 +934,41 @@
       }
     ],
     "opgehaald_op": "2026-11-14T05:04:28.848726"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1794657483,
+        "time": "14-11-2026 12:58:03",
+        "temp": 8.1,
+        "gtemp": 6.7,
+        "samenv": "Zwaar bewolkt",
+        "lv": 76,
+        "windr": "ZZO",
+        "windrgr": 179.9,
+        "windms": 2.31,
+        "windbft": 2,
+        "windknp": 4.5,
+        "windkmh": 8.3,
+        "luchtd": 1019.14,
+        "ldmmhg": 764,
+        "dauwp": 4.1,
+        "zicht": 24700,
+        "gr": 313,
+        "verw": "Perioden met zon, plaatselijk mist en droog. Morgen later op de dag regen",
+        "sup": "07:55",
+        "sunder": "16:51",
+        "image": "bewolkt",
+        "alarm": 0,
+        "lkop": "Aan de noordwest- en noordkust mogelijk windstoten van ongeveer 90 km/uur.",
+        "ltekst": "Aan de noordwest- en noordkust 30-40% kans op windstoten van ongeveer 90 km/uur.",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-11-14T12:01:48.678501"
   }
 ]
