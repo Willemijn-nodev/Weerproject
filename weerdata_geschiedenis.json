@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1794155283,
-        "time": "08-11-2026 17:28:03",
-        "temp": 7.8,
-        "gtemp": 6,
-        "samenv": "Zwaar bewolkt",
-        "lv": 89,
-        "windr": "ZZW",
-        "windrgr": 190.6,
-        "windms": 2.82,
-        "windbft": 2,
-        "windknp": 5.5,
-        "windkmh": 10.2,
-        "luchtd": 1022.33,
-        "ldmmhg": 767,
-        "dauwp": 6.2,
-        "zicht": 8070,
-        "gr": 0,
-        "verw": "Vandaag grijs en een bui, morgen meer zon.",
-        "sup": "07:45",
-        "sunder": "17:00",
-        "image": "wolkennacht",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "-",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-11-08T16:31:11.379175"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1794170883,
         "time": "08-11-2026 21:48:03",
         "temp": 7.9,
@@ -970,5 +934,41 @@
       }
     ],
     "opgehaald_op": "2026-11-15T16:01:34.541500"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1794775083,
+        "time": "15-11-2026 21:38:03",
+        "temp": 9.5,
+        "gtemp": 7.3,
+        "samenv": "Zwaar bewolkt",
+        "lv": 96,
+        "windr": "ZZO",
+        "windrgr": 184.2,
+        "windms": 4.12,
+        "windbft": 3,
+        "windknp": 8,
+        "windkmh": 14.8,
+        "luchtd": 996.526,
+        "ldmmhg": 747,
+        "dauwp": 8.2,
+        "zicht": 47400,
+        "gr": 0,
+        "verw": "Bewolkt en van het zuidwesten uit regen. Morgen enkele buien",
+        "sup": "07:57",
+        "sunder": "16:50",
+        "image": "wolkennacht",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "-",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-11-15T20:46:07.779697"
   }
 ]
