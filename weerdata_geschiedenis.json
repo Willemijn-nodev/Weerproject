@@ -3,78 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1794170883,
-        "time": "08-11-2026 21:48:03",
-        "temp": 7.9,
-        "gtemp": 6.5,
-        "samenv": "Licht bewolkt",
-        "lv": 86,
-        "windr": "ZZW",
-        "windrgr": 199,
-        "windms": 2.31,
-        "windbft": 2,
-        "windknp": 4.5,
-        "windkmh": 8.3,
-        "luchtd": 1022.53,
-        "ldmmhg": 767,
-        "dauwp": 5.7,
-        "zicht": 11200,
-        "gr": 0,
-        "verw": "Aan de noordwestkust een bui, morgen meer zon.",
-        "sup": "07:45",
-        "sunder": "17:00",
-        "image": "wolkennacht",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "-",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-11-08T20:55:18.717950"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
-        "timestamp": 1794182883,
-        "time": "09-11-2026 01:08:03",
-        "temp": 6.2,
-        "gtemp": 5.5,
-        "samenv": "Zwaar bewolkt",
-        "lv": 96,
-        "windr": "ZZO",
-        "windrgr": 137.3,
-        "windms": 1.36,
-        "windbft": 1,
-        "windknp": 2.6,
-        "windkmh": 4.9,
-        "luchtd": 1021.64,
-        "ldmmhg": 766,
-        "dauwp": 5.7,
-        "zicht": 4220,
-        "gr": 0,
-        "verw": "Aan de noordwestkust een bui, morgen meer zon.",
-        "sup": "07:47",
-        "sunder": "16:59",
-        "image": "wolkennacht",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "-",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-11-09T00:17:23.002419"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1794208681,
         "time": "09-11-2026 08:18:01",
         "temp": 5.1,
@@ -970,5 +898,41 @@
       }
     ],
     "opgehaald_op": "2026-11-15T20:46:07.779697"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1794788882,
+        "time": "16-11-2026 01:28:02",
+        "temp": 9.6,
+        "gtemp": 8.2,
+        "samenv": "Zwaar bewolkt",
+        "lv": 96,
+        "windr": "ZZW",
+        "windrgr": 199.2,
+        "windms": 2.78,
+        "windbft": 2,
+        "windknp": 5.4,
+        "windkmh": 10,
+        "luchtd": 995.223,
+        "ldmmhg": 746,
+        "dauwp": 9.1,
+        "zicht": 22000,
+        "gr": 0,
+        "verw": "Overwegend bewolkt en af en toe regen. Morgen enkele buien",
+        "sup": "07:59",
+        "sunder": "16:48",
+        "image": "wolkennacht",
+        "alarm": 0,
+        "lkop": "In het zuidwestelijk kustgebied mogelijk zware windstoten",
+        "ltekst": "In het zuidwestelijk kustgebied mogelijk zware windstoten tot ongeveer 85 km/uur. In het midden en zuiden van Limburg ongeveer 60% kans op onweersbuien met windstoten van 75-90 km/uur.",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-11-16T00:35:01.182775"
   }
 ]
