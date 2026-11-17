@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1794326283,
-        "time": "10-11-2026 16:58:03",
-        "temp": 4.5,
-        "gtemp": 1.9,
-        "samenv": "Licht bewolkt",
-        "lv": 99,
-        "windr": "O",
-        "windrgr": 77,
-        "windms": 2.99,
-        "windbft": 2,
-        "windknp": 5.8,
-        "windkmh": 10.8,
-        "luchtd": 1011.04,
-        "ldmmhg": 758,
-        "dauwp": 4.4,
-        "zicht": 2610,
-        "gr": 0,
-        "verw": "In het midden, oosten en noorden nevel en (dichte) mist, elders zon.",
-        "sup": "07:48",
-        "sunder": "16:57",
-        "image": "wolkennacht",
-        "alarm": 0,
-        "lkop": "In het noorden plaatselijk dichte mist",
-        "ltekst": "In het noorden komt plaatselijk dichte mist voor. De komende uren kan de mist zich weer gaan uitbreiden. In de nacht en ochtend komt er in de noordelijke helft plaatselijk dichte mist voor. In de tweede helft van de ochtend lost de (dichte) mist langzaam op. Dinsdagavond, in de nacht naar woensdag en woensdagochtend 11 november is er in de noordelijke helft van het land kans op dichte mist.",
-        "wrschklr": "groen",
-        "wrsch_g": "10-11-2026 21:00",
-        "wrsch_gts": 1794340800,
-        "wrsch_gc": "geel"
-      }
-    ],
-    "opgehaald_op": "2026-11-10T15:59:54.228016"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1794346083,
         "time": "10-11-2026 22:28:03",
         "temp": 4.4,
@@ -934,5 +898,41 @@
       }
     ],
     "opgehaald_op": "2026-11-17T09:56:14.008904"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1794941282,
+        "time": "17-11-2026 19:48:02",
+        "temp": 11.4,
+        "gtemp": 9.3,
+        "samenv": "Zwaar bewolkt",
+        "lv": 80,
+        "windr": "ZW",
+        "windrgr": 221.2,
+        "windms": 6.37,
+        "windbft": 4,
+        "windknp": 12.4,
+        "windkmh": 22.9,
+        "luchtd": 979.917,
+        "ldmmhg": 735,
+        "dauwp": 8.1,
+        "zicht": 40000,
+        "gr": 0,
+        "verw": "Wisselvallig en nat herfstweer met vanmiddag ook veel wind.",
+        "sup": "08:01",
+        "sunder": "16:47",
+        "image": "wolkennacht",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "-",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-11-17T18:56:26.858972"
   }
 ]
