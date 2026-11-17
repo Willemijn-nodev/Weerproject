@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1794272282,
-        "time": "10-11-2026 01:58:02",
-        "temp": -0.8,
-        "gtemp": -0.8,
-        "samenv": "Mist",
-        "lv": 98,
-        "windr": "NNO",
-        "windrgr": 7.7,
-        "windms": 0.84,
-        "windbft": 1,
-        "windknp": 1.6,
-        "windkmh": 3,
-        "luchtd": 1014.84,
-        "ldmmhg": 761,
-        "dauwp": -1.1,
-        "zicht": 907,
-        "gr": 0,
-        "verw": "Komende nacht (dichte) mist.",
-        "sup": "07:48",
-        "sunder": "16:57",
-        "image": "nachtmist",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "-",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-11-10T01:02:06.784714"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1794296882,
         "time": "10-11-2026 08:48:02",
         "temp": -0.9,
@@ -934,5 +898,41 @@
       }
     ],
     "opgehaald_op": "2026-11-16T18:49:08.996076"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1794878283,
+        "time": "17-11-2026 02:18:03",
+        "temp": 0.6,
+        "gtemp": -1.6,
+        "samenv": "Licht bewolkt",
+        "lv": 99,
+        "windr": "ZO",
+        "windrgr": 119.6,
+        "windms": 1.87,
+        "windbft": 2,
+        "windknp": 3.6,
+        "windkmh": 6.7,
+        "luchtd": 999.53,
+        "ldmmhg": 750,
+        "dauwp": 0.3,
+        "zicht": 9170,
+        "gr": 0,
+        "verw": "Wisselvallig herfstweer met buien en morgen veel wind.",
+        "sup": "08:01",
+        "sunder": "16:47",
+        "image": "wolkennacht",
+        "alarm": 0,
+        "lkop": "Langs de kust kans op zware windstoten, bij (onweers)buien mogelijk ook landinwaarts.",
+        "ltekst": "In het zuidwestelijk kustgebied mogelijk zware windstoten tot ongeveer 85 km/uur, vooral in of nabij buien. Bij (onweers)buien dieper landinwaarts ook kans op zware windstoten van rond 75 km/u.",
+        "wrschklr": "groen",
+        "wrsch_g": "17-11-2026 12:00",
+        "wrsch_gts": 1794913200,
+        "wrsch_gc": "geel"
+      }
+    ],
+    "opgehaald_op": "2026-11-17T01:21:11.364831"
   }
 ]
