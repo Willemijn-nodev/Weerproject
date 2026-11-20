@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1794565082,
-        "time": "13-11-2026 11:18:02",
-        "temp": 8.8,
-        "gtemp": 7,
-        "samenv": "Zwaar bewolkt",
-        "lv": 72,
-        "windr": "W",
-        "windrgr": 279.3,
-        "windms": 3.13,
-        "windbft": 2,
-        "windknp": 6.1,
-        "windkmh": 11.3,
-        "luchtd": 1013.13,
-        "ldmmhg": 760,
-        "dauwp": 3.7,
-        "zicht": 43500,
-        "gr": 133,
-        "verw": "Vandaag enkele buien, maar ook zon. Zaterdag zonnig en droog",
-        "sup": "07:54",
-        "sunder": "16:52",
-        "image": "bewolkt",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "-",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-11-13T10:20:38.569979"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1794593882,
         "time": "13-11-2026 19:18:02",
         "temp": 6.6,
@@ -898,5 +862,41 @@
       }
     ],
     "opgehaald_op": "2026-11-20T05:44:32.815215"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1795184883,
+        "time": "20-11-2026 15:28:03",
+        "temp": 7.6,
+        "gtemp": 6,
+        "samenv": "Licht bewolkt",
+        "lv": 69,
+        "windr": "NNO",
+        "windrgr": 8.8,
+        "windms": 2.41,
+        "windbft": 2,
+        "windknp": 4.7,
+        "windkmh": 8.7,
+        "luchtd": 1004.23,
+        "ldmmhg": 753,
+        "dauwp": 2.4,
+        "zicht": 45600,
+        "gr": 122,
+        "verw": "Vooral in het zuiden regen., verder droog en meer zon",
+        "sup": "08:06",
+        "sunder": "16:43",
+        "image": "lichtbewolkt",
+        "alarm": 0,
+        "lkop": "In de nacht en ochtend kans op dichte mist.",
+        "ltekst": "In de nacht en ochtend kans op dichte mist, de mist lost waarschijnlijk in de loop van de ochtend op.",
+        "wrschklr": "groen",
+        "wrsch_g": "22-11-2026 02:00",
+        "wrsch_gts": 1795309200,
+        "wrsch_gc": "geel"
+      }
+    ],
+    "opgehaald_op": "2026-11-20T14:36:38.792382"
   }
 ]
