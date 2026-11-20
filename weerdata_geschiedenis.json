@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1794593882,
-        "time": "13-11-2026 19:18:02",
-        "temp": 6.6,
-        "gtemp": 4.8,
-        "samenv": "Lichte regen",
-        "lv": 86,
-        "windr": "W",
-        "windrgr": 272.2,
-        "windms": 2.51,
-        "windbft": 2,
-        "windknp": 4.9,
-        "windkmh": 9,
-        "luchtd": 1017.14,
-        "ldmmhg": 763,
-        "dauwp": 4.5,
-        "zicht": 18900,
-        "gr": 0,
-        "verw": "Eerst nog een enkele bui. Zaterdag zonnig en droog",
-        "sup": "07:54",
-        "sunder": "16:52",
-        "image": "regen",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "-",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-11-13T18:19:43.283575"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1794614282,
         "time": "14-11-2026 00:58:02",
         "temp": 0.4,
@@ -898,5 +862,41 @@
       }
     ],
     "opgehaald_op": "2026-11-20T14:36:38.792382"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1795211882,
+        "time": "20-11-2026 22:58:02",
+        "temp": 0.1,
+        "gtemp": -2.4,
+        "samenv": "Licht bewolkt",
+        "lv": 98,
+        "windr": "W",
+        "windrgr": 263.6,
+        "windms": 2.04,
+        "windbft": 2,
+        "windknp": 4,
+        "windkmh": 7.3,
+        "luchtd": 1012.44,
+        "ldmmhg": 759,
+        "dauwp": -0.2,
+        "zicht": 6940,
+        "gr": 0,
+        "verw": "Zonnige perioden en een enkele bui.",
+        "sup": "08:06",
+        "sunder": "16:43",
+        "image": "wolkennacht",
+        "alarm": 0,
+        "lkop": "In de nacht en ochtend kans op dichte mist.",
+        "ltekst": "In de nacht en ochtend kans op dichte mist, de mist lost waarschijnlijk in de loop van de ochtend op.",
+        "wrschklr": "groen",
+        "wrsch_g": "22-11-2026 02:00",
+        "wrsch_gts": 1795309200,
+        "wrsch_gc": "geel"
+      }
+    ],
+    "opgehaald_op": "2026-11-20T22:08:29.533679"
   }
 ]
