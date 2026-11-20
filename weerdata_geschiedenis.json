@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1794536282,
-        "time": "13-11-2026 03:18:02",
-        "temp": 2.6,
-        "gtemp": 0.1,
-        "samenv": "Licht bewolkt",
-        "lv": 98,
-        "windr": "W",
-        "windrgr": 273.4,
-        "windms": 2.41,
-        "windbft": 2,
-        "windknp": 4.7,
-        "windkmh": 8.7,
-        "luchtd": 1007.33,
-        "ldmmhg": 756,
-        "dauwp": 2.3,
-        "zicht": 21000,
-        "gr": 0,
-        "verw": "Vandaag enkele buien. Zaterdag zonnig en droog",
-        "sup": "07:54",
-        "sunder": "16:52",
-        "image": "wolkennacht",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "-",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-11-13T02:19:24.141743"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1794565082,
         "time": "13-11-2026 11:18:02",
         "temp": 8.8,
@@ -898,5 +862,41 @@
       }
     ],
     "opgehaald_op": "2026-11-20T00:04:02.385468"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1795153081,
+        "time": "20-11-2026 06:38:01",
+        "temp": 4.7,
+        "gtemp": 3,
+        "samenv": "Motregen of motsneeuw",
+        "lv": 95,
+        "windr": "ONO",
+        "windrgr": 55.4,
+        "windms": 1.98,
+        "windbft": 2,
+        "windknp": 3.8,
+        "windkmh": 7.1,
+        "luchtd": 998.127,
+        "ldmmhg": 749,
+        "dauwp": 4.1,
+        "zicht": 14200,
+        "gr": 0,
+        "verw": "Vannacht in de zuidelijke helft regen. Overdag steeds droger en meer zon",
+        "sup": "08:06",
+        "sunder": "16:43",
+        "image": "sneeuw",
+        "alarm": 0,
+        "lkop": "In de nacht en ochtend kans op dichte mist.",
+        "ltekst": "In de nacht en ochtend kans op dichte mist, de mist lost waarschijnlijk in de loop van de ochtend op.",
+        "wrschklr": "groen",
+        "wrsch_g": "22-11-2026 02:00",
+        "wrsch_gts": 1795309200,
+        "wrsch_gc": "geel"
+      }
+    ],
+    "opgehaald_op": "2026-11-20T05:44:32.815215"
   }
 ]
