@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1794632282,
-        "time": "14-11-2026 05:58:02",
-        "temp": -1.1,
-        "gtemp": -2.9,
-        "samenv": "Mist",
-        "lv": 98,
-        "windr": "ZZO",
-        "windrgr": 140.8,
-        "windms": 1.44,
-        "windbft": 1,
-        "windknp": 2.8,
-        "windkmh": 5.2,
-        "luchtd": 1019.54,
-        "ldmmhg": 765,
-        "dauwp": -1.4,
-        "zicht": 211,
-        "gr": 0,
-        "verw": "Plaatselijk mist. Overdag zonnig en droog. Morgenmiddag later regen",
-        "sup": "07:55",
-        "sunder": "16:51",
-        "image": "nachtmist",
-        "alarm": 0,
-        "lkop": "Aan de noordwest- en noordkust mogelijk windstoten van ongeveer 90 km/uur.",
-        "ltekst": "Aan de noordwest- en noordkust 30-40% kans op windstoten van ongeveer 90 km/uur.",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-11-14T05:04:28.848726"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1794657483,
         "time": "14-11-2026 12:58:03",
         "temp": 8.1,
@@ -898,5 +862,41 @@
       }
     ],
     "opgehaald_op": "2026-11-21T03:42:16.705309"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1795262282,
+        "time": "21-11-2026 12:58:02",
+        "temp": 9.1,
+        "gtemp": 7.3,
+        "samenv": "Zwaar bewolkt",
+        "lv": 80,
+        "windr": "WZW",
+        "windrgr": 241,
+        "windms": 3.21,
+        "windbft": 2,
+        "windknp": 6.2,
+        "windkmh": 11.6,
+        "luchtd": 1018.24,
+        "ldmmhg": 764,
+        "dauwp": 5.8,
+        "zicht": 42000,
+        "gr": 192,
+        "verw": "Zon, maar ook enkele buien. Morgen droog en eerst kans op mist",
+        "sup": "08:07",
+        "sunder": "16:42",
+        "image": "bewolkt",
+        "alarm": 0,
+        "lkop": "In de nacht en ochtend kans op dichte mist.",
+        "ltekst": "In de nacht en ochtend kans op dichte mist, de mist lost waarschijnlijk in de loop van de ochtend op.",
+        "wrschklr": "groen",
+        "wrsch_g": "22-11-2026 02:00",
+        "wrsch_gts": 1795309200,
+        "wrsch_gc": "geel"
+      }
+    ],
+    "opgehaald_op": "2026-11-21T11:59:41.975636"
   }
 ]
