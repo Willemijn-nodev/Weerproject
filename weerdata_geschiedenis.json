@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1794854883,
-        "time": "16-11-2026 19:48:03",
-        "temp": 2.9,
-        "gtemp": -0.6,
-        "samenv": "Zwaar bewolkt",
-        "lv": 85,
-        "windr": "WZW",
-        "windrgr": 237.7,
-        "windms": 2.51,
-        "windbft": 2,
-        "windknp": 4.9,
-        "windkmh": 9,
-        "luchtd": 1003.33,
-        "ldmmhg": 753,
-        "dauwp": 2.6,
-        "zicht": 47500,
-        "gr": 0,
-        "verw": "Wisselvallig herfstweer met buien.",
-        "sup": "07:59",
-        "sunder": "16:48",
-        "image": "wolkennacht",
-        "alarm": 0,
-        "lkop": "Langs de kust kans op zware windstoten, bij (onweers)buien mogelijk ook landinwaarts.",
-        "ltekst": "In het zuidwestelijk kustgebied mogelijk zware windstoten tot ongeveer 85 km/uur, vooral in of nabij buien. Bij (onweers)buien dieper landinwaarts ook kans op zware windstoten van rond 75 km/u.",
-        "wrschklr": "groen",
-        "wrsch_g": "17-11-2026 12:00",
-        "wrsch_gts": 1794913200,
-        "wrsch_gc": "geel"
-      }
-    ],
-    "opgehaald_op": "2026-11-16T18:49:08.996076"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1794878283,
         "time": "17-11-2026 02:18:03",
         "temp": 0.6,
@@ -826,5 +790,41 @@
       }
     ],
     "opgehaald_op": "2026-11-23T10:02:15.101870"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1795471082,
+        "time": "23-11-2026 22:58:02",
+        "temp": -2.6,
+        "gtemp": -2.6,
+        "samenv": "Licht bewolkt",
+        "lv": 98,
+        "windr": "ZW",
+        "windrgr": 207.2,
+        "windms": 1.01,
+        "windbft": 1,
+        "windknp": 2,
+        "windkmh": 3.6,
+        "luchtd": 1027.05,
+        "ldmmhg": 770,
+        "dauwp": -3,
+        "zicht": 11200,
+        "gr": 0,
+        "verw": "In het zuidoosten mist en in het noorden een bui.",
+        "sup": "08:11",
+        "sunder": "16:40",
+        "image": "wolkennacht",
+        "alarm": 0,
+        "lkop": "Dichte mist in het zuidoosten",
+        "ltekst": "In het zuidoosten van het land komt plaatselijk dichte mist voor. De mist kan zich de komende uren verder uitbreiden. In het zuidoosten is er kans op dichte mist.",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-11-23T21:59:45.993953"
   }
 ]
