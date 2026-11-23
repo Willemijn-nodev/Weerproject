@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1794814082,
-        "time": "16-11-2026 08:28:02",
-        "temp": 8.9,
-        "gtemp": 5.9,
-        "samenv": "Lichte regen",
-        "lv": 96,
-        "windr": "W",
-        "windrgr": 268.2,
-        "windms": 3.98,
-        "windbft": 3,
-        "windknp": 7.7,
-        "windkmh": 14.3,
-        "luchtd": 999.223,
-        "ldmmhg": 749,
-        "dauwp": 8.4,
-        "zicht": 10700,
-        "gr": 523,
-        "verw": "Wisselvallig herfstweer met geregeld buien.",
-        "sup": "07:59",
-        "sunder": "16:48",
-        "image": "regen",
-        "alarm": 0,
-        "lkop": "Kans op onweersbuien met zware winstoten",
-        "ltekst": "In het midden en zuiden van Limburg ongeveer 60% kans op onweersbuien met windstoten van 75-90 km/uur. In het zuidwestelijk kustgebied mogelijk zware windstoten tot ongeveer 85 km/uur.",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-11-16T07:31:10.581767"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1794854883,
         "time": "16-11-2026 19:48:03",
         "temp": 2.9,
@@ -826,5 +790,41 @@
       }
     ],
     "opgehaald_op": "2026-11-23T01:19:51.709689"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1795427882,
+        "time": "23-11-2026 10:58:02",
+        "temp": 3.6,
+        "gtemp": 3.6,
+        "samenv": "Onbewolkt",
+        "lv": 85,
+        "windr": "NW",
+        "windrgr": 295.7,
+        "windms": 0.86,
+        "windbft": 1,
+        "windknp": 1.7,
+        "windkmh": 3.1,
+        "luchtd": 1026.15,
+        "ldmmhg": 770,
+        "dauwp": 0.1,
+        "zicht": 25800,
+        "gr": 222,
+        "verw": "Vrij zonnig en droog, in het noorden en uiterste zuidoosten bewolkt.",
+        "sup": "08:11",
+        "sunder": "16:40",
+        "image": "zonnig",
+        "alarm": 0,
+        "lkop": "Kans op dichte mist.",
+        "ltekst": "In het zuidoosten is er kans op dichte mist.",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-11-23T10:02:15.101870"
   }
 ]
