@@ -3,78 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1794775083,
-        "time": "15-11-2026 21:38:03",
-        "temp": 9.5,
-        "gtemp": 7.3,
-        "samenv": "Zwaar bewolkt",
-        "lv": 96,
-        "windr": "ZZO",
-        "windrgr": 184.2,
-        "windms": 4.12,
-        "windbft": 3,
-        "windknp": 8,
-        "windkmh": 14.8,
-        "luchtd": 996.526,
-        "ldmmhg": 747,
-        "dauwp": 8.2,
-        "zicht": 47400,
-        "gr": 0,
-        "verw": "Bewolkt en van het zuidwesten uit regen. Morgen enkele buien",
-        "sup": "07:57",
-        "sunder": "16:50",
-        "image": "wolkennacht",
-        "alarm": 0,
-        "lkop": "Er zijn geen waarschuwingen",
-        "ltekst": "-",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-11-15T20:46:07.779697"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
-        "timestamp": 1794788882,
-        "time": "16-11-2026 01:28:02",
-        "temp": 9.6,
-        "gtemp": 8.2,
-        "samenv": "Zwaar bewolkt",
-        "lv": 96,
-        "windr": "ZZW",
-        "windrgr": 199.2,
-        "windms": 2.78,
-        "windbft": 2,
-        "windknp": 5.4,
-        "windkmh": 10,
-        "luchtd": 995.223,
-        "ldmmhg": 746,
-        "dauwp": 9.1,
-        "zicht": 22000,
-        "gr": 0,
-        "verw": "Overwegend bewolkt en af en toe regen. Morgen enkele buien",
-        "sup": "07:59",
-        "sunder": "16:48",
-        "image": "wolkennacht",
-        "alarm": 0,
-        "lkop": "In het zuidwestelijk kustgebied mogelijk zware windstoten",
-        "ltekst": "In het zuidwestelijk kustgebied mogelijk zware windstoten tot ongeveer 85 km/uur. In het midden en zuiden van Limburg ongeveer 60% kans op onweersbuien met windstoten van 75-90 km/uur.",
-        "wrschklr": "groen",
-        "wrsch_g": "-",
-        "wrsch_gts": 0,
-        "wrsch_gc": "-"
-      }
-    ],
-    "opgehaald_op": "2026-11-16T00:35:01.182775"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1794814082,
         "time": "16-11-2026 08:28:02",
         "temp": 8.9,
@@ -862,5 +790,41 @@
       }
     ],
     "opgehaald_op": "2026-11-22T20:06:46.689343"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1795396681,
+        "time": "23-11-2026 02:18:01",
+        "temp": -3.2,
+        "gtemp": -5.7,
+        "samenv": "Onbewolkt",
+        "lv": 98,
+        "windr": "NO",
+        "windrgr": 32.9,
+        "windms": 1.65,
+        "windbft": 2,
+        "windknp": 3.2,
+        "windkmh": 5.9,
+        "luchtd": 1021.34,
+        "ldmmhg": 766,
+        "dauwp": -3.7,
+        "zicht": 14100,
+        "gr": 0,
+        "verw": "Overdag vrij zonnig en droog, in het zuidoosten eerst mist.",
+        "sup": "08:11",
+        "sunder": "16:40",
+        "image": "zonnig",
+        "alarm": 0,
+        "lkop": "Dichte mist in Limburg",
+        "ltekst": "In Limburg komt plaatselijk dichte mist voor.",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-11-23T01:19:51.709689"
   }
 ]
