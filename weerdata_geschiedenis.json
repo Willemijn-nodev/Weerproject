@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1794908882,
-        "time": "17-11-2026 10:48:02",
-        "temp": 5.3,
-        "gtemp": 1.2,
-        "samenv": "Regen.",
-        "lv": 98,
-        "windr": "ZO",
-        "windrgr": 125.3,
-        "windms": 6.18,
-        "windbft": 4,
-        "windknp": 12,
-        "windkmh": 22.2,
-        "luchtd": 981.124,
-        "ldmmhg": 736,
-        "dauwp": 5.1,
-        "zicht": 4740,
-        "gr": 24,
-        "verw": "Wisselvallig herfstweer met buien en veel wind.",
-        "sup": "08:01",
-        "sunder": "16:47",
-        "image": "regen",
-        "alarm": 0,
-        "lkop": "Langs de kust kans op zware windstoten, bij (onweers)buien mogelijk ook landinwaarts.",
-        "ltekst": "In het zuidwestelijk kustgebied mogelijk zware windstoten tot ongeveer 85 km/uur, vooral in of nabij buien. Bij (onweers)buien dieper landinwaarts ook kans op zware windstoten van rond 75 km/u.",
-        "wrschklr": "groen",
-        "wrsch_g": "17-11-2026 12:00",
-        "wrsch_gts": 1794913200,
-        "wrsch_gc": "geel"
-      }
-    ],
-    "opgehaald_op": "2026-11-17T09:56:14.008904"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1794941282,
         "time": "17-11-2026 19:48:02",
         "temp": 11.4,
@@ -826,5 +790,41 @@
       }
     ],
     "opgehaald_op": "2026-11-24T05:45:25.692777"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1795538282,
+        "time": "24-11-2026 17:38:02",
+        "temp": 1.4,
+        "gtemp": -2.6,
+        "samenv": "Licht bewolkt",
+        "lv": 70,
+        "windr": "O",
+        "windrgr": 94.5,
+        "windms": 3.98,
+        "windbft": 3,
+        "windknp": 7.7,
+        "windkmh": 14.3,
+        "luchtd": 1021.55,
+        "ldmmhg": 766,
+        "dauwp": -3.5,
+        "zicht": 40500,
+        "gr": 0,
+        "verw": "Zonnig en droog.",
+        "sup": "08:12",
+        "sunder": "16:39",
+        "image": "wolkennacht",
+        "alarm": 0,
+        "lkop": "Er zijn geen waarschuwingen",
+        "ltekst": "-",
+        "wrschklr": "groen",
+        "wrsch_g": "-",
+        "wrsch_gts": 0,
+        "wrsch_gc": "-"
+      }
+    ],
+    "opgehaald_op": "2026-11-24T16:44:25.527348"
   }
 ]
