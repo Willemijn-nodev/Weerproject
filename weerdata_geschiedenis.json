@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1795075681,
-        "time": "19-11-2026 09:08:01",
-        "temp": 9.6,
-        "gtemp": 7.8,
-        "samenv": "Zwaar bewolkt",
-        "lv": 94,
-        "windr": "ZZW",
-        "windrgr": 202.5,
-        "windms": 3.46,
-        "windbft": 3,
-        "windknp": 6.7,
-        "windkmh": 12.5,
-        "luchtd": 982.716,
-        "ldmmhg": 737,
-        "dauwp": 8.7,
-        "zicht": 39100,
-        "gr": 18,
-        "verw": "Wisselvallig herfstweer. Vrijdag van het noorden uit meer zon en droger",
-        "sup": "08:04",
-        "sunder": "16:44",
-        "image": "bewolkt",
-        "alarm": 0,
-        "lkop": "In de nacht en ochtend kans op dichte mist.",
-        "ltekst": "In de nacht en ochtend kans op dichte mist, de mist lost waarschijnlijk in de loop van de ochtend op.",
-        "wrschklr": "groen",
-        "wrsch_g": "22-11-2026 02:00",
-        "wrsch_gts": 1795309200,
-        "wrsch_gc": "geel"
-      }
-    ],
-    "opgehaald_op": "2026-11-19T08:11:41.389736"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1795110482,
         "time": "19-11-2026 18:48:02",
         "temp": 7.9,
@@ -790,5 +754,41 @@
       }
     ],
     "opgehaald_op": "2026-11-26T03:21:40.946466"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1795699082,
+        "time": "26-11-2026 14:18:02",
+        "temp": 0.9,
+        "gtemp": -3.9,
+        "samenv": "Zwaar bewolkt",
+        "lv": 69,
+        "windr": "O",
+        "windrgr": 93,
+        "windms": 5.13,
+        "windbft": 3,
+        "windknp": 10,
+        "windkmh": 18.5,
+        "luchtd": 1021.15,
+        "ldmmhg": 766,
+        "dauwp": -4.3,
+        "zicht": 20400,
+        "gr": 147,
+        "verw": "Koud, droog en op veel plaatsen zon.",
+        "sup": "08:15",
+        "sunder": "16:37",
+        "image": "bewolkt",
+        "alarm": 0,
+        "lkop": "Plaatselijk kans op dichte mist",
+        "ltekst": "In het westen van het land is er zondagavond en in de nacht naar maandag plaatselijk kans op dichte mist, overdag lost de mist langzaam op.",
+        "wrschklr": "groen",
+        "wrsch_g": "30-11-2026 00:00",
+        "wrsch_gts": 1795993200,
+        "wrsch_gc": "geel"
+      }
+    ],
+    "opgehaald_op": "2026-11-26T13:25:05.284754"
   }
 ]
