@@ -3,42 +3,6 @@
     "liveweer": [
       {
         "plaats": "De Bilt",
-        "timestamp": 1795132682,
-        "time": "20-11-2026 00:58:02",
-        "temp": 5.3,
-        "gtemp": 2.7,
-        "samenv": "Lichte regen",
-        "lv": 98,
-        "windr": "O",
-        "windrgr": 72.2,
-        "windms": 3.15,
-        "windbft": 2,
-        "windknp": 6.1,
-        "windkmh": 11.3,
-        "luchtd": 994.923,
-        "ldmmhg": 746,
-        "dauwp": 4.9,
-        "zicht": 4480,
-        "gr": 0,
-        "verw": "Vannacht in de zuidelijke helft regen. Overdag steeds droger en meer zon",
-        "sup": "08:06",
-        "sunder": "16:43",
-        "image": "regen",
-        "alarm": 0,
-        "lkop": "In de nacht en ochtend kans op dichte mist.",
-        "ltekst": "In de nacht en ochtend kans op dichte mist, de mist lost waarschijnlijk in de loop van de ochtend op.",
-        "wrschklr": "groen",
-        "wrsch_g": "22-11-2026 02:00",
-        "wrsch_gts": 1795309200,
-        "wrsch_gc": "geel"
-      }
-    ],
-    "opgehaald_op": "2026-11-20T00:04:02.385468"
-  },
-  {
-    "liveweer": [
-      {
-        "plaats": "De Bilt",
         "timestamp": 1795153081,
         "time": "20-11-2026 06:38:01",
         "temp": 4.7,
@@ -790,5 +754,41 @@
       }
     ],
     "opgehaald_op": "2026-11-26T22:46:15.374627"
+  },
+  {
+    "liveweer": [
+      {
+        "plaats": "De Bilt",
+        "timestamp": 1795754282,
+        "time": "27-11-2026 05:38:02",
+        "temp": -4.9,
+        "gtemp": -8.6,
+        "samenv": "Onbewolkt",
+        "lv": 91,
+        "windr": "O",
+        "windrgr": 75.8,
+        "windms": 2.31,
+        "windbft": 2,
+        "windknp": 4.5,
+        "windkmh": 8.3,
+        "luchtd": 1022.95,
+        "ldmmhg": 767,
+        "dauwp": -6.1,
+        "zicht": 13300,
+        "gr": 0,
+        "verw": "Koud, droog en overdag veel zon.",
+        "sup": "08:17",
+        "sunder": "16:36",
+        "image": "zonnig",
+        "alarm": 0,
+        "lkop": "Maandag kans op dichte mist",
+        "ltekst": "Maandag is er vooral in de nacht en ochtend kans op dichte mist. De mist lost overdag slechts langzaam op.",
+        "wrschklr": "groen",
+        "wrsch_g": "30-11-2026 00:00",
+        "wrsch_gts": 1795993200,
+        "wrsch_gc": "geel"
+      }
+    ],
+    "opgehaald_op": "2026-11-27T04:44:07.507065"
   }
 ]
